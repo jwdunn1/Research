@@ -1,0 +1,54 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<script src="p5.min.js"></script>
+<script src="ImprovedNoise.js"></script>
+<script>
+/*
+ * @name Noise3D
+ * @frame 640,640
+ * @description Using 3D noise to create simple animated texture.
+ * forked from https://editor.p5js.org/p5/sketches/BJrEBY9wTz
+ */
+
+var perlin = ImprovedNoise();
+
+var noiseVal;
+//Increment x by 0.01 
+var x_increment=0.01;
+//Increment z by 0.02 every draw() cycle
+var z_increment=0.02;
+
+//Offset values
+var z_off,y_off,x_off;
+
+function setup() {
+  //Create the Canvas
+  createCanvas(640,640);
+  //Define frame rate
+  frameRate(20);
+  //Initial value of z_off
+  z_off=0;
+	noStroke();
+}
+
+
+function draw() {
+  x_off=0;
+  y_off=0;	
+  //Make the background black
+  background(0);
+
+  //For each area calculate noise value
+  for (var y = 0; y < height; y=y+10) {
+    x_off+=x_increment;
+    y_off=0;
+    for (var x = 0; x < width; x=x+10) {
+      //Calculate and draw each box
+      noiseVal = perlin.noise(x_off,y_off*5,z_off*5);
+      fill(noiseVal*255);
+      y_off+=x_increment;
+      rect(x,y, 10,10);
+    }
+  }
+  z_off+=z_increment
+}
+</script>

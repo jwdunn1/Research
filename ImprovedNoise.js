@@ -52,10 +52,13 @@ var perlin = function(fl) {
       z = z || 0;
       var r = fract(x,y,z); // first pass
       var f = decay, o=2;
-      for (var i=1; i<octaves; i++) {
-        r += f*fract(x*o,y*o,z*o);
-        o*=2.0;
-        f*=0.5;
+      if (octaves>1) { // additional passes
+        r = r*f; f*=0.5;
+        for (var i=1; i<octaves; i++) {
+          r += f*fract(x*o,y*o,z*o);
+          o*=2.0;
+          f*=0.5;
+        }
       }
       return r;
     }

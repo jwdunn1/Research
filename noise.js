@@ -381,23 +381,27 @@ var improved = function(fl) {
       }
       var r = frac(x, y, z); // first pass
       var f = perlin_amp_falloff, o=2;
-      for (var i=1; i<perlin_octaves; i++) {
-        r += f*frac(x*o, y*o, z*o);
-        o*=2.0;
-        f*=0.5;
+      if (perlin_octaves>1) { // additional passes
+        r = r*f; f*=0.5;
+        for (var i=1; i<perlin_octaves; i++) {
+          r += f*frac(x*o, y*o, z*o);
+          o*=2.0;
+          f*=0.5;
+        }
       }
-      return r;
+      return r * 0.5 + 0.5;
     }
   };
 }(Math.floor);
 
 /**
+ *
  * @method inoise
  * @param  {Number} x   x-coordinate in noise space
  * @param  {Number} [y] y-coordinate in noise space
  * @param  {Number} [z] z-coordinate in noise space
- * @return {Number}     Perlin noise value (between 0 and 1) at specified
- *                      coordinates
+ * @return {Number}     Perlin noise value (between 0 and 1) at 
+ *                      specified coordinates
  * @example
  * <div>
  * <code>
@@ -406,8 +410,8 @@ var improved = function(fl) {
  * function draw() {
  *   background(204);
  *   xoff = xoff + 0.01;
- *   var n = inoise(xoff) * width;
- *   line(n, 0, n, height);
+ *   var n = inoise(xoff);
+ *   line(n, 0, n * width, height);
  * }
  * </code>
  * </div>

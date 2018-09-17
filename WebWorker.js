@@ -1,4 +1,4 @@
-// See line demos here:
+// See live demos here:
 // http://jsfiddle.net/intrinsica/nbhaxg7k
 // https://www.openprocessing.org/sketch/589610 
 

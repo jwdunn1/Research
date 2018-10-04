@@ -1,19 +1,45 @@
 /* a minimal implementation of the p5js framework -
    enough to get the following basic sketch operational
 
-function setup() { // called once
-  createCanvas(windowWidth, windowHeight);
-  background(100);
+function setup() {
+	createCanvas(windowWidth,windowHeight);
+	textSize(100);
+  textFont('Georgia');
 }
 
-function draw() { // called on every frame update
-  ellipse(mouseX, mouseY, 20, 20);
+function draw() {
+	background(31);
+  
+  strokeWeight(1);
+	fill(255);
+  stroke(127);
+	text('Stroked', 10, 80);
+
+  fill(0);
+  stroke(255,0,0);
+  strokeWeight(4);
+	rect(mouseX+100,mouseY, 100,100);
+
+	fill(255);
+  noStroke();
+	text('Unstroked', width/2-200,height/2);
+
+  fill(0);
+  stroke(255,0,0);
+  strokeWeight(4);
+	rect(mouseX,mouseY, 100,100);
+
+  fill(0);
+  noStroke();
+	rect(mouseX+98, mouseY+2, 4, 100-4);
 }
 
 */
 
 (function (w) {
-  var ctx,set=false,gFill="#fff",gStroke="#000",gWeight=1;
+  var ctx,set=false,gdoStroke=true,gdoFill=true,
+      gFill="#fff",gStroke="#000",gWeight=1,
+      gtextSize=12,gtextFont='san-serif';
   w.windowWidth = w.innerWidth,
   w.windowHeight = w.innerHeight;
 
@@ -29,37 +55,79 @@ function draw() { // called on every frame update
     w.mouseX = 0, w.mouseY = 0;
     c.addEventListener("mousemove", handleEvt);
     set = true;
-  }
+  };
 
   function handleEvt(e){
     if (e.type == "mousemove") w.mouseX=e.x, w.mouseY=e.y;
   }
 
-  w.background = function(c){
+  w.background = function(r,g,b){
     if(arguments.length==1)
-      ctx.fillStyle = "rgb("+c+","+c+","+c+")";
+      ctx.fillStyle = "rgb("+r+","+r+","+r+")";
+    if(arguments.length==3)
+      ctx.fillStyle = "rgb("+r+","+g+","+b+")";
     ctx.fillRect(0,0,w.width,w.height);
-  }
+  };
 
-  w.ellipse = function(x,y,w,h){
+  w.textSize = function(s){
+    gtextSize = s;
+  };
+
+  w.textFont = function(s){
+    gtextFont = s;
+  };
+
+  w.text = function(s, x,y){
+    ctx.font = gtextSize+"px "+gtextFont;
+    ctx.fillStyle = gFill;
+    ctx.strokeStyle = gStroke;
+    ctx.lineWidth = gWeight;
+    if(gdoStroke)ctx.strokeText(s, x,y);
+    if(gdoFill)ctx.fillText(s, x,y);
+  };
+
+  w.fill = function(r,g,b){
+    if(arguments.length==1)
+      gFill = "rgb("+r+","+r+","+r+")";
+    if(arguments.length==3)
+      gFill = "rgb("+r+","+g+","+b+")";
+    gdoFill = true;
+  };
+
+  w.noFill = function(){
+    gdoFill = false;
+  };
+
+  w.stroke = function(r,g,b){
+    if(arguments.length==1)
+      gStroke = "rgb("+r+","+r+","+r+")";
+    if(arguments.length==3)
+      gStroke = "rgb("+r+","+g+","+b+")";
+    gdoStroke = true;
+  };
+
+  w.strokeWeight = function(w){
+    gWeight = w;
+    gdoStroke = true;
+  };
+
+  w.noStroke = function(){
+    gdoStroke = false;
+  };
+
+  w.rect = function(x,y,w,h){
+    var offset = (gWeight%2==0)?0:0.5;
     ctx.fillStyle = gFill;
     ctx.strokeStyle = gStroke;
     ctx.lineWidth = gWeight;
     ctx.save();
     ctx.beginPath();
     ctx.translate(x,y);
-    if (w < h) {
-      ctx.scale(1, h/w);
-      ctx.arc(0,0, w/2, 0,2*Math.PI, false);
-    }
-    else {
-      ctx.scale(w/h, 1);
-      ctx.arc(0,0, h/2, 0,2*Math.PI, false);
-    }
+    ctx.rect(offset,offset, w,h);
     ctx.restore();
-    ctx.stroke();
-    ctx.fill();
-  }
+    if(gdoFill)ctx.fill();
+    if(gdoStroke)ctx.stroke();
+  };
 
   function loop(){
     if(set && w.draw) w.draw();

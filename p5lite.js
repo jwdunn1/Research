@@ -2,36 +2,36 @@
    enough to get the following basic sketch operational
 
 function setup() {
-	createCanvas(windowWidth,windowHeight);
-	textSize(100);
+  createCanvas(windowWidth,windowHeight);
+  textSize(100);
   textFont('Georgia');
 }
 
 function draw() {
-	background(31);
+  background(31);
   
   strokeWeight(1);
-	fill(255);
+  fill(255);
   stroke(127);
-	text('Stroked', 10, 80);
+  text('Stroked', 10, 80);
 
   fill(0);
   stroke(255,0,0);
   strokeWeight(4);
-	rect(mouseX+100,mouseY, 100,100);
+  rect(mouseX+100,mouseY, 100,100);
 
-	fill(255);
+  fill(255);
   noStroke();
-	text('Unstroked', width/2-200,height/2);
+  text('Unstroked', width/2-200,height/2);
 
   fill(0);
   stroke(255,0,0);
   strokeWeight(4);
-	rect(mouseX,mouseY, 100,100);
+  rect(mouseX,mouseY, 100,100);
 
   fill(0);
   noStroke();
-	rect(mouseX+98, mouseY+2, 4, 100-4);
+  rect(mouseX+98, mouseY+2, 4, 100-4);
 }
 
 */

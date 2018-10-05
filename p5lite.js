@@ -39,9 +39,12 @@ function draw() {
 (function (w) {
   var ctx,set=false,gdoStroke=true,gdoFill=true,
       gFill="#fff",gStroke="#000",gWeight=1,
-      gtextSize=12,gtextFont='san-serif';
+      gtextSize=12,gtextFont='san-serif',gtextStyle=0;
   w.windowWidth = w.innerWidth,
-  w.windowHeight = w.innerHeight;
+  w.windowHeight = w.innerHeight,
+  w.NORMAL = 0, w.ITALIC = 1, w.BOLD = 2,
+  w.ARROW = 'default', w.HAND = 'pointer',
+  w.mouseIsPressed=false;
 
   w.createCanvas = function(width,height){
     var c = document.createElement('canvas');
@@ -54,11 +57,15 @@ function draw() {
     w.height = ctx.canvas.height;
     w.mouseX = 0, w.mouseY = 0;
     c.addEventListener("mousemove", handleEvt);
+    c.addEventListener("mousedown", handleEvt);
+    c.addEventListener("mouseup", handleEvt);
     set = true;
   };
 
   function handleEvt(e){
     if (e.type == "mousemove") w.mouseX=e.x, w.mouseY=e.y;
+    if (e.type == "mousedown") w.mouseIsPressed=true;
+    if (e.type == "mouseup") w.mouseIsPressed=false;
   }
 
   w.background = function(r,g,b){
@@ -73,12 +80,17 @@ function draw() {
     gtextSize = s;
   };
 
+  w.textStyle = function(s){
+    gtextStyle = s;
+  };
+
   w.textFont = function(s){
     gtextFont = s;
   };
 
   w.text = function(s, x,y){
     ctx.font = gtextSize+"px "+gtextFont;
+    if(gtextStyle>0) ctx.font = (gtextStyle==1? "italic " : "bold " )+ctx.font;
     ctx.fillStyle = gFill;
     ctx.strokeStyle = gStroke;
     ctx.lineWidth = gWeight;
@@ -115,6 +127,10 @@ function draw() {
     gdoStroke = false;
   };
 
+  w.cursor = function(c){
+    _.style.cursor = c;
+  };
+
   w.rect = function(x,y,w,h){
     var offset = (gWeight%2==0)?0:0.5;
     ctx.fillStyle = gFill;
@@ -124,6 +140,21 @@ function draw() {
     ctx.beginPath();
     ctx.translate(x,y);
     ctx.rect(offset,offset, w,h);
+    ctx.restore();
+    if(gdoFill)ctx.fill();
+    if(gdoStroke)ctx.stroke();
+  };
+
+  w.triangle = function(x1,y1, x2,y2, x3,y3){
+    ctx.fillStyle = gFill;
+    ctx.strokeStyle = gStroke;
+    ctx.lineWidth = gWeight;
+    ctx.save();
+    ctx.beginPath();
+    ctx.moveTo(x1,y1);
+    ctx.lineTo(x2,y2);
+    ctx.lineTo(x3,y3);
+    ctx.closePath();
     ctx.restore();
     if(gdoFill)ctx.fill();
     if(gdoStroke)ctx.stroke();

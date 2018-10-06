@@ -63,10 +63,15 @@ function draw() {
   };
 
   function handleEvt(e){
-    if (e.type == "mousemove") w.mouseX=e.x, w.mouseY=e.y;
+    if (e.type == "mousemove") {w.mouseX=e.x; w.mouseY=e.y; if(w.mouseMoved)w.mouseMoved();}
     if (e.type == "mousedown") w.mouseIsPressed=true;
     if (e.type == "mouseup") w.mouseIsPressed=false;
   }
+
+  w.scale = function(x,y){
+    if(arguments.length==1)y=x;
+    ctx.scale(x,y);
+  };
 
   w.background = function(r,g,b){
     if(arguments.length==1)
@@ -124,6 +129,7 @@ function draw() {
   };
 
   w.noStroke = function(){
+    gWeight = 0;
     gdoStroke = false;
   };
 
@@ -161,7 +167,7 @@ function draw() {
   };
 
   function loop(){
-    if(set && w.draw) w.draw();
+    if(set && w.draw) {ctx.setTransform(1,0,0,1,0,0);w.draw();}
     else if(!set && w.setup) w.setup();
     requestAnimationFrame(loop);
   }

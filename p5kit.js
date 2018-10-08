@@ -1,5 +1,5 @@
 // a minimal implementation of the p5js framework
-// gets canvas element with id="_"
+// hand-coded by jWilliamDunn
 (function (w) {
   var ctx,set=false,gdoStroke=true,gdoFill=true,
       gFill="#fff",gStroke="#000",gWeight=1,
@@ -21,19 +21,41 @@
     c.addEventListener("mousemove", handleEvt);
     c.addEventListener("mousedown", handleEvt);
     c.addEventListener("mouseup", handleEvt);
+    c.addEventListener("touchstart", handleEvt);
+    c.addEventListener("touchend", handleEvt);
     canv = c;
     set = true;
   };
 
   function handleEvt(e){
+    if (e.type == "mousedown") {
+      var rect = canv.getBoundingClientRect();
+      w.mouseX = e.x-rect.left;
+      w.mouseY = e.y-rect.top;
+      w.mouseIsPressed=true;
+      console.log("mousedown",w.mouseX,w.mouseY);
+      return;
+    }
+    if (e.type == "touchstart") {
+      var rect = canv.getBoundingClientRect();
+      w.mouseX = e.touches[0].clientX-rect.left;
+      w.mouseY = e.touches[0].clientY-rect.top;
+      w.mouseIsPressed=true;
+      console.log("touchstart",w.mouseX,w.mouseY);
+      return;
+    }
+    if (e.type == "mouseup" || e.type == "touchend") {
+      w.mouseIsPressed=false;
+      console.log("mouseup/touchend",w.mouseX,w.mouseY);
+      return;
+    }
     if (e.type == "mousemove") {
       var rect = canv.getBoundingClientRect();
       w.mouseX = e.x-rect.left;
       w.mouseY = e.y-rect.top;
       if(w.mouseMoved) w.mouseMoved();
+      console.log("mousemove",w.mouseX,w.mouseY);
     }
-    if (e.type == "mousedown") w.mouseIsPressed=true;
-    if (e.type == "mouseup") w.mouseIsPressed=false;
   }
 
   w.scale = function(x,y){

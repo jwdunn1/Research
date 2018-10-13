@@ -1,0 +1,59 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>body{margin:0;}</style>
+<script src="p5.min.js"></script>
+<script>//begin
+
+var grid = [],i,j,cellSize=20,_mode=1;
+function setup() { // called once
+  createCanvas(windowWidth, windowHeight);
+  for(i=0;i<width/cellSize;i++){
+    grid[i] = [];
+    for(j=0;j<height/cellSize;j++)
+      grid[i][j] = 0;
+  }
+}
+
+function draw() { // called on every frame update
+  background(127);
+
+  noStroke();
+  for(i=0;i<width/cellSize;i++)
+    for(j=0;j<height/cellSize;j++) {
+      switch(grid[i][j]){
+        case 0:
+          fill(127); //background
+          break;
+        case 1:
+          fill(0);
+          break;
+        case 2:
+          fill(63); //road?
+          break;
+        case 3:
+          fill(191);
+          break;
+        case 4:
+          fill(255);
+      }
+      rect(cellSize*i, cellSize*j, cellSize, cellSize);
+    }
+
+  stroke(0);
+  fill("rgba(255,255,255,.33)");
+  rect(cellSize*parseInt(mouseX/cellSize), cellSize*parseInt(mouseY/cellSize), cellSize, cellSize);
+  
+  if(mouseIsPressed) // record a click
+    grid[parseInt(mouseX/cellSize)][parseInt(mouseY/cellSize)] = _mode;
+
+}
+  
+  function keyTyped() {
+    if(key==='0') _mode = 0;
+    if(key==='1') _mode = 1;
+    if(key==='2') _mode = 2;
+    if(key==='3') _mode = 3;
+    if(key==='4') _mode = 4;
+    return false;
+  }
+
+//end</script>

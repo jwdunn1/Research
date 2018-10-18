@@ -1,0 +1,42 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>body{margin:0;}</style>
+<script src="p5.min.js"></script>
+<script>//begin
+
+// An experiment in road building and dashed line control.
+
+var ctx;
+function setup() {
+	ctx=createCanvas(windowWidth, windowHeight);
+	ctx=ctx.drawingContext;
+	pixelDensity(2);
+	strokeCap(SQUARE);
+}
+
+function draw() {
+  background(61,71,92);
+	
+	// road
+  ctx.setLineDash([]);
+  strokeWeight(50);
+	stroke(128,128,128);
+	line(mouseX, mouseY, 20, 20);
+
+	// sidelines
+	var p1 = createVector(mouseX, mouseY), p2 = createVector(20, 20);
+	var v = p5.Vector.sub(p1, p2);
+	var N = v.normalize();
+	var r = N.rotate(HALF_PI);
+  strokeWeight(1);
+	stroke(255);
+	line(mouseX+r.x*24, mouseY+r.y*24, 20+r.x*24, 20+r.y*24);
+	line(mouseX-r.x*24, mouseY-r.y*24, 20-r.x*24, 20-r.y*24);
+	
+  // center line
+  ctx.setLineDash([12, 15, 1, 15]);
+  strokeWeight(2);
+	stroke(255,255,0);
+	line(mouseX, mouseY, 20, 20);
+}
+
+//end</script>

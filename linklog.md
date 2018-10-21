@@ -28,3 +28,21 @@
     www-cs-students.stanford.edu/~amitp/diagrams/saturn-hexagon
     theory.stanford.edu/~amitp/GameProgramming/MapRepresentations.html (page 7)
     redblobgames.com/pathfinding/grids/algorithms.html
+
+#### 20181019 Fr
+
+    ocf.berkeley.edu/~fricke/projects/israel/paeth/rotation_by_shearing.html
+    en.wikipedia.org/wiki/Shear_mapping
+    github.com/memo/ai-resources
+    atelier.u-sub.net/srt2vtt
+
+#### 20181020 Sa
+
+    en.wikipedia.org/wiki/Shear_matrix
+    math.stackexchange.com/questions/383321/rotating-x-y-points-45-degrees
+    youtube.com/watch?v=dbu-Ls4ge9s  scaling/shearing
+    github.com/mikolalysenko/l1-path-finder/issues/3
+    micropolis.mostka.com
+    github.com/SimHacker/micropolis/blob/wiki/Tutorial.md
+    medium.com/@donhopkins/open-sourcing-simcity-58470a275446
+

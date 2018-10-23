@@ -46,3 +46,15 @@
     github.com/SimHacker/micropolis/blob/wiki/Tutorial.md
     medium.com/@donhopkins/open-sourcing-simcity-58470a275446
 
+#### 20181021 Su
+
+    gpl.ea.com/simcity.html
+    github.com/chen0040/js-simulator
+    npmjs.com/package/js-simulator
+    Chrome Version 70.0.3538.67
+
+#### 20181022 Mo
+
+    en.wikipedia.org/wiki/Agent-based_model
+    en.wikipedia.org/wiki/Teleology
+    en.wikipedia.org/wiki/Intelligent_agent

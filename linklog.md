@@ -58,3 +58,6 @@
     en.wikipedia.org/wiki/Agent-based_model
     en.wikipedia.org/wiki/Teleology
     en.wikipedia.org/wiki/Intelligent_agent
+
+#### 20181023 Tu
+    corysimon.github.io/articles/uniformdistn-on-sphere

@@ -61,3 +61,10 @@
 
 #### 20181023 Tu
     corysimon.github.io/articles/uniformdistn-on-sphere
+
+#### 20181024 We
+    codepen.io/ge1doot/pen/brqZNX
+    en.wikipedia.org/wiki/Spherical_coordinate_system
+    codepen.io/ge1doot/pen/MXObRj
+    openprocessing.org/sketch/614942
+

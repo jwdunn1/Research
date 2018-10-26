@@ -68,7 +68,10 @@ function draw() {
   //if(!mouseIsPressed) {
     stroke(20);
     noFill();
+	push();
+	  rotateX(PI/2);
     sphere(radius);
+	pop();
   //}
   //fill(127);
   for(var i=0; i<cnt; i++) {

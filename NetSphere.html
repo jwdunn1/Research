@@ -1,0 +1,136 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>body{margin:0;}</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.6.1/p5.min.js"></script>
+<script src="https://cdn.rawgit.com/diwi/p5.EasyCam/1.0.9/p5.easycam.min.js"></script>
+<script>//begin
+
+var easycam;
+var b=[], cnt=128, radius=180;
+
+function setup() {
+  createCanvas(windowWidth, windowHeight, WEBGL);
+  pixelDensity(2.0);
+  perspective(22 * PI/180, width/height, 1, 25000);
+  easycam = createEasyCam({distance:1500});
+  //noFill();
+  //stroke(127);
+  strokeWeight(0.5);
+  //noStroke();
+  document.oncontextmenu = function() { return false; }
+  document.onmousedown   = function() { return false; }
+  var phi,i;
+  for(i=0; i<cnt; i++) {
+    phi = Math.acos(1 - 2 * Math.random());
+    b.push({id:i,
+            lat:phi-Math.PI/2, 
+            lon:Math.random()*2*Math.PI, 
+            alt:radius+10,
+            vel:Math.random()*0.003,
+            dir:Math.random()*2*Math.PI
+           });
+    b[i].pos = getXYZ(b[i]);
+  }
+  /*debugger;
+  b.push({id:0,
+        lat:-0.122, 
+        lon:0.7, 
+        alt:radius,
+        vel:0,
+        dir:Math.random()*2*Math.PI
+       });
+  b[0].pos = getXYZ(b[0]);
+  b.push({id:1,
+        lat:0.1, 
+        lon:0.9, 
+        alt:radius,
+        vel:0,
+        dir:Math.random()*2*Math.PI
+       });
+  b[1].pos = getXYZ(b[1]);
+    b.push({id:2,
+        lat:-0.122, 
+        lon:0.9, 
+        alt:radius,
+        vel:0,
+        dir:Math.random()*2*Math.PI
+       });
+  b[2].pos = getXYZ(b[2]);
+  for(i=0;i<3;i++)
+    console.log(b[i]);*/
+}
+
+function draw() {
+  if(!easycam) return;
+  background(0);
+  var dirX = (mouseX / width - 0.5) * 2;
+  var dirY = (mouseY / height - 0.5) * 2;
+  directionalLight(250, 250, 250, -dirX, -dirY, -1);
+  //if(!mouseIsPressed) {
+    stroke(20);
+    noFill();
+    sphere(radius);
+  //}
+  //fill(127);
+  for(var i=0; i<cnt; i++) {
+    displayLinks(b[i]);
+ //   if(!mouseIsPressed) {
+    push();
+      /*stroke(0,255,0); // the coordinate system
+      line(0,0,0, radius+100,0,0);
+      stroke(0,0,255);
+      line(0,0,0, 0,radius+100,0);
+      stroke(255,0,0);
+      line(0,0,0, 0,0,radius+100);
+
+      stroke(63,31,0); // radial orange line
+      line(0,0,0, b[i].pos.x, b[i].pos.y, b[i].pos.z);*/
+      /*rotateY(b[i].lon);
+      rotateX(b[i].lat);
+      translate(0,0,radius);*/
+
+      rotateZ(b[i].lon-Math.PI);
+      rotateY(b[i].lat);
+      translate(-radius-10,0,0);
+      //
+      noStroke();
+      fill(127);
+      ambientMaterial(250);
+      //rect(-2,-2, 4,4);
+      box(1,2,2);
+    pop();
+  //  }
+    updatePos(b[i]);
+  }
+}
+
+function updatePos(b) {
+  b.lat += b.vel * Math.cos(b.dir);
+  b.lon += b.vel * Math.sin(b.dir);
+  b.pos = getXYZ(b);
+}
+
+function displayLinks(t) {
+  for (const o of b) {
+    if(t.id > o.id) {
+      var d = dist(t.pos.x, t.pos.y, t.pos.z,
+             o.pos.x, o.pos.y, o.pos.z);
+      if(d < 50){
+        var a = 1-d/50;
+        stroke(61*a,137*a,193*a);
+        //strokeWeight(1);
+        line(t.pos.x, t.pos.y, t.pos.z,
+             o.pos.x, o.pos.y, o.pos.z);
+        //noStroke();
+      }
+    }
+  }
+}
+
+function getXYZ(b) {
+  return {x: b.alt * Math.cos(b.lat) * Math.cos(b.lon),
+          y: b.alt * Math.cos(b.lat) * Math.sin(b.lon),
+          z: b.alt * Math.sin(b.lat) };
+}
+
+
+//end</script>

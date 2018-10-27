@@ -68,3 +68,8 @@
     codepen.io/ge1doot/pen/MXObRj
     openprocessing.org/sketch/614942
 
+#### 20181025 Th
+    en.wikipedia.org/wiki/Cartesian_coordinate_system
+    en.wikipedia.org/wiki/Dependency_injection
+    github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5
+

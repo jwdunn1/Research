@@ -73,3 +73,23 @@
     en.wikipedia.org/wiki/Dependency_injection
     github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5
 
+#### 20181028 Su
+    assist with creation of website for Rebecca Schultz
+    exploringjs.com/es6/index.html
+    medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc
+
+#### 20181029 Mo
+    updates to rnschultz.com
+    en.wikipedia.org/wiki/Mechanism_design
+    informs-sim.org/wsc16papers/015.pdf
+    web-engineering.info/tech/JavaScript/Summary.pdf
+    johnresig.com/blog/simple-javascript-inheritance
+    github.com/divio/classjs
+    github.com/gwagner57/cLASSjs
+
+#### 20181030 Tu
+    matrixmultiplication.xyz
+    openprocessing.org/sketch/618403
+    en.wikipedia.org/wiki/Stagecast_Creator
+    3dgep.com/3d-math-primer-for-game-programmers-matrices
+

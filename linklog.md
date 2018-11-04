@@ -1,14 +1,28 @@
+#### 20181103 Sa
+
+    github.com/infusion/Quaternion.js
+
+#### 20181102 Fr
+
+    pajarito.materials.cmu.edu/rollett/27750/lecture2.pdf
+    github.com/justincy/d3-pedigree-examples
+    fperucic.github.io/treant-js/examples/timeline
+    jasondavies.com/coffee-wheel
+
 #### 20181101 Th
+
     web.mit.edu/2.998/www/QuaternionReport1.pdf
     youtube.com/watch?v=0VAc_G79POE
     euclideanspace.com/maths/geometry/rotations/conversions/angleToQuaternion
 
 #### 20181031 We
+
     3dgep.com/understanding-quaternions
     quaternions.online
     catlikecoding.com
 
 #### 20181030 Tu
+
     matrixmultiplication.xyz
     openprocessing.org/sketch/618403
     en.wikipedia.org/wiki/Stagecast_Creator
@@ -16,6 +30,7 @@
     github.com/diwi/p5.EasyCam/pull/6
 
 #### 20181029 Mo
+
     updates to rnschultz.com
     en.wikipedia.org/wiki/Mechanism_design
     informs-sim.org/wsc16papers/015.pdf
@@ -25,22 +40,26 @@
     github.com/gwagner57/cLASSjs
 
 #### 20181028 Su
+
     assist with creation of website for Rebecca Schultz
     exploringjs.com/es6/index.html
     medium.freecodecamp.org/javascript-modules-a-beginner-s-guide-783f7d7a5fcc
 
 #### 20181025 Th
+
     en.wikipedia.org/wiki/Cartesian_coordinate_system
     en.wikipedia.org/wiki/Dependency_injection
     github.com/processing/p5.js/wiki/Getting-started-with-WebGL-in-p5
 
 #### 20181024 We
+
     codepen.io/ge1doot/pen/brqZNX
     en.wikipedia.org/wiki/Spherical_coordinate_system
     codepen.io/ge1doot/pen/MXObRj
     openprocessing.org/sketch/614942
 
 #### 20181023 Tu
+
     corysimon.github.io/articles/uniformdistn-on-sphere
 
 #### 20181022 Mo

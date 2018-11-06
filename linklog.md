@@ -1,3 +1,20 @@
+#### 20181105 Mo
+
+    geometricalgebra.net
+    cgl.uwaterloo.ca/smann/Papers/CGA01.pdf
+    researchgate.net/publication/279448184_Quadrotor_Quaternion_Control
+    arxiv.org/pdf/1802.08153.pdf
+    arxiv.org/pdf/1705.06668.pdf
+    arxiv.org/pdf/1205.5935.pdf
+    tuprints.ulb.tu-darmstadt.de/epda/000764/DissertationDH061213.pdf
+
+#### 20181104 Su
+
+    run.usc.edu/cs520-s12/quaternions/quaternions-cs520.pdf
+    en.wikipedia.org/wiki/Quaternions_and_spatial_rotation
+    cs.ucr.edu/~vbz/resources/quatut.pdf
+    openprocessing.org/sketch/621401 fix for p5 v0.7.2
+
 #### 20181103 Sa
 
     github.com/infusion/Quaternion.js

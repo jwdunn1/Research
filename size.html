@@ -5,9 +5,16 @@
 
 function setup() {
 	createCanvas(windowWidth, windowHeight);
-	background(100);
 	textSize(64);
+}
+
+function draw() {
+	background(100);
   text(width+"x"+height, 32, 64);
+}
+
+function windowResized() {
+  resizeCanvas(windowWidth, windowHeight);
 }
 
 //end</script>

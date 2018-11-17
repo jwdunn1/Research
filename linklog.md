@@ -1,3 +1,47 @@
+#### 20181116 FR
+
+    jscompress.com
+    kangax.github.io/compat-table/es6
+    es6console.com
+
+#### 20181115 TH
+
+    concordesst.com/inside/insidehi.html
+    issuu.com/awarren8/docs/thesis_design_portfolio_-_reduced
+    issuu.com/riddhimadeka/docs/final_draft
+    issuu.com/amaury.veron/docs/portfolio_architecture_-_amaury_ver
+    issuu.com/lacatrina/docs/extreme_architecture
+    issuu.com/sachkientruc/docs/1000_ideas_by_100_architects.compre
+
+#### 20181114 WE
+
+    stackoverflow.com/questions/2268204/favicon-dimensions
+    stackoverflow.com/questions/26356877/html5-draggable-false-not-working-in-firefox-browser
+
+#### 20181113 TU
+
+    rnshultz.com added lory slideshow
+    gdcvault.com/play/1017708/Simulating-a-City-One-Page
+    gdcvault.com/play/1012356/One-Page
+
+#### 20181112 MO
+
+    github.com/meandmax/lory
+    codepen.io/hellonico/pen/XdZxmp
+    en.wikipedia.org/wiki/Bounding_volume_hierarchy
+    fileadmin.cs.lth.se/cs/Education/EDAN30/lectures/S2-bvh.pdf
+
+#### 20181111 Su
+
+    asus.com/Monitors/VG248QE
+    en.wikipedia.org/wiki/Modeling_and_simulation
+
+#### 20181108 Th
+
+    taichi.graphics
+    urbansim.com/research
+    en.wikipedia.org/wiki/Intelligent_agent
+
 #### 20181105 Mo
 
     geometricalgebra.net

@@ -1,3 +1,22 @@
+#### 20181123 FR
+
+    openprocessing.org/sketch/115427
+
+#### 20181120 TU
+
+    frontendbabel.info/articles/webpage-rendering-101
+    fusionfederalway.org
+
+#### 20181119 MO
+
+    en.wikipedia.org/wiki/Topology_optimization
+
+#### 20181117 SA
+
+    stackoverflow.com/questions/25704650/disable-blue-highlight-when-touch-press-object-with-cursorpointer
+    stackoverflow.com/questions/489340/vertically-align-text-next-to-an-image
+    webmasters.stackexchange.com/questions/4459/keep-iphone-browser-from-turning-numbers-into-links
+
 #### 20181116 FR
 
     jscompress.com

@@ -1,3 +1,9 @@
+#### 20181126 MO
+
+    jsperf.com/ex-nihilo (rebuilt)
+    openprocessing.com/sketch/633226 (from 2013)
+    opengl.org/discussion_boards/showthread.php/159402-half-sphere
+
 #### 20181123 FR
 
     openprocessing.org/sketch/115427

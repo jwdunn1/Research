@@ -1,3 +1,12 @@
+#### 20181129 TH
+
+    github.com/jonklein/breve.js
+    kleininen.com/breve.js
+    people.cs.uchicago.edu/~wiseman/vehicles
+    en.wikipedia.org/wiki/Braitenberg_vehicle
+    airccse.org/journal/acij/papers/4213acij05.pdf
+    github.com/kapilkaisare/sleeper-agent
+
 #### 20181126 MO
 
     jsperf.com/ex-nihilo (rebuilt)

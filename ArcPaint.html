@@ -1,0 +1,86 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>body{margin:0;}</style>
+<script src="p5.js"></script>
+<script>//begin
+
+
+var o = [], baseAngle, nAng=3, iRadius=20, oRadius=100, rot=0;
+var pal = [ [0,100,50],[1,100,50],[2,100,50],
+            [3,100,50],[4,100,50],[5,100,50],
+            [0,0,75],[0,0,50],[0,0,25] ],
+    pI=0, maxPal=9;
+
+function preload() {
+  f = loadFont('SourceCodePro-Regular.otf');
+}
+
+function setup() {
+  createCanvas(windowWidth, windowHeight, WEBGL);
+  pixelDensity(2);
+  //setAttributes('antialias', false);
+  baseAngle = 2*Math.PI/24;
+  colorMode(HSB, 6, 100, 100, 100);
+
+  noStroke();
+  //textFont("monospace");
+  textFont(f);
+  textSize(15);
+  noSmooth();
+}
+
+function draw() {
+  background(0);
+  translate(-width/2, -height/2);
+  fill(127);
+  text("   up: increase oradius",10,15);
+  text(" down: decrease oradius",10,30);
+  text("    w: increase iradius",10,45);
+  text("    s: decrease iradius",10,60);
+  text(" left: decrease angle",10,75);
+  text("right: increase angle",10,90);
+  text("space: rotate",10,105);
+  text("  esc: undo",10,120);
+  text("    a: color",10,135);
+  
+  for(var t=0; t<o.length; t++) {
+    fill(pal[o[t].p][0], pal[o[t].p][1], pal[o[t].p][2]);
+    arc(o[t].x, o[t].y, o[t].oR, o[t].oR, o[t].s, o[t].s+baseAngle*o[t].a);
+    fill(0);
+    arc(o[t].x, o[t].y, o[t].iR, o[t].iR, o[t].s, o[t].s+baseAngle*o[t].a);
+  }
+
+  fill(pal[pI][0], pal[pI][1], pal[pI][2], 60);
+  arc(mouseX, mouseY, oRadius, oRadius, rot, rot+baseAngle*nAng);
+  fill(0);
+  arc(mouseX, mouseY, iRadius, iRadius, rot, rot+baseAngle*nAng);
+}
+
+function mousePressed() {
+  o.push({x:mouseX,y:mouseY,a:nAng,iR:iRadius,oR:oRadius,s:rot,p:pI});
+}
+
+function keyPressed() {
+  console.log(keyCode);
+  if(keyCode == 65) { // a
+    pI++;
+    pI%=maxPal;
+  }
+  if(keyCode == 27) // esc
+    o.splice(-1,1);
+  if(keyCode == 87) // w
+    iRadius+=10;
+  if(keyCode == 83) // s
+    iRadius-=10;	
+  if(keyCode == 38) // up
+    oRadius+=10;
+  if(keyCode == 40) // down
+    oRadius-=10;
+  if(keyCode == 37) // left
+    nAng--;
+  if(keyCode == 39) // right
+    nAng++;
+  if(keyCode == 32) // space
+    rot+=15*Math.PI/180;
+}
+
+//end</script>

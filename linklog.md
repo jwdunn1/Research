@@ -1,3 +1,7 @@
+#### 20181201 SA
+
+    arxiv.org/pdf/1802.02673.pdf
+
 #### 20181129 TH
 
     github.com/jonklein/breve.js

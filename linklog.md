@@ -1,3 +1,11 @@
+#### 20181207 FR
+
+    deeplearningbook.org
+    multicians.org/history.html
+    en.wikipedia.org/wiki/Binary_star
+    en.wikipedia.org/wiki/Wikipedia:Vital_articles/Level/2
+    en.wikipedia.org/wiki/Convolution
+
 #### 20181205 WE
 
     quora.com/What-are-some-online-courses-in-multi-agent-systems

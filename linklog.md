@@ -1,3 +1,9 @@
+#### 20181209 SU
+
+    feltpresence.com/functions.html
+    intercom.com/blog/the-dribbblisation-of-design
+    cs231n.stanford.edu/slides/2018/cs231n_2018_lecture01.pdf
+
 #### 20181207 FR
 
     deeplearningbook.org

@@ -1,3 +1,9 @@
+#### 20181210 MO
+
+    highscalability.squarespace.com/all-time-favorites
+    github.com/processing/p5.js/wiki/Positioning-your-canvas
+    openprocessing.org/sketch/642976
+
 #### 20181209 SU
 
     feltpresence.com/functions.html

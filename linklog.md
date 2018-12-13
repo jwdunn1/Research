@@ -1,3 +1,8 @@
+#### 20181211 TU
+
+    cs.stanford.edu/people/ashgup/Reports/database.pdf
+    archiadvisor.com/steps-design-construction-buildings
+
 #### 20181210 MO
 
     highscalability.squarespace.com/all-time-favorites

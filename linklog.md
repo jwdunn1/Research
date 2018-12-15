@@ -1,3 +1,8 @@
+#### 20181213 TH
+
+    eusebeia.dyndns.org/4d/dodecahedron
+    openprocessing.org/sketch/645473
+
 #### 20181211 TU
 
     cs.stanford.edu/people/ashgup/Reports/database.pdf

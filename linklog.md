@@ -1,3 +1,7 @@
+#### 20181215 SA
+
+    ephtracy.github.io
+
 #### 20181213 TH
 
     eusebeia.dyndns.org/4d/dodecahedron

@@ -1,0 +1,124 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<style>body{margin:0;}</style>
+<script src="p5.min.js"></script>
+<script src="p5.easycam.js"></script>
+<script>//begin
+
+
+var road = [ [500,500,[3,4,6,1]], // 0 -> 3,4,6,1
+             [100,500,[2,0,9,9]], // 1
+             [100,100,[9,3,1,9]], // 2
+             [500,100,[9,9,0,2]], // 3
+             [500,900,[0,5,9,9]], // 4
+             [900,900,[6,9,9,4]], // 5
+             [900,500,[9,9,5,0]]  // 6
+           ],
+    net = [ 0, 1, 2, 3, 0, 4, 5, 6, 0],
+    vehicle = [ {x:100, y:115, vx:2, vy:0, clr:[100,100,230]},
+                {x:900, y:85, vx:-2, vy:0, clr:[230,100,100]} ];
+
+var camState = {
+  distance: 2785,
+  center  : [50, -120, -186],
+  rotation: [.92, .37, .02, -.01],
+};
+
+function setup() {
+  createCanvas(900, 900, WEBGL);
+  pixelDensity(2);
+
+  // fix for EasyCam to work with p5 v0.7.2
+  Dw.EasyCam.prototype.apply = function(n) {
+    var o = this.cam;
+    n = n || o.renderer,
+    n && (this.camEYE = this.getPosition(this.camEYE), this.camLAT = this.getCenter(this.camLAT), this.camRUP = this.getUpVector(this.camRUP), n._curCamera.camera(this.camEYE[0], this.camEYE[1], this.camEYE[2], this.camLAT[0], this.camLAT[1], this.camLAT[2], this.camRUP[0], this.camRUP[1], this.camRUP[2]))
+  };
+
+  perspective(22 * PI/180, width/height, 1, 6000);
+  easycam = createEasyCam({distance:6000});
+  document.oncontextmenu = function() { return false; }
+  document.onmousedown   = function() { return false; }
+
+  // set initial camera state
+  easycam.setState(camState, 1000); // animate to camState on 1 second
+  easycam.state_reset = camState; // state to use on reset
+
+  strokeWeight(0.1);
+}
+
+function renderVehicle(x,y,r,g,b) {
+  push();
+    stroke(0);
+    strokeWeight(0.1);
+    fill(r-50,g-50,b-50); // lower body
+    translate(x-500,y-500,3.5);
+    box(20,10,5);
+
+    translate(0,0,5);
+    fill(r,g,b); // upper body
+    box(10,10,5);
+  pop();
+}
+
+function renderRoadSegment(a,b) {
+  push();
+    fill(63); // road
+    translate(road[a][0]-500,road[a][1]-500,1);
+    var o, i=0;
+    if(road[a][0]==road[b][0]) {
+      o=(road[a][1]>road[b][1])? -200 : 200;
+      translate(0,o,0);
+      plane(60,460);
+      fill(127); // center stripe on road
+      translate(0,-150,1);
+      plane(5,25);
+      for(; i<3; i++) {
+        translate(0,100,0);
+        plane(5,25);
+      }
+    } else {
+      o=(road[a][0]>road[b][0])? -200 : 200;
+      translate(o,0,0);
+      plane(400,60);
+      fill(127); // stripe
+      translate(-150,0,1);
+      plane(25,5);
+      for(; i<3; i++) {
+        translate(100,0,0);
+        plane(25,5);
+      }
+    }
+  pop();
+}
+
+function draw() {
+  if(!easycam) return;
+  //console.log(easycam.getState());
+  background(63);
+  noStroke();
+  fill(127);
+  plane(1000,1000);
+  
+  for(var i=0; i<8; i++)
+    renderRoadSegment(net[i],net[i+1]);
+  
+  
+  var x = vehicle[0].x, y = vehicle[0].y;
+  var r = vehicle[0].clr[0], g = vehicle[0].clr[1], b = vehicle[0].clr[2];
+  renderVehicle(x,y, r,g,b);
+  
+  vehicle[0].x += vehicle[0].vx;
+  if(vehicle[0].x>900) vehicle[0].vx = -2;
+  if(vehicle[0].x<100) vehicle[0].vx = 2;
+
+  x = vehicle[1].x, y = vehicle[1].y;
+  r = vehicle[1].clr[0], g = vehicle[1].clr[1], b = vehicle[1].clr[2];
+  renderVehicle(x,y, r,g,b);
+  
+  vehicle[1].x += vehicle[1].vx;
+  if(vehicle[1].x>900) vehicle[1].vx = -2;
+  if(vehicle[1].x<100) vehicle[1].vx = 2;
+}
+
+
+//end</script>

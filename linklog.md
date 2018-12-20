@@ -1,3 +1,9 @@
+#### 20181218 TU
+
+    jsforcats.com
+    google.com/chrome/canary
+    developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+
 #### 20181215 SA
 
     ephtracy.github.io

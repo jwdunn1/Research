@@ -1,3 +1,8 @@
+#### 20181219 WE
+
+    en.wikipedia.org/wiki/Bell_state
+    docs.microsoft.com/en-us/quantum
+
 #### 20181218 TU
 
     jsforcats.com

@@ -1,3 +1,8 @@
+#### 20181220 TH
+
+    algassert.com/quirk
+    github.com/Strilanc/Quirk
+
 #### 20181219 WE
 
     en.wikipedia.org/wiki/Bell_state

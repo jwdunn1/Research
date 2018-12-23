@@ -1,3 +1,10 @@
+#### 20181221 FR
+
+    nuwiel.de
+    2u.com
+    kubernetes.io
+    gopherjs.github.io/playground
+
 #### 20181220 TH
 
     algassert.com/quirk

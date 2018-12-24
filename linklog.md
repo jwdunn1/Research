@@ -1,3 +1,10 @@
+#### 20181222 SA
+
+    adriann.github.io
+    codeabbey.com
+    projecteuler.net
+    golang.org
+
 #### 20181221 FR
 
     nuwiel.de

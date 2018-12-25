@@ -1,3 +1,13 @@
+#### 20181224 MO
+
+    noradsanta.org
+    santatracker.google.com/codelab.html
+
+#### 20181223 SU
+
+    audiokinetic.com
+    bing.com
+
 #### 20181222 SA
 
     adriann.github.io

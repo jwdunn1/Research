@@ -1,3 +1,9 @@
+#### 20181225 TU
+
+    en.wikipedia.org/wiki/Yule_Goat
+    rosenfeldmedia.com
+    ai.ingress.com
+
 #### 20181224 MO
 
     noradsanta.org

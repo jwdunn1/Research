@@ -1,3 +1,13 @@
+#### 20181226 WE
+
+    kubeflow.org
+    vagrantup.com
+    github.com/PowerShell/PowerShell
+    virtualbox.org
+    github.com/Azure
+    microsoft.com/en-us/research/project/project-brainwave
+    blogs.nvidia.com/blog/2018/09/13/how-maglev-speeds-autonomous-vehicles-to-superhuman-levels-of-safety
+
 #### 20181225 TU
 
     en.wikipedia.org/wiki/Yule_Goat

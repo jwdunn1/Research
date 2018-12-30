@@ -1,3 +1,9 @@
+#### 20181227 TH
+
+    jscroll.com
+    lnt.org
+    scott-kranz.com
+
 #### 20181226 WE
 
     kubeflow.org

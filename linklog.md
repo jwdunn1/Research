@@ -1,3 +1,8 @@
+#### 20181229 SA
+
+    arxiv.org/pdf/1812.09351.pdf
+    arxiv.org/pdf/1812.05160.pdf
+
 #### 20181227 TH
 
     jscroll.com

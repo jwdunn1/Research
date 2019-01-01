@@ -1,3 +1,11 @@
+#### 20181231 MO
+
+    arxiv.org/pdf/1812.11240.pdf
+    amazon.com/dp/0122861604
+    booksite.elsevier.com/9780124077263/downloads/advance_contents_and_appendices/appendix_C.pdf
+    codepen.io/MateuszFlisikowski/pen/gXvbYr
+    king5.com 70years educate,entertain,experiment
+
 #### 20181229 SA
 
     arxiv.org/pdf/1812.09351.pdf

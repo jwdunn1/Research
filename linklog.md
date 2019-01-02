@@ -1,3 +1,9 @@
+#### 20190101 TU
+
+    selfdrivingcars.mit.edu
+    deeplearning.mit.edu
+    ourworldindata.org
+
 #### 20181231 MO
 
     arxiv.org/pdf/1812.11240.pdf

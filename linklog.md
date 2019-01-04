@@ -1,3 +1,7 @@
+#### 20190102 WE
+
+    v1.overleaf.com/read/vymfngphcccj
+
 #### 20190101 TU
 
     selfdrivingcars.mit.edu

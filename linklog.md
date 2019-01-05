@@ -1,3 +1,7 @@
+#### 20190103 TH
+
+    technics.com/us/high-res-audio/what-is-high-resolution-audio.html
+
 #### 20190102 WE
 
     v1.overleaf.com/read/vymfngphcccj

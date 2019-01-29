@@ -1,3 +1,32 @@
+#### 20190128 MO
+
+    arxiv.org/pdf/1901.03253.pdf
+    nvidia.com/en-us/data-center/tesla-t4
+
+#### 20190124 TH
+
+    news.mit.edu/2019/artificial-intelligence-blind-spots-0124
+    microsoft.com/en-us/research/project/farmbeats-iot-agriculture
+
+#### 20190122 TU
+
+    medium.freecodecamp.org/javascript-modules-from-iifes-to-commonjs-to-es6-modules-4d10c16f55d4
+
+#### 20190115 TU
+
+    youtube.com/watch?v=dpoVh9xwdD4
+    usefulequations.com
+    nvidia.com/en-us/deep-learning-ai/solutions/inference-platform
+
+#### 20190111 FR
+
+    medium.com/coinmonks/genetic-algorithms-in-rust-for-autonomous-agents-an-introduction-ac182de32aee
+
+#### 20190107 MO
+
+    en.wikipedia.org/wiki/Extract,_transform,_load
+    hackevolve.com/image-segmentation-using-deep-learning
+
 #### 20190103 TH
 
     technics.com/us/high-res-audio/what-is-high-resolution-audio.html

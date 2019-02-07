@@ -1,3 +1,18 @@
+#### 20190206 WE
+
+    github.com/eduard626/interaction-tensor
+    advances.sciencemag.org/content/advances/5/2/eaav0961.full.pdf
+
+#### 20190202 SA
+
+    google.github.io/liquidfun
+    arxiv.org/pdf/1703.10584.pdf
+    en.wikipedia.org/wiki/Auxetics
+    arxiv.org/pdf/1506.04919.pdf
+    mattbierbaum.github.io/moshpits.js
+    arxiv.org/pdf/1302.1886.pdf
+    github.com/bmoren/p5.collide2D
+
 #### 20190128 MO
 
     arxiv.org/pdf/1901.03253.pdf

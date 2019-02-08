@@ -1,3 +1,10 @@
+#### 20190207 TH
+
+    physics.weber.edu/schroeder/html5
+    winworldpc.com/product/microsoft-visual-bas/60
+    7-zip.org
+    itman.in/en/how-to-install-visualbasic-6-ide-on-windows-7-8-10
+
 #### 20190206 WE
 
     github.com/eduard626/interaction-tensor

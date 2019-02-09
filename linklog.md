@@ -1,3 +1,13 @@
+#### 20190208 FR
+
+    openprocessing.org/sketch/667136
+    jasondavies.com/bml/#0.36/128/128
+    arxiv.org/pdf/0901.3924.pdf
+    arxiv.org/ftp/arxiv/papers/1303/1303.4695.pdf
+    sevamoo.github.io/cityastext
+    youtube.com/watch?v=j0mrOhPyhRI
+    arxiv.org/pdf/1709.02939.pdf
+
 #### 20190207 TH
 
     physics.weber.edu/schroeder/html5

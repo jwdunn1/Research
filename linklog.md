@@ -1,3 +1,11 @@
+#### 20190211 MO
+
+    connectionstrings.com/sql-server
+    support.microsoft.com/en-us/help/308656/how-to-open-a-sql-server-database-by-using-the-sql-server-net-data-pro
+    stackoverflow.com/questions/38847225/vb-net-timer-tick-not-firing
+    vbtutor.net/vb2013/vb2013_lesson31.html
+    stackoverflow.com/questions/9906263/convert-string-to-currency-format-without-casting-to-numerical-value-first
+
 #### 20190208 FR
 
     openprocessing.org/sketch/667136

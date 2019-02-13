@@ -1,3 +1,9 @@
+#### 20190212 TU
+
+    dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapters1-12.pdf
+    converter.telerik.com
+    support.microsoft.com/en-us/help/315577/how-to-create-threads-in-visual-basic-net-or-visual-basic-2005
+
 #### 20190211 MO
 
     connectionstrings.com/sql-server

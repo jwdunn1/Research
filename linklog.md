@@ -1,3 +1,9 @@
+#### 20190214 TH
+
+    github.com/ErikEJ/SqlQueryStress
+    dev.mysql.com/doc/visual-studio/en
+    drewhamre.com/documents/StressSQL.pdf
+
 #### 20190212 TU
 
     dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapters1-12.pdf

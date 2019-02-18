@@ -1,3 +1,11 @@
+#### 20190217 SU
+
+    stackoverflow.com/questions/27220/how-to-convert-stdstring-to-lpcwstr-in-c-unicode
+    techhowtos.com/programming/how-to-connect-to-sql-server-from-visual-c-plus-plus
+    codepen.io/sdras/pen/VYbeWx
+    docs.microsoft.com/en-us/windows/uwp/design/basics/index
+    forums.codeguru.com/showthread.php?14525-ActiveX-EXE-and-Threading
+
 #### 20190214 TH
 
     github.com/ErikEJ/SqlQueryStress

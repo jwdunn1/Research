@@ -1,3 +1,9 @@
+#### 20190218 MO
+
+    freevbcode.com/ShowCode.asp?ID=1287
+    jeffpar.github.io/kbarchive/kb/266/Q266717
+    freevbcode.com/ShowCode.asp?ID=2171
+
 #### 20190217 SU
 
     stackoverflow.com/questions/27220/how-to-convert-stdstring-to-lpcwstr-in-c-unicode

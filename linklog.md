@@ -1,3 +1,8 @@
+#### 20190220 WE
+
+    stackoverflow.com/questions/35365714/sql-server-with-c-cli
+    docs.microsoft.com/en-us/dotnet/api/system.random.nextdouble
+
 #### 20190218 MO
 
     freevbcode.com/ShowCode.asp?ID=1287

@@ -1,3 +1,8 @@
+#### 20190221 TH
+
+    tek-tips.com/faqs.cfm?fid=5647
+    github.com/jeffpar/kbarchive/tree/master/kb/176/Q176951
+
 #### 20190220 WE
 
     stackoverflow.com/questions/35365714/sql-server-with-c-cli

@@ -1,3 +1,9 @@
+#### 20190222
+
+    github.com/bit101/CodingMath
+    github.com/FAL-works
+    stackoverflow.com/questions/3766433/what-is-difference-in-adodb-and-oledb
+
 #### 20190221 TH
 
     tek-tips.com/faqs.cfm?fid=5647

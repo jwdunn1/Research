@@ -1,4 +1,10 @@
-#### 20190222
+#### 20190223 SA
+
+    docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices
+    codeproject.com/Articles/6600/A-simple-VB-NET-stress-utility-for-SQL-Server
+    cplusplus.com/articles/1TUq5Di1
+
+#### 20190222 FR
 
     github.com/bit101/CodingMath
     github.com/FAL-works

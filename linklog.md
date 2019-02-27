@@ -1,3 +1,10 @@
+#### 20190226 TU
+
+    vbi.org
+    opcfoundation.org
+    en.wikipedia.org/wiki/OPC_Foundation
+    jeffpar.github.io/kbarchive/kb/268/Q268550
+
 #### 20190223 SA
 
     docs.microsoft.com/en-us/dotnet/standard/threading/managed-threading-best-practices

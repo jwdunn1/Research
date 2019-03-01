@@ -1,3 +1,9 @@
+#### 20190228 TH
+
+    docs.microsoft.com/en-us/windows/desktop/cossdk/configuring-transactions
+    groups.csail.mit.edu/sdg/pubs/2015/concept-essay.pdf
+    docs.microsoft.com/en-us/dotnet/visual-basic/programming-guide/com-interop/walkthrough-creating-com-objects
+
 #### 20190226 TU
 
     vbi.org

@@ -1,3 +1,10 @@
+#### 20190228 FR
+
+    spderosso.github.io/oopsla16.pdf
+    helpx.adobe.com/illustrator/using/color.html
+    linkedin.com/pulse/single-purpose-concepts-single-concept-purposes-david-max
+    youtube.com/watch?v=YoEkXHZ6Gbg
+
 #### 20190228 TH
 
     docs.microsoft.com/en-us/windows/desktop/cossdk/configuring-transactions

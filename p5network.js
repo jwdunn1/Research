@@ -1,6 +1,6 @@
 // Experiment with network node movements
 
-var nodes, focus;
+var nodes, focus, A, B;
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
@@ -15,7 +15,11 @@ function setup() {
                y: py, homeY: py, targetY: py-25+random(50), originY: py};
       nodes.push(p);
     }
-
+  // handle screen size and radius of focus area
+	var r = Math.min(width,height);
+	A = Math.pow(r*0.222222,2);
+	B = A * 0.9;
+	
   // next, for each point in the list,
   for(i = 0; i < nodes.length; i++) {
     var neighbor = [];
@@ -52,6 +56,7 @@ function setup() {
     var c = Node.createNew(nodes[i], 1.5+Math.random()*1.5);
     nodes[i].node = c;
   }
+	background(0);
 }
 
 function getDistSq(p1, p2) {
@@ -59,15 +64,15 @@ function getDistSq(p1, p2) {
 }
 
 function draw() {
-  background(0);
+  background(0, 31);
   var d, p, j;
   for(var i in nodes) {
     nodes[i].active = 0;
     nodes[i].node.active = 0;
     // show nodes within range
     d = Math.abs(getDistSq(focus, nodes[i]));
-    if(d < 40000) {
-      nodes[i].node.active = (40000-d)/36000;
+    if(d < A) {
+      nodes[i].node.active = (A-d)/B;
       nodes[i].active = nodes[i].node.active/2;
     }
     p = nodes[i];
@@ -86,13 +91,13 @@ function mouseMoved(e) {
   focus.y = mouseY;
 }
 
-// A BlackScript class
+// For more on BlackScript, see: http://gabordemooij.com/index.php?p=/blackscript
 var Node = {
   createNew: function(pos,rad) {
     var obj = {};
     obj.pos = pos;
     obj.radius = rad;
-    obj.t = 0;
+    obj.t = parseInt(random(50));
 
     obj.easing = function(t) {
       var ts = t * t, tc = ts * t;
@@ -112,7 +117,7 @@ var Node = {
       // increment the percentage factor t
       obj.t += 1;
       
-      // if targetXY achieved, set a new targetXY
+      // if targetXY achieved, set a new targetXY near the Node's home point
       if(obj.t==100) {
         obj.pos.targetX = obj.pos.homeX-25+random(50), obj.pos.targetY = obj.pos.homeY-25+random(50), obj.t=0;
         obj.pos.originX = obj.pos.x, obj.pos.originY = obj.pos.y;

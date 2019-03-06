@@ -1,4 +1,8 @@
-#### 20190228 FR
+#### 20190302 SA
+
+    codeproject.com/Articles/3511/Exposing-NET-Components-to-COM
+
+#### 20190301 FR
 
     spderosso.github.io/oopsla16.pdf
     helpx.adobe.com/illustrator/using/color.html

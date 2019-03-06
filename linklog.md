@@ -1,3 +1,11 @@
+#### 20190305 TU
+
+    en.wikipedia.org/wiki/Icon_(computing)
+    github.com/papers-we-love
+    en.wikipedia.org/wiki/Model–view–controller
+    studioforcreativeinquiry.org
+    dzone.com/articles/10-papers-every-software
+
 #### 20190302 SA
 
     codeproject.com/Articles/3511/Exposing-NET-Components-to-COM

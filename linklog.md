@@ -1,3 +1,10 @@
+#### 20190306 WE
+
+    vipercard.net
+    docs.microsoft.com/en-us/previous-versions/sql/sql-server-data-tools/jj851217(v=vs.103)
+    download.microsoft.com/download/MSPressPub/5792/1.0/W98NT42KMeXP/EN-US/SQLVBNET.exe
+    aaai.org/Library/President/Davis.pdf
+
 #### 20190305 TU
 
     en.wikipedia.org/wiki/Icon_(computing)

@@ -1,3 +1,10 @@
+#### 20190307 TH
+
+    msdn.microsoft.com/library/default.asp?url=/library/en-us/dnvb600/html/vb6tovbdotnet.asp
+    devx.com/vb/Article/16822
+    eac.gov
+    ediplomat.com/np/cultural_etiquette/cultural_etiquette.htm
+
 #### 20190306 WE
 
     vipercard.net

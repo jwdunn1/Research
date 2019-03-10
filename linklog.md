@@ -1,3 +1,7 @@
+#### 20190308 FR
+
+    soundcloud.com/jwilliamdunn/sets/trip-one
+
 #### 20190307 TH
 
     msdn.microsoft.com/library/default.asp?url=/library/en-us/dnvb600/html/vb6tovbdotnet.asp

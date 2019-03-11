@@ -1,3 +1,20 @@
+#### 20190310 SU
+
+    msdn.microsoft.com/en-us/magazine/mt842506.aspx
+    dotnet.microsoft.com/learn/dotnet/architecture-guides
+    codekicks.com/2007/04/creating-shared-assembly-or-gac.html
+    docs.microsoft.com/en-us/iis/get-started/planning-your-iis-architecture/understanding-sites-applications-and-virtual-directories-on-iis
+    stackoverflow.com/questions/1268342/what-is-the-gac-in-net
+    infragistics.com/help/winforms/win-using-global-assembly-cache-gac-deployment
+
+#### 20190309 SA
+
+    dependencywalker.com
+    support.microsoft.com/kb/194801
+    tizag.com/aspTutorial/aspDLL.php
+    docs.microsoft.com/en-us/iis/manage/configuring-security/application-pool-identities
+    devsuperpage.com/search/Articles.aspx?G=8&ArtID=6186386
+
 #### 20190308 FR
 
     soundcloud.com/jwilliamdunn/sets/trip-one

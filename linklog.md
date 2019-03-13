@@ -1,3 +1,16 @@
+#### 20190313 WE
+
+    mavo.io
+    people.csail.mit.edu/karger/Papers/mavo.pdf
+
+#### 20190312 TU
+
+    vbmigration.com/Resources/detmigratingfromvb6.aspx?Id=7
+    pcmike.com
+    svgees.us
+    nb.mit.edu/welcome
+    wikum.csail.mit.edu
+
 #### 20190311 MO
 
     docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-controller

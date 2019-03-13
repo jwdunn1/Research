@@ -1,3 +1,9 @@
+#### 20190311 MO
+
+    docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-controller
+    docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/select-case-statement
+    w3schools.com/js/js_switch.asp
+
 #### 20190310 SU
 
     msdn.microsoft.com/en-us/magazine/mt842506.aspx

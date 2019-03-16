@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>ResearchLinks</title>
+  
+  
+  <link rel='stylesheet' href='https://dev.mavo.io/dist/mavo.css'>
+
+  <style>
+  /* over-rides */
+  .mv-status, .mv-bar.mv-ui{
+    background: rgba(255, 255, 255, 0.5);
+    color: #ccc;
+  }
+  [mv-app][mv-mode="edit"] .mv-bar.mv-ui .mv-edit {
+      background: rgba(255, 255, 255, 0.5);
+    box-shadow: none;
+    color: #aaa;
+  }
+  .mv-bar.mv-ui > button::before, .mv-bar.mv-ui > .mv-button::before {
+      color: #444;
+  }
+  /* additional */
+  li {list-style: none;}
+  #i5z7z {box-sizing: border-box; margin: 50px 0 30px 50px; font-size: 45px; font-family:calibri; font-weight: 100;}
+  article {box-sizing: border-box; padding: 0 0 0 54px;}
+  </style>
+
+  
+</head>
+
+<body>
+
+  <!-- This is a simple Mavo application.
+If not logged in and the github repo is private, then the list will not be shown, however if public, then it can be retrieved and displayed. If logged into github, then data can be changed. -->
+<div mv-app="researchLog" mv-storage="https://github.com/jwdunn1/Research">
+	<div id="i5z7z">Research Log</div>
+	<article property="entry" mv-multiple mv-order="desc">
+	<time property="date" datetime="2014-06-01">[/* js */year(date)+("00"+month(date)).slice(-2)+("00"+day(date)).slice(-2)]</time>
+	<ul><li property="item" mv-multiple>First Item</li></ul>
+	</article>
+</div>
+  <script src='https://dev.mavo.io/dist/mavo.es5.js'></script>
+
+  
+
+</body>
+
+</html>

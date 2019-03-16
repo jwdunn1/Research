@@ -1,0 +1,28 @@
+{
+	"entry": [
+		{
+			"date": "2019-03-16",
+			"item": [
+				"Placeholder",
+				"Line 2",
+				"Line 3"
+			]
+		},
+		{
+			"date": "2019-03-15",
+			"item": [
+				"github.com/jwdunn1/mv-data",
+				"codepen.io/jwdunn/pen/wOmLzg"
+			]
+		},
+		{
+			"date": "2019-03-14",
+			"item": [
+				"en.wikipedia.org/wiki/Pi_Day",
+				"docs.microsoft.com/en-us/dotnet/visual-basic/language-reference/statements/structure-statement",
+				"red-gate.com/simple-talk/dotnet/net-framework/10-reasons-why-visual-basic-is-better-than-c",
+				"docs.microsoft.com/en-us/dotnet/api/system.windows.forms.listview"
+			]
+		}
+	]
+}

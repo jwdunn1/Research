@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-03-17",
+			"item": [
+				"fancade.com",
+				"arxiv.org/pdf/1802.04104.pdf",
+				"github.com/amyxzhang",
+				"people.csail.mit.edu/axz/papers/wikum.pdf"
+			]
+		},
+		{
 			"date": "2019-03-16",
 			"item": [
 				"talk.observablehq.com/t/a-bit-confused-about-mutable-etc/721/4",

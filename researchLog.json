@@ -1,6 +1,17 @@
 {
 	"entry": [
 		{
+			"date": "2019-03-25",
+			"item": [
+				"arxiv.org/pdf/1903.01808.pdf",
+				"arxiv.org/pdf/1902.07262.pdf",
+				"arxiv.org/pdf/1805.10723.pdf",
+				"people.eecs.berkeley.edu/~bjoern/papers/mellis-devicefab-dis2016.pdf",
+				"hcie.csail.mit.edu/fabpub/dl/personal-fabrication.pdf",
+				"arxiv.org/ftp/arxiv/papers/1512/1512.01093.pdf"
+			]
+		},
+		{
 			"date": "2019-03-24",
 			"item": [
 				"eecs.mit.edu/news-events/announcements/eecs-presents-annual-awards-outstanding-phd-and-sm-theses",

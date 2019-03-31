@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2019-03-31",
+			"item": [
+				"quickdraw.withgoogle.com/data",
+				"arxiv.org/pdf/1801.09356.pdf",
+				"ethw.org/First-Hand:The_Hidden_Markov_Model",
+				"ece.ucsb.edu/Faculty/Rabiner/ece259/Reprints/354_LALI-ASRHistory-final-10-8.pdf",
+				"cs.cmu.edu/afs/cs/user/msiegler/www/ASR/futureofcmu-final.html"
+			]
+		},
+		{
 			"date": "2019-03-30",
 			"item": [
 				"asherv.com/threes/threemails",

@@ -1,6 +1,18 @@
 {
 	"entry": [
 		{
+			"date": "2019-04-01",
+			"item": [
+				"lospec.com/palette-list/endesga-32",
+				"arxiv.org/pdf/1810.06325.pdf",
+				"isca-speech.org/archive/Interspeech_2018/pdfs/1888.pdf",
+				"arxiv.org/pdf/1810.12947.pdf",
+				"github.com/bill317996/Melody-extraction-with-melodic-segnet",
+				"loremipsum.io",
+				"github.com/ellisonleao/clumsy-bird"
+			]
+		},
+		{
 			"date": "2019-03-31",
 			"item": [
 				"quickdraw.withgoogle.com/data",

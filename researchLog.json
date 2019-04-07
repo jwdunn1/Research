@@ -1,6 +1,17 @@
 {
 	"entry": [
 		{
+			"date": "2019-04-06",
+			"item": [
+				"datapointed.net/2014/10/maps-of-street-grids-by-orientation",
+				"datapointed.net/visualizations/color/crayola-crayon-chart-bow",
+				"vladgotlib.com/circular",
+				"dirksbricks.com/gallery",
+				"lencinhaus.github.com/canvas-noise",
+				"en.wikipedia.org/wiki/Colors_of_noise"
+			]
+		},
+		{
 			"date": "2019-04-05",
 			"item": [
 				"devmag.org.za/2009/04/25/perlin-noise",

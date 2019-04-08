@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2019-04-07",
+			"item": [
+				"arxiv.org/pdf/1805.07830.pdf",
+				"stackoverflow.com/questions/521295/seeding-the-random-number-generator-in-javascript",
+				"stackoverflow.com/questions/13589980/javascript-noise-function-problems",
+				"developer.mozilla.org/en-US/docs/Web/SVG/Attribute/d",
+				"accidentalnoise.sourceforge.net/minecraftworlds.html"
+			]
+		},
+		{
 			"date": "2019-04-06",
 			"item": [
 				"datapointed.net/2014/10/maps-of-street-grids-by-orientation",

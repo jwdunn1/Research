@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-04-30",
+			"item": [
+				"arxiv.org/pdf/1904.07451.pdf",
+				"arxiv.org/pdf/1707.06742.pdf",
+				"raysolomonoff.com/dartmouth/boxa/dart564props.pdf",
+				"openai.com/blog/neural-mmo"
+			]
+		},
+		{
 			"date": "2019-04-29",
 			"item": [
 				"courses.cs.washington.edu/courses/csep590/06au/projects/history-ai.pdf",

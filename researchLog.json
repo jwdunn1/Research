@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2019-05-01",
+			"item": [
+				"css-tricks.com/snippets/htaccess/serve-svg-correct-content-type",
+				"impossiblefoods.com",
+				"beyondmeat.com",
+				"css.umich.edu/sites/default/files/publication/CSS18-10.pdf",
+				"arxiv.org/ftp/arxiv/papers/1904/1904.12470.pdf"
+			]
+		},
+		{
 			"date": "2019-04-30",
 			"item": [
 				"arxiv.org/pdf/1904.07451.pdf",

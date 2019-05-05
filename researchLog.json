@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2019-04-04",
+			"item": [
+				"davidseah.com/colophon",
+				"www-formal.stanford.edu/jmc/whatisai/node4.html",
+				"katex.org",
+				"medium.com/georgian-impact-blog/a-brief-introduction-to-differential-privacy-eacf8722283b",
+				"win-vector.com/blog/2015/10/a-simpler-explanation-of-differential-privacy"
+			]
+		},
+		{
 			"date": "2019-04-03",
 			"item": [
 				"udacity.com/course/secure-and-private-ai--ud185",

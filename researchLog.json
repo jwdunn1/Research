@@ -1,7 +1,14 @@
 {
 	"entry": [
 		{
-			"date": "2019-04-05",
+			"date": "2019-05-06",
+			"item": [
+				"en.wikipedia.org/wiki/Spherical_sector",
+				"superuser.com/questions/645657/export-word-document-with-high-resolution-png-to-pdf"
+			]
+		},
+		{
+			"date": "2019-05-05",
 			"item": [
 				"ascl.ece.vt.edu/papers/Gibson.Stilwell.OCEANS2016.pdf",
 				"en.wikipedia.org/wiki/Chaos_theory",
@@ -12,7 +19,7 @@
 			]
 		},
 		{
-			"date": "2019-04-04",
+			"date": "2019-05-04",
 			"item": [
 				"davidseah.com/colophon",
 				"www-formal.stanford.edu/jmc/whatisai/node4.html",
@@ -22,7 +29,7 @@
 			]
 		},
 		{
-			"date": "2019-04-03",
+			"date": "2019-05-03",
 			"item": [
 				"udacity.com/course/secure-and-private-ai--ud185",
 				"classroom.udacity.com/courses/ud185",

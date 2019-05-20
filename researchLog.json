@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-01-19",
+			"item": [
+				"github.com/udacity/FCND-Term1-Starter-Kit",
+				"github.com/udacity/FCND-Motion-Planning"
+			]
+		},
+		{
 			"date": "2019-05-18",
 			"item": [
 				"arxiv.org/pdf/1905.06937.pdf"

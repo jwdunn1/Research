@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-05-20",
+			"item": [
+				"github.com/MicrosoftEdge/MSEdge",
+				"ucl.ac.uk/~rmjbale/Stat/booktext4.pdf",
+				"arxiv.org/pdf/1904.10500.pdf",
+				"fra.dot.gov/Elib/Document/18267"
+			]
+		},
+		{
 			"date": "2019-01-19",
 			"item": [
 				"github.com/udacity/FCND-Term1-Starter-Kit",

@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-06-04",
+			"item": [
+				"books.google.com/ngrams",
+				"english-corpora.org/coca",
+				"english-corpora.org/coha"
+			]
+		},
+		{
 			"date": "2019-06-03",
 			"item": [
 				"droneavion.wordpress.com/eagle-eye",

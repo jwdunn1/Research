@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-06-20",
+			"item": [
+				"underscorejs.org",
+				"seayjohnny.github.io/NBodyTSP",
+				"rosettacode.org"
+			]
+		},
+		{
 			"date": "2019-06-19",
 			"item": [
 				"arxiv.org/pdf/1803.04263.pdf",

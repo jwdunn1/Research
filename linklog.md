@@ -1,3 +1,7 @@
+NOTE: This log continues in the file researchLog.json which is accessed via:
+https://jwilliamdunn.com/Research/researchLog.html
+
+
 #### 20190313 WE
 
     mavo.io

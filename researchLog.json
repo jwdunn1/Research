@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-06-24",
+			"item": [
+				"stackoverflow.com/questions/111102/how-do-javascript-closures-work",
+				"qed.ai",
+				"reactjs.org"
+			]
+		},
+		{
 			"date": "2019-06-23",
 			"item": [
 				"mattbruv.github.io/ccsr-bugfix",

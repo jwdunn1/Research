@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-06-25",
+			"item": [
+				"cmhoulahan.com",
+				"chriswhong.github.io/nyctaxi",
+				"on-broadway.nyc/app"
+			]
+		},
+		{
 			"date": "2019-06-24",
 			"item": [
 				"stackoverflow.com/questions/111102/how-do-javascript-closures-work",

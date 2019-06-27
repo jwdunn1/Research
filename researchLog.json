@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-06-26",
+			"item": [
+				"developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript",
+				"youtu.be/Mf0rQXnLWH8",
+				"es6-features.org"
+			]
+		},
+		{
 			"date": "2019-06-25",
 			"item": [
 				"cmhoulahan.com",

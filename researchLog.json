@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-06-28",
+			"item": [
+				"loading.io/easing",
+				"bezier.noplan.cc",
+				"loc.gov/preservation/digital/formats/fdd/fdd000130.shtml"
+			]
+		},
+		{
 			"date": "2019-06-27",
 			"item": [
 				"greweb.me/2012/02/bezier-curve-based-easing-functions-from-concept-to-implementation",

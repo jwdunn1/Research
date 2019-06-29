@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-06-27",
+			"item": [
+				"greweb.me/2012/02/bezier-curve-based-easing-functions-from-concept-to-implementation",
+				"easings.net",
+				"gist.github.com/gre/1650294"
+			]
+		},
+		{
 			"date": "2019-06-26",
 			"item": [
 				"developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript",

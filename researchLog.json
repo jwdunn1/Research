@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-06-29",
+			"item": [
+				"gizma.com/easing",
+				"greweb.me/bezier-easing-editor/example",
+				"github.com/ai/easings.net"
+			]
+		},
+		{
 			"date": "2019-06-28",
 			"item": [
 				"loading.io/easing",

@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-01",
+			"item": [
+				"a11yproject.com/posts/never-remove-css-outlines",
+				"arxiv.org/pdf/1906.11407.pdf",
+				"vision.cs.utexas.edu/projects/visual-exploration"
+			]
+		},
+		{
 			"date": "2019-06-30",
 			"item": [
 				"stackoverflow.com/questions/4359627/stopping-a-css3-animation-on-last-frame",

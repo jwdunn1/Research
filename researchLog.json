@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-02",
+			"item": [
+				"microsoftedgeinsider.com",
+				"gamechangeraudio.com",
+				"arxiv.org/pdf/1905.09727.pdf",
+				"arxiv.org/pdf/1809.05700.pdf"
+			]
+		},
+		{
 			"date": "2019-07-01",
 			"item": [
 				"a11yproject.com/posts/never-remove-css-outlines",

@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-05",
+			"item": [
+				"github.com/wilddeer/Peppermint",
+				"github.com/maserlin/PIXI_3/blob/master/Pathmaker.js",
+				"robertpenner.com/scripts/bezier_draw_cubic.txt",
+				"timotheegroleau.com/Flash/articles/cubic_bezier_in_flash.htm",
+				"timotheegroleau.com/Flash/experiments/easing_function_generator.htm"
+			]
+		},
+		{
 			"date": "2019-07-04",
 			"item": [
 				"ssc.ca.gov/disasters/after_earthquake.html",

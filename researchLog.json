@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-06",
+			"item": [
+				"gist.github.com/MadRabbit/996893",
+				"wd.dizaina.net/en/responsive-website-testing",
+				"mattsnider.com/passing-objects-into-addeventlistener-instead-of-functions",
+				"github.com/wilddeer/Event-Burrito"
+			]
+		},
+		{
 			"date": "2019-07-05",
 			"item": [
 				"github.com/wilddeer/Peppermint",

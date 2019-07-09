@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-07",
+			"item": [
+				"flafla2.github.io/2014/08/09/perlinnoise.html",
+				"ijsrp.org/research-paper-0314/ijsrp-p2719.pdf",
+				"tylermcginnis.com/ultimate-guide-to-execution-contexts-hoisting-scopes-and-closures-in-javascript"
+			]
+		},
+		{
 			"date": "2019-07-06",
 			"item": [
 				"gist.github.com/MadRabbit/996893",

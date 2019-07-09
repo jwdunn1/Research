@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-08",
+			"item": [
+				"mrl.nyu.edu/~perlin/paper445.pdf",
+				"eev.ee/blog/2016/05/29/perlin-noise",
+				"en.wikipedia.org/wiki/Jerk_(physics)",
+				"jigsaw.w3.org/css-validator/#validate_by_input"
+			]
+		},
+		{
 			"date": "2019-07-07",
 			"item": [
 				"flafla2.github.io/2014/08/09/perlinnoise.html",

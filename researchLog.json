@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-10",
+			"item": [
+				"jquery.malsup.com/cycle2/demo/carousel.php",
+				"jssor.com",
+				"idangero.us/swiper"
+			]
+		},
+		{
 			"date": "2019-07-09",
 			"item": [
 				"en.wikipedia.org/wiki/Smoothstep",

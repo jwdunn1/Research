@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-15",
+			"item": [
+				"pomax.github.io/bezierinfo",
+				"pomax.github.io/bezierjs",
+				"github.com/chromium/chromium/blob/master/ui/gfx/geometry/cubic_bezier.cc"
+			]
+		},
+		{
 			"date": "2019-07-14",
 			"item": [
 				"bl.ocks.org/mbostock/248bac3b8e354a9103c4",

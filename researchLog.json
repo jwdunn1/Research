@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-16",
+			"item": [
+				"arxiv.org/pdf/1907.05550.pdf",
+				"chioka.in/differences-between-the-l1-norm-and-the-l2-norm-least-absolute-deviations-and-least-squares",
+				"courses.shadmehrlab.org/Shortcourse/minimumjerk.pdf"
+			]
+		},
+		{
 			"date": "2019-07-15",
 			"item": [
 				"pomax.github.io/bezierinfo",

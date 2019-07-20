@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2017-07-19",
+			"item": [
+				"arxiv.org/pdf/1907.07958.pdf",
+				"arxiv.org/pdf/1907.07029.pdf",
+				"arxiv.org/pdf/1907.06884.pdf"
+			]
+		},
+		{
 			"date": "2019-07-18",
 			"item": [
 				"github.com/TomaszRewak/ML-games",

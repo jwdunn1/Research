@@ -1,7 +1,15 @@
 {
 	"entry": [
 		{
-			"date": "2017-07-19",
+			"date": "2019-07-20",
+			"item": [
+				"github.com/mietek/ease-tween",
+				"en.wikipedia.org/wiki/James_Franklin_Hyde",
+				"ai.stanford.edu/~ang/papers/icml04-apprentice.pdf"
+			]
+		},
+		{
+			"date": "2019-07-19",
 			"item": [
 				"arxiv.org/pdf/1907.07958.pdf",
 				"arxiv.org/pdf/1907.07029.pdf",

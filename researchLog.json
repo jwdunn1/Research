@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-22",
+			"item": [
+				"nickols.us/solving_business_problems.pdf",
+				"intel.com/content/dam/www/public/us/en/documents/white-papers/ai-poc-whitepaper.pdf",
+				"aima.cs.berkeley.edu"
+			]
+		},
+		{
 			"date": "2019-07-20",
 			"item": [
 				"github.com/mietek/ease-tween",

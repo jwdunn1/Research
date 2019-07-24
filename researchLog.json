@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-23",
+			"item": [
+				"machinelearning.org/archive/icml2009/papers/218.pdf",
+				"browserbench.org",
+				"fast.ai",
+				"ldjam.com"
+			]
+		},
+		{
 			"date": "2019-07-22",
 			"item": [
 				"nickols.us/solving_business_problems.pdf",

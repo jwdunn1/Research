@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-25",
+			"item": [
+				"tensorflow.org/js",
+				"ai.google",
+				"btholt.github.io/four-semesters-of-cs"
+			]
+		},
+		{
 			"date": "2019-07-24",
 			"item": [
 				"mljs.github.io/matrix",

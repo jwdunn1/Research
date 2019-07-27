@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-26",
+			"item": [
+				"arxiv.org/pdf/1904.04223.pdf",
+				"shadertoy.com",
+				"ctrl-alt-test.fr/minifier"
+			]
+		},
+		{
 			"date": "2019-07-25",
 			"item": [
 				"tensorflow.org/js",

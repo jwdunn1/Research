@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-07-28",
+			"item": [
+				"arxiv.org/pdf/1903.05156.pdf",
+				"coursera.org/specializations/algorithms",
+				"github.com/MicrosoftEdge"
+			]
+		},
+		{
 			"date": "2019-07-27",
 			"item": [
 				"coursera.org/learn/practical-rl",

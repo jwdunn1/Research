@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-01",
+			"item": [
+				"arxiv.org/pdf/1806.02487.pdf",
+				"ps2pdf.org",
+				"shadertoy.com/view/WlsSWS",
+				"lebab.unibtc.me"
+			]
+		},
+		{
 			"date": "2019-07-30",
 			"item": [
 				"github.com/mourner/tinyqueue",

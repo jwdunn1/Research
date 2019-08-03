@@ -3,6 +3,14 @@
 		{
 			"date": "2019-08-01",
 			"item": [
+				"owlcarousel2.github.io/OwlCarousel2",
+				"zoox.com",
+				"paulirish.com/2012/why-moving-elements-with-translate-is-better-than-posabs-topleft"
+			]
+		},
+		{
+			"date": "2019-07-31",
+			"item": [
 				"arxiv.org/pdf/1806.02487.pdf",
 				"ps2pdf.org",
 				"shadertoy.com/view/WlsSWS",

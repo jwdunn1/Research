@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-02",
+			"item": [
+				"cpp.sh",
+				"arxiv.org/pdf/1907.03465.pdf",
+				"paulbourke.net/geometry/bezier"
+			]
+		},
+		{
 			"date": "2019-08-01",
 			"item": [
 				"owlcarousel2.github.io/OwlCarousel2",

@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-03",
+			"item": [
+				"github.com/tambien/deeplearnjs",
+				"dotnetfiddle.net",
+				"calcxml.com/calculators/business-valuation"
+			]
+		},
+		{
 			"date": "2019-08-02",
 			"item": [
 				"cpp.sh",

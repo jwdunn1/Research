@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-04",
+			"item": [
+				"ceng.eskisehir.edu.tr/emrekacmaz/bil158/Algorithms3.pdf",
+				"arxiv.org/pdf/1706.05104.pdf"
+			]
+		},
+		{
 			"date": "2019-08-03",
 			"item": [
 				"github.com/tambien/deeplearnjs",

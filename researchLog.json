@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-05",
+			"item": [
+				"aclweb.org/anthology/P14-1004",
+				"mojavelinux.com/articles/javascript_hashes.html"
+			]
+		},
+		{
 			"date": "2019-08-04",
 			"item": [
 				"ceng.eskisehir.edu.tr/emrekacmaz/bil158/Algorithms3.pdf",

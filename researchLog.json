@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-06",
+			"item": [
+				"artint.info/AIPython/aipython.pdf",
+				"it-c.dk/people/pagh/papers/cuckoo-jour.pdf"
+			]
+		},
+		{
 			"date": "2019-08-05",
 			"item": [
 				"aclweb.org/anthology/P14-1004",

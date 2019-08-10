@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-08",
+			"item": [
+				"www-cs-students.stanford.edu/~csilvers/papers",
+				"bleedingfingersmusic.com"
+			]
+		},
+		{
 			"date": "2019-08-06",
 			"item": [
 				"artint.info/AIPython/aipython.pdf",

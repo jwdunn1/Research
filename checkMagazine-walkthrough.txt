@@ -1,0 +1,49 @@
+5 2
+z b m a n
+n b
+
+mag: z b m a n
+note: n b
+
+sorted:
+a b m n z
+b n
+
+walk the two lists:
+i=0
+a b m n z
+b n
+j=0
+
+
+  i=1
+a b m n z
+b n
+j=0
+
+    i=2
+a b m n z
+b n
+  j=1
+
+      i=3
+a b m n z
+b n
+  j=1
+
+        i=4
+a b m n z
+b n
+    j=2
+
+breaks for loop since j==nLen
+reports Yes
+
+
+
+5 2
+z b m a n
+n b q
+
+in this case, index i goes to the end of the magazine, breaks the loop, and j never reaches nLen
+reports No

@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-18",
+			"item": [
+				"medium.com/basecs",
+				"dotnetcurry.com/windows-azure/1395/cosmosdb-webapi-angular-client",
+				"stackoverflow.com/questions/32780315/could-not-find-a-part-of-the-path-bin-roslyn-csc-exe",
+				"github.com/buckyroberts/angular-2-template"
+			]
+		},
+		{
 			"date": "2019-08-16",
 			"item": [
 				"en.wikipedia.org/wiki/Black_Hornet_Nano",

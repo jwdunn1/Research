@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-20",
+			"item": [
+				"martinfowler.com/articles/microservices.html",
+				"docs.microsoft.com/en-us/azure/architecture/microservices",
+				"elevatorsaga.com",
+				"julie.io/writing/javascript-node-modules"
+			]
+		},
+		{
 			"date": "2019-08-18",
 			"item": [
 				"medium.com/basecs",

@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-23",
+			"item": [
+				"c-sharpcorner.com",
+				"microservices.io",
+				"docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html",
+				"testdome.com"
+			]
+		},
+		{
 			"date": "2019-08-22",
 			"item": [
 				"blogs.gartner.com/gary-olliffe/2017/01/31/what-a-microservice-is-not",

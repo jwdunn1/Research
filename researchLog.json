@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-25",
+			"item": [
+				"docs.microsoft.com/en-us/azure/azure-functions/tutorial-vs-code-serverless-python",
+				"alistapart.com/article/writing-testable-javascript",
+				"wordclouds.com"
+			]
+		},
+		{
 			"date": "2019-08-23",
 			"item": [
 				"c-sharpcorner.com",

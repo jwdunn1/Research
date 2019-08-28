@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-27",
+			"item": [
+				"scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design",
+				"kefrobotics.com",
+				"networkop.co.uk/blog/2016/01/01/rest-for-neteng",
+				"programmingwithmosh.com/net/csharp-collections"
+			]
+		},
+		{
 			"date": "2019-08-26",
 			"item": [
 				"blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html",

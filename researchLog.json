@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-26",
+			"item": [
+				"blog.cleancoder.com/uncle-bob/2014/10/01/CleanMicroserviceArchitecture.html",
+				"youtu.be/axF_nHHchFQ",
+				"codebasil.com/problems"
+			]
+		},
+		{
 			"date": "2019-08-25",
 			"item": [
 				"docs.microsoft.com/en-us/azure/azure-functions/tutorial-vs-code-serverless-python",

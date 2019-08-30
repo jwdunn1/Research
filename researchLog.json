@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-28",
+			"item": [
+				"jsperf.com/hashcode/6",
+				"ics.uci.edu/~fielding/pubs/webarch_icse2000.pdf",
+				"youtube.com/watch?v=t-VUpX-xVo4",
+				"andrew.cmu.edu/course/48-747"
+			]
+		},
+		{
 			"date": "2019-08-27",
 			"item": [
 				"scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design",

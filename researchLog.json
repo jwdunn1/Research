@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-08-29",
+			"item": [
+				"about:blank",
+				"docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures",
+				"blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html"
+			]
+		},
+		{
 			"date": "2019-08-28",
 			"item": [
 				"jsperf.com/hashcode/6",

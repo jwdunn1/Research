@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-09-01",
+			"item": [
+				"docs.microsoft.com/en-us/azure/sql-database/sql-database-connect-query-dotnet-visual-studio",
+				"c-sharpcorner.com/article/getting-started-with-mongodb-mongodb-in-azure-cosmos-db",
+				"stackoverflow.com/questions/28822034/simple-node-js-server-that-sends-htmlcss-as-response"
+			]
+		},
+		{
 			"date": "2019-08-31",
 			"item": [
 				"cs.stackexchange.com",

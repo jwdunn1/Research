@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-09-04",
+			"item": [
+				"opacity.ru",
+				"n3design.com",
+				"visualgo.net/en"
+			]
+		},
+		{
 			"date": "2019-09-03",
 			"item": [
 				"github.com/yenchenlin/DeepLearningFlappyBird",

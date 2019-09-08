@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-09-06",
+			"item": [
+				"pythontutor.com/javascript.html",
+				"tiobe.com/tiobe-index",
+				"open-std.org/Jtc1/sc22/wg21/docs/papers/2012/n3333.html",
+				"html5gameengine.com"
+			]
+		},
+		{
 			"date": "2019-09-05",
 			"item": [
 				"love2dev.com/blog/javascript-remove-from-array",

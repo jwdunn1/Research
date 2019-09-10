@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-09-08",
+			"item": [
+				"torokmark.github.io/design_patterns_in_typescript",
+				"chronicle.com/article/How-to-Curate-Your-Digital/151001",
+				"theory.stanford.edu/~amitp/papers/thesis.pdf"
+			]
+		},
+		{
 			"date": "2019-09-07",
 			"item": [
 				"academia.edu/38938819/JavaScript_Data_Structures_and_Algorithms",

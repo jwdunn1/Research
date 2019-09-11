@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-09-09",
+			"item": [
+				"github.com/Apress/js-data-structures-and-algorithms",
+				"github.com/Apress/cpp17-standard-library-quick-ref",
+				"github.com/v8/v8",
+				"computer.org/education/bodies-of-knowledge/software-engineering"
+			]
+		},
+		{
 			"date": "2019-09-08",
 			"item": [
 				"torokmark.github.io/design_patterns_in_typescript",

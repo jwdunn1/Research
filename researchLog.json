@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-09-13",
+			"item": [
+				"arxiv.org/pdf/1909.03475.pdf",
+				"github.com/mathiasbynens",
+				"jsdelivr.com",
+				"cdn.jsdelivr.net/gh/freshfork/p5.EasyCam@1.0.10/p5.easycam.min.js"
+			]
+		},
+		{
 			"date": "2019-09-09",
 			"item": [
 				"github.com/Apress/js-data-structures-and-algorithms",

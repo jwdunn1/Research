@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2019-09-23",
+			"item": [
+				"redblobgames.com/pathfinding/a-star",
+				"motionscript.com",
+				"arxiv.org/pdf/1207.4825.pdf",
+				"yezhouyang.engineering.asu.edu/research-group"
+			]
+		},
+		{
 			"date": "2019-09-22",
 			"item": [
 				"csvjson.com/csv2json",

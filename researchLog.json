@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-09-26",
+			"item": [
+				"github.com/isaacs/github/issues/1385",
+				"softwareengineering.stackexchange.com/questions/273156/how-should-i-contribute-to-a-mostly-abandoned-github-project",
+				"sloanreview.mit.edu/article/how-to-inadvertently-sabotage-your-organization"
+			]
+		},
+		{
 			"date": "2019-09-25",
 			"item": [
 				"github.com/jrc03c/queasycam",

@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-03",
+			"item": [
+				"oddone.co",
+				"github.com/michalsnik/aos",
+				"bradfieldcs.com/algos"
+			]
+		},
+		{
 			"date": "2019-10-02",
 			"item": [
 				"jkorpela.fi/quirks-mode.html",

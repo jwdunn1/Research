@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-05",
+			"item": [
+				"nature.com/scitable/topicpage/r-sum-s-13988471",
+				"github.com/google/closure-library",
+				"jsperf.com/quicksort-vs-heapsort"
+			]
+		},
+		{
 			"date": "2019-10-04",
 			"item": [
 				"francescocirillo.com/pages/pomodoro-technique",

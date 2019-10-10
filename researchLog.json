@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-09",
+			"item": [
+				"reddit.com/r/cscareerquestions",
+				"tutorialspoint.com/execute_nodejs_online.php",
+				"codesandbox.io"
+			]
+		},
+		{
 			"date": "2019-10-08",
 			"item": [
 				"tecadmin.net/remove-last-character-from-string-in-javascript",

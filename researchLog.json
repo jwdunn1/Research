@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-10",
+			"item": [
+				"egghead.io/lessons/javascript-setting-up-unit-testing-with-mocha-and-chai",
+				"codeburst.io",
+				"ghostrobotics.io/robots"
+			]
+		},
+		{
 			"date": "2019-10-09",
 			"item": [
 				"reddit.com/r/cscareerquestions",

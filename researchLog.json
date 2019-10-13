@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-12",
+			"item": [
+				"open.kattis.com/problems/dungeon",
+				"github.com/amejiarosario/dsa.js-data-structures-algorithms-javascript"
+			]
+		},
+		{
 			"date": "2019-10-10",
 			"item": [
 				"egghead.io/lessons/javascript-setting-up-unit-testing-with-mocha-and-chai",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-13",
+			"item": [
+				"github.com/diwi/PixelVoronoi_KdTree",
+				"dimitris-ladopoulos.xyz"
+			]
+		},
+		{
 			"date": "2019-10-12",
 			"item": [
 				"open.kattis.com/problems/dungeon",

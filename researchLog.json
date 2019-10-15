@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-14",
+			"item": [
+				"cise.ufl.edu/~ungor/courses/fall06/papers/QuickHull.pdf",
+				"www-cs.ccny.cuny.edu/~wolberg/capstone/voronoi/voronoiSurvey.pdf"
+			]
+		},
+		{
 			"date": "2019-10-13",
 			"item": [
 				"github.com/diwi/PixelVoronoi_KdTree",

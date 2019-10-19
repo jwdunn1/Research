@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-18",
+			"item": [
+				"aws.amazon.com/rds/aurora",
+				"azure.microsoft.com/en-us/services/sql-database",
+				"cloud.google.com/sql"
+			]
+		},
+		{
 			"date": "2019-10-17",
 			"item": [
 				"openprocessing.org/sketch/734979",

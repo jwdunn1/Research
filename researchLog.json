@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-19",
+			"item": [
+				"techonthenet.com/sql/select_exercises.php",
+				"w3resource.com/sql-exercises"
+			]
+		},
+		{
 			"date": "2019-10-18",
 			"item": [
 				"aws.amazon.com/rds/aurora",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-21",
+			"item": [
+				"github.com/Azure/azure-quickstart-templates",
+				"runwayml.com"
+			]
+		},
+		{
 			"date": "2019-10-20",
 			"item": [
 				"codefellows.org",

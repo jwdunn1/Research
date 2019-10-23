@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-22",
+			"item": [
+				"internetlivestats.com/total-number-of-websites",
+				"bostondynamics.com/spot"
+			]
+		},
+		{
 			"date": "2019-10-21",
 			"item": [
 				"github.com/Azure/azure-quickstart-templates",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-26",
+			"item": [
+				"courses.cs.washington.edu/courses/csep552/13sp/lectures/4/concurrency_recovery.pdf",
+				"people.eecs.berkeley.edu/~franklin/CS186F00/lectures/lecture21.pdf"
+			]
+		},
+		{
 			"date": "2019-10-25",
 			"item": [
 				"stackoverflow.com/questions/18630019/running-apache-hadoop-2-1-0-on-windows",

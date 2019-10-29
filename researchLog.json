@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-28",
+			"item": [
+				"courses.cs.washington.edu/courses/cse444",
+				"guides.libraries.psu.edu/apaquickguide"
+			]
+		},
+		{
 			"date": "2019-10-27",
 			"item": [
 				"cs.princeton.edu/courses/archive/fall16/cos418/papers/franklin97.pdf",

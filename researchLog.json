@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-29",
+			"item": [
+				"rossbencina.com/code/lockfree",
+				"cs.cmu.edu/~410-s05/lectures/L31_LockFree.pdf",
+				"cs.uct.ac.za/mit_notes"
+			]
+		},
+		{
 			"date": "2019-10-28",
 			"item": [
 				"courses.cs.washington.edu/courses/cse444",

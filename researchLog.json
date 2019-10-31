@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-10-30",
+			"item": [
+				"scala-js.org",
+				"pdfs.semanticscholar.org/3ba1/d574bb92ffbbc98f134a10138108dbc3e49b.pdf"
+			]
+		},
+		{
 			"date": "2019-10-29",
 			"item": [
 				"rossbencina.com/code/lockfree",

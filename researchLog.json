@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-11-03",
+			"item": [
+				"db.csail.mit.edu/6.830/lectures/lec12-notes.pdf",
+				"db.csail.mit.edu/6.830/lectures/lec12-13.pdf"
+			]
+		},
+		{
 			"date": "2019-11-02",
 			"item": [
 				"denninginstitute.com/pjd/PUBS/ENC/vm08.pdf",

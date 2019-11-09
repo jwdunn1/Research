@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-11-05",
+			"item": [
+				"db.cs.berkeley.edu/papers/fntdb07-architecture.pdf",
+				"github.com/MarkCLewis/ProblemSolvingUsingScala"
+			]
+		},
+		{
 			"date": "2019-11-03",
 			"item": [
 				"db.csail.mit.edu/6.830/lectures/lec12-notes.pdf",

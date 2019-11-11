@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-11-09",
+			"item": [
+				"github.com/joeyespo/grip",
+				"pdfs.semanticscholar.org/466b/40ce50096933cd5b0f41bb1848f0133bddc6.pdf",
+				"mathily.org/dm-rw.html"
+			]
+		},
+		{
 			"date": "2019-11-05",
 			"item": [
 				"db.cs.berkeley.edu/papers/fntdb07-architecture.pdf",

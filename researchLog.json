@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-11-11",
+			"item": [
+				"allendowney.com/ss08/handouts/dean08mapreduce.pdf",
+				"sungsoo.github.io/2015/01/23/layers-of-query-processing.html"
+			]
+		},
+		{
 			"date": "2019-11-10",
 			"item": [
 				"developer.yahoo.com/hadoop/tutorial/module4.html",

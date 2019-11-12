@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2019-11-10",
+			"item": [
+				"developer.yahoo.com/hadoop/tutorial/module4.html",
+				"patents.google.com/patent/US7650331B1/en",
+				"quora.com/How-do-I-optimize-a-MapReduce-job"
+			]
+		},
+		{
 			"date": "2019-11-09",
 			"item": [
 				"github.com/joeyespo/grip",

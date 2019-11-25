@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-11-23",
+			"item": [
+				"openframeworks.cc",
+				"vimeo.com/laserstorm"
+			]
+		},
+		{
 			"date": "2019-11-19",
 			"item": [
 				"aws.amazon.com/emr/features/hadoop",

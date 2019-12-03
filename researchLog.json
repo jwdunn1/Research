@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-12-01",
+			"item": [
+				"omnisci.com/demos/taxis",
+				"books.google.com/books?id=EOwxAwAAQBAJ&pg=SA20-PA1"
+			]
+		},
+		{
 			"date": "2019-11-30",
 			"item": [
 				"citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.209.1087&rep=rep1&type=pdf",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-12-02",
+			"item": [
+				"scg.unibe.ch/archive/software/w3catalog",
+				"lexico.com"
+			]
+		},
+		{
 			"date": "2019-12-01",
 			"item": [
 				"omnisci.com/demos/taxis",

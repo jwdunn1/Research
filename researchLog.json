@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2019-12-10",
+			"item": [
+				"opendata.cityofnewyork.us",
+				"ominoushum.com/puzzle"
+			]
+		},
+		{
 			"date": "2019-12-09",
 			"item": [
 				"pluralsight.com/paths/microsoft-azure-for-developers",

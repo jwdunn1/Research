@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2019-12-31",
+			"item": [
+				"arxiv.org/pdf/1912.13517.pdf"
+			]
+		},
+		{
 			"date": "2019-12-30",
 			"item": [
 				"itp-xstory.github.io/p5js-shaders"

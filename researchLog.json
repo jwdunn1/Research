@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-01",
+			"item": [
+				"arxiv.org/pdf/2001.00001.pdf"
+			]
+		},
+		{
 			"date": "2019-12-31",
 			"item": [
 				"arxiv.org/pdf/1912.13517.pdf"

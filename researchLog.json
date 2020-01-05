@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-04",
+			"item": [
+				"quiescent.us/2014/08/what-is-a-unit-test"
+			]
+		},
+		{
 			"date": "2020-01-03",
 			"item": [
 				"independent-software.com/determining-coordinates-on-a-html-canvas-bezier-curve.html",

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-05",
+			"item": [
+				"mattdesl.svbtle.com/drawing-lines-is-hard"
+			]
+		},
+		{
 			"date": "2020-01-04",
 			"item": [
 				"quiescent.us/2014/08/what-is-a-unit-test"

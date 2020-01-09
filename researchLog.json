@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-08",
+			"item": [
+				"leafletjs.com",
+				"gridexamples.com"
+			]
+		},
+		{
 			"date": "2020-01-06",
 			"item": [
 				"arxiv.org/pdf/2001.01521.pdf"

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-15",
+			"item": [
+				"colab.research.google.com  online Python notebook",
+				"github.com/mdboom/iodide  browser JavaScript notebook"
+			]
+		},
+		{
 			"date": "2020-01-14",
 			"item": [
 				"microsoft.com/en-us/windows/windows-7-end-of-life-support-information",

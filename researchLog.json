@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-20",
+			"item": [
+				"github.com/manoelcampos/free-software-testing-books",
+				"fokus.fraunhofer.de/en/sqc/fokusmbt"
+			]
+		},
+		{
 			"date": "2020-01-19",
 			"item": [
 				"stickyminds.com",

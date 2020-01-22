@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-21",
+			"item": [
+				"validator.w3.org",
+				"arxiv.org/pdf/1907.08490.pdf"
+			]
+		},
+		{
 			"date": "2020-01-20",
 			"item": [
 				"github.com/manoelcampos/free-software-testing-books",

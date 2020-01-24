@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-23",
+			"item": [
+				"glossary.istqb.org",
+				"erikvanveenendaal.nl/site/wp-content/uploads/ISTQB_Glossary-All-Terms_V3.3.pdf"
+			]
+		},
+		{
 			"date": "2020-01-22",
 			"item": [
 				"pitest.org",

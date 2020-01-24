@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-22",
+			"item": [
+				"pitest.org",
+				"stryker-mutator.io"
+			]
+		},
+		{
 			"date": "2020-01-21",
 			"item": [
 				"validator.w3.org",

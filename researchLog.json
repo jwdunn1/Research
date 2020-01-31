@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-29",
+			"item": [
+				"sttp.site",
+				"github.com/gofraser",
+				"code-defenders.org",
+				"code-defenders.org/papers/SIGCSE19_Course.pdf"
+			]
+		},
+		{
 			"date": "2020-01-28",
 			"item": [
 				"ai.stanford.edu/~ronnyk",

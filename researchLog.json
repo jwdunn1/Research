@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-01-31",
+			"item": [
+				"cs.swan.ac.uk/~csmarkus/CS339/dissertations",
+				"pandas.pydata.org/Pandas_Cheat_Sheet.pdf",
+				"c-span.org"
+			]
+		},
+		{
 			"date": "2020-01-30",
 			"item": [
 				"la.disneyresearch.com",

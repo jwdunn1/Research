@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-02-07",
+			"item": [
+				"pypi.org/project/coverage",
+				"notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf",
+				"github.com/microsoft/pict"
+			]
+		},
+		{
 			"date": "2020-02-06",
 			"item": [
 				"users.csc.calpoly.edu/~jdalbey/206/Lectures/BasisPathTutorial/index.html",

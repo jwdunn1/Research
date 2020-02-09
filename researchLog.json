@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-02-08",
+			"item": [
+				"jestjs.io",
+				"gotwarlost.github.io/istanbul",
+				"classroom.udacity.com/courses/cs258  Software Testing"
+			]
+		},
+		{
 			"date": "2020-02-07",
 			"item": [
 				"pypi.org/project/coverage",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-02-26",
+			"item": [
+				"classroom.udacity.com/courses/ud401  Graduate Algo",
+				"classroom.udacity.com/courses/cs215  Intro to Algo"
+			]
+		},
+		{
 			"date": "2020-02-25",
 			"item": [
 				"github.com/processing/p5.js/wiki/Local-server",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-03-07",
+			"item": [
+				"cs.uwaterloo.ca/~lapchi/cs270/notes.html",
+				"cs.princeton.edu/courses/archive/fall14/cos521"
+			]
+		},
+		{
 			"date": "2020-03-06",
 			"item": [
 				"medium.com/@codingfreak/top-algorithms-data-structures-concepts-every-computer-science-student-should-know-e0549c67b4ac",

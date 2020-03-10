@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-03-09",
+			"item": [
+				"github.com/0bprashanthc/algorithm-books",
+				"ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015"
+			]
+		},
+		{
 			"date": "2020-03-08",
 			"item": [
 				"courses.cs.washington.edu/courses/cse521/10wi",

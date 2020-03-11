@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-03-10",
+			"item": [
+				"github.com/davie890/CS102-Algorithm-Analysis",
+				"github.com/brandonskerritt/AlgorithmsBook/blob/master/markdownposting.md"
+			]
+		},
+		{
 			"date": "2020-03-09",
 			"item": [
 				"github.com/0bprashanthc/algorithm-books",

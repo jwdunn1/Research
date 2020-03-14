@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-03-13",
+			"item": [
+				"github.com/jeffgerickson/algorithms",
+				"jeffe.cs.illinois.edu/teaching/algorithms"
+			]
+		},
+		{
 			"date": "2020-03-12",
 			"item": [
 				"theory.stanford.edu/~tim/w16/l/l18.pdf",

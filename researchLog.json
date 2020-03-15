@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-03-14",
+			"item": [
+				"cs.princeton.edu/courses/archive/spring13/cos423/lectures.php",
+				"cs.princeton.edu/~wayne/teaching"
+			]
+		},
+		{
 			"date": "2020-03-13",
 			"item": [
 				"github.com/jeffgerickson/algorithms",

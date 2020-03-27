@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-03-25",
+			"item": [
+				"arxiv.org/pdf/1608.08144.pdf",
+				"zimmer.csufresno.edu/~larryc/proofs/proofs.introduction.html"
+			]
+		},
+		{
 			"date": "2020-03-24",
 			"item": [
 				"cs.usfca.edu/~galles/visualization/Algorithms.html",

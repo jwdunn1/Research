@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-03-31",
+			"item": [
+				"github.com/tadeuszjt/ecosystem",
+				"github.com/eliasz/jseco"
+			]
+		},
+		{
 			"date": "2020-03-29",
 			"item": [
 				"de-form.hu",

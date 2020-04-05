@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-04-03",
+			"item": [
+				"homepage.cs.uiowa.edu/~hzhang/c31/notes  on algorithms/recursion",
+				"dynsyslab.org/wp-content/papercite-data/pdf/schoellig-acc12.pdf"
+			]
+		},
+		{
 			"date": "2020-04-02",
 			"item": [
 				"eloquentjavascript.net",

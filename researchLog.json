@@ -1,6 +1,16 @@
 {
 	"entry": [
 		{
+			"item": []
+		},
+		{
+			"date": "2020-04-12",
+			"item": [
+				"arxiv.org/pdf/2004.01180.pdf",
+				"en.wikipedia.org/wiki/Miura_fold"
+			]
+		},
+		{
 			"date": "2020-04-11",
 			"item": [
 				"ebookfoundation.github.io/free-programming-books/free-programming-books.html#algorithms--data-structures",

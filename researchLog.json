@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-04-17",
+			"item": [
+				"cs.dartmouth.edu/~thc",
+				"khanacademy.org/computing/computer-science/algorithms"
+			]
+		},
+		{
 			"date": "2020-04-16",
 			"item": [
 				"fabiensanglard.net/floating_point_visually_explained",

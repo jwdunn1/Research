@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-04-24",
+			"item": [
+				"colorzilla.com",
+				"gocomics.com"
+			]
+		},
+		{
 			"date": "2020-04-23",
 			"item": [
 				"stackoverflow.com/questions/46616289/why-does-css-grid-layout-add-extra-gaps-between-cells",

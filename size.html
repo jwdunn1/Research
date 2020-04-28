@@ -11,7 +11,8 @@ function setup() {
 function draw() {
   background(100);
   var ratio = width/height;
-  text(width+"x"+height+" "+ratio, 32, 64);
+  text(width+"x"+height, 32, 64);
+  text(ratio, 32, 132);
 }
 
 function windowResized() {

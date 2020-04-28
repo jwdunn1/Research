@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-04-26",
+			"item": [
+				"alligator.io/css/prevent-line-break",
+				"stackoverflow.com/questions/49724432/how-to-make-an-image-map-responsive"
+			]
+		},
+		{
 			"date": "2020-04-25",
 			"item": [
 				"unicode.org/charts/nameslist/n_25A0.html"

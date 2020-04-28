@@ -4,13 +4,14 @@
 <script>//begin
 
 function setup() {
-	createCanvas(windowWidth, windowHeight);
-	textSize(64);
+  createCanvas(windowWidth, windowHeight);
+  textSize(64);
 }
 
 function draw() {
-	background(100);
-  text(width+"x"+height, 32, 64);
+  background(100);
+  var ratio = width/height;
+  text(width+"x"+height+" "+ratio, 32, 64);
 }
 
 function windowResized() {

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2020-04-29",
+			"item": [
+				"codexpedia.com/javascript/use-the-function-form-of-use-strict"
+			]
+		},
+		{
 			"date": "2020-04-26",
 			"item": [
 				"alligator.io/css/prevent-line-break",

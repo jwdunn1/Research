@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-05-01",
+			"item": [
+				"richosoft2.co.uk/resources/jspack/asp2php.html",
+				"html.form.guide/email-form/php-form-to-email.html"
+			]
+		},
+		{
 			"date": "2020-04-30",
 			"item": [
 				"github.com/DivineOmega/simple-neural-network-js",

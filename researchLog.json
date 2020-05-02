@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-04-30",
+			"item": [
+				"github.com/DivineOmega/simple-neural-network-js",
+				"research.investors.com"
+			]
+		},
+		{
 			"date": "2020-04-29",
 			"item": [
 				"codexpedia.com/javascript/use-the-function-form-of-use-strict"

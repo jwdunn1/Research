@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-05-05",
+			"item": [
+				"github.com/mattdesl",
+				"github.com/inconvergent"
+			]
+		},
+		{
 			"date": "2020-05-04",
 			"item": [
 				"p5js.org/reference/#/p5/filter",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-05-11",
+			"item": [
+				"github.com/freshfork/p5.EasyCam/issues/1",
+				"rules.sonarsource.com/javascript"
+			]
+		},
+		{
 			"date": "2020-05-10",
 			"item": [
 				"11secondclub.com",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-05-17",
+			"item": [
+				"datacamp.com/community/data-science-cheatsheets",
+				"arxiv.org/pdf/1007.2301.pdf"
+			]
+		},
+		{
 			"date": "2020-05-16",
 			"item": [
 				"fecundity.com/codex/forallx.pdf",

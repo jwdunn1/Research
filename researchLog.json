@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-05-21",
+			"item": [
+				"lo-th.github.io/Ammo.lab",
+				"github.com/samuelgirardin/Energy.js"
+			]
+		},
+		{
 			"date": "2020-05-20",
 			"item": [
 				"stackoverflow.com/questions/11183174/simplest-way-to-detect-a-pinch",

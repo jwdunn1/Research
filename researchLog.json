@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-06-06",
+			"item": [
+				"jswiki.org",
+				"github.com/sorrycc/awesome-javascript",
+				"martin.ankerl.com/2009/12/09/how-to-create-random-colors-programmatically"
+			]
+		},
+		{
 			"date": "2020-06-05",
 			"item": [
 				"stackoverflow.com/questions/55042253/catch-pinch-zoom-in-browser",

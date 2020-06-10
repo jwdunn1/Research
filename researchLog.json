@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-06-08",
+			"item": [
+				"colorizer.org",
+				"github.com/RMichaelSwan/Genetic-Algorithm-Demo",
+				"webassembly.org"
+			]
+		},
+		{
 			"date": "2020-06-06",
 			"item": [
 				"jswiki.org",

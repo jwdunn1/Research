@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-06-12",
+			"item": [
+				"developers.google.com/speed/pagespeed/insights",
+				"developers.google.com/web/fundamentals/performance/rendering/optimize-javascript-execution",
+				"developers.google.com/web/tools/chrome-devtools/evaluate-performance",
+				"fermatslibrary.com/s/apollo-11-implementation-of-trigonometric-functions"
+			]
+		},
+		{
 			"date": "2020-06-11",
 			"item": [
 				"freecodecamp.org/news/hone-your-javascript-skills-by-building-these-15-projects",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-06-19",
+			"item": [
+				"docs.lib.purdue.edu/dissertations",
+				"shadertoyunofficial.wordpress.com/2019/01/02/programming-tricks-in-shadertoy-glsl"
+			]
+		},
+		{
 			"date": "2020-06-15",
 			"item": [
 				"github.com/Janglee123/Pixel-Physics",

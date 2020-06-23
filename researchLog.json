@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-06-21",
+			"item": [
+				"haptic-data.com/toxiclibsjs",
+				"github.com/postspectacular"
+			]
+		},
+		{
 			"date": "2020-06-20",
 			"item": [
 				"editor.p5js.org/javier/sketches/wzLQrzS0t   box2d in p5.js",

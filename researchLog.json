@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-06-22",
+			"item": [
+				"web.archive.org/web/20080227163027/http://www.gamasutra.com/resource_guide/20030121/jacobson_pfv.htm",
+				"cs.cmu.edu/~baraff/sigcourse/index.html"
+			]
+		},
+		{
 			"date": "2020-06-21",
 			"item": [
 				"haptic-data.com/toxiclibsjs",

@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-06-27",
+			"item": [
+				"stackoverflow.com/questions/43727516/javascript-how-adding-event-handler-inside-a-class-with-a-class-method-as-the-c/43727582",
+				"coursicle.com/cmu/courses/ENG/76393",
+				"odannyboy.com/blog/cmu/archives/cat_design_theory.html",
+				"kripken.github.io/ammo.js/examples/webgl_demo_vehicle/index.html"
+			]
+		},
+		{
 			"date": "2020-06-24",
 			"item": [
 				"gist.github.com/alexZajac/53e34f255a50c040d815a6c1b881215c  JS tricks",

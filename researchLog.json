@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-06-28",
+			"item": [
+				"geometrictools.com/Documentation/PlatonicSolids.pdf",
+				"blog.andreaskahler.com/2009/06/creating-icosphere-mesh-in-code.html",
+				"richardssoftware.net/Home/Post/60"
+			]
+		},
+		{
 			"date": "2020-06-27",
 			"item": [
 				"stackoverflow.com/questions/43727516/javascript-how-adding-event-handler-inside-a-class-with-a-class-method-as-the-c/43727582",

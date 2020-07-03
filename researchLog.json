@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-01",
+			"item": [
+				"github.com/stalgiag/p5.xr",
+				"github.com/immersive-web",
+				"en.wikipedia.org/wiki/Blazor",
+				"krpano.com/tours/paris"
+			]
+		},
+		{
 			"date": "2020-06-30",
 			"item": [
 				"editor.p5js.org/L05/sketches/l-66JjVKt  touch joystick for p5js",

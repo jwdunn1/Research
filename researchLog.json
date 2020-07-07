@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-05",
+			"item": [
+				"zty.pe",
+				"inside.github.io/ytype",
+				"github.com/trimstray/the-book-of-secret-knowledge",
+				"stackoverflow.com/questions/18976650/js-how-to-prevent-default-handling-of-middle-click"
+			]
+		},
+		{
 			"date": "2020-07-01",
 			"item": [
 				"github.com/stalgiag/p5.xr",

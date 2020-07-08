@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-06",
+			"item": [
+				"en.wikipedia.org/wiki/Spacewar!",
+				"mariusschulz.com/blog/returning-object-literals-from-arrow-functions-in-javascript",
+				"github.com/djD-REK/medium-articles",
+				"w3.org/TR/pointerlock"
+			]
+		},
+		{
 			"date": "2020-07-05",
 			"item": [
 				"zty.pe",

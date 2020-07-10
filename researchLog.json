@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-08",
+			"item": [
+				"guidebookgallery.org",
+				"lgdl.fun/html/test-js/pixel-fight",
+				"pixelsfighting.com"
+			]
+		},
+		{
 			"date": "2020-07-07",
 			"item": [
 				"p5js.org/examples/3d-ray-casting.html",

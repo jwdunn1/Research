@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-17",
+			"item": [
+				"polycount.com",
+				"github.com/nidorx/matcaps",
+				"developer.nvidia.com/gpugems/gpugems/part-vi-beyond-triangles/chapter-37-toolkit-computation-gpus"
+			]
+		},
+		{
 			"date": "2020-07-16",
 			"item": [
 				"clicktorelease.com/blog/creating-spherical-environment-mapping-shader",

@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-20",
+			"item": [
+				"arxiv.org/pdf/2004.00452.pdf",
+				"github.com/aferriss/p5jsShaderExamples",
+				"developer.playcanvas.com/en/user-manual/graphics/lighting/lightmapping",
+				"clicktorelease.com/code/spherical-normal-mapping"
+			]
+		},
+		{
 			"date": "2020-07-19",
 			"item": [
 				"github.blog/2020-07-16-github-archive-program-the-journey-of-the-worlds-open-source-code-to-the-arctic",

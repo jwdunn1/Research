@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-23",
+			"item": [
+				"openai.com/blog/openai-api",
+				"iquilezles.org/www/articles/noacos/noacos.htm",
+				"github.com/yomboprime/GPGPU-threejs-demos  see: js/GPUComputationRenderer2.js"
+			]
+		},
+		{
 			"date": "2020-07-21",
 			"item": [
 				"scratchapixel.com",

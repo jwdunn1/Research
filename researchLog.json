@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-24",
+			"item": [
+				"developer.nvidia.com/gpugems/gpugems2/part-vi-simulation-and-numerical-algorithms/chapter-46-improved-gpu-sorting",
+				"github.com/gpujs/gpu.js",
+				"arxiv.org/pdf/2007.03063.pdf"
+			]
+		},
+		{
 			"date": "2020-07-23",
 			"item": [
 				"openai.com/blog/openai-api",

@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-25",
+			"item": [
+				"jareddonovan.com/programming/fittss-law",
+				"en.wikipedia.org/wiki/Fitts%27s_law",
+				"codeproject.com/Articles/1170888/The-Flying-Camera",
+				"codeproject.com/Articles/1247960/Learning-Basic-Math-Used-In-3D-Graphics-Engines"
+			]
+		},
+		{
 			"date": "2020-07-24",
 			"item": [
 				"developer.nvidia.com/gpugems/gpugems2/part-vi-simulation-and-numerical-algorithms/chapter-46-improved-gpu-sorting",

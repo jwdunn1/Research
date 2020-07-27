@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-26",
+			"item": [
+				"arxiv.org/pdf/1912.05333.pdf",
+				"oatml.cs.ox.ac.uk/blog/2020/07/10/are-capsules-a-good-idea-a-generative-perspective.html",
+				"github.com/oolworkshop/oolworkshop.github.io/blob/master/pdf/OOL_6.pdf"
+			]
+		},
+		{
 			"date": "2020-07-25",
 			"item": [
 				"jareddonovan.com/programming/fittss-law",

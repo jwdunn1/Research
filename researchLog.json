@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-27",
+			"item": [
+				"randygaul.net/2019/06/19/collision-detection-in-2d-or-3d-some-steps-for-success",
+				"cineshader.com/editor",
+				"geometrictools.com/Documentation/ConstrainedQuaternions.pdf"
+			]
+		},
+		{
 			"date": "2020-07-26",
 			"item": [
 				"arxiv.org/pdf/1912.05333.pdf",

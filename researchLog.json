@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-30",
+			"item": [
+				"developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-29-real-time-rigid-body-simulation-gpus",
+				"code-poems.com",
+				"cdnpkg.com/uswds/2.6.0"
+			]
+		},
+		{
 			"date": "2020-07-29",
 			"item": [
 				"youtu.be/-L-WgKMFuhE  A* AStar A-Star Pathfinding",

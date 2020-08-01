@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-07-31",
+			"item": [
+				"classroom.udacity.com/courses/ud860",
+				"cs.ucf.edu/~jmesit/publications/scsc%202005.pdf",
+				"nbremer.github.io/exoplanets"
+			]
+		},
+		{
 			"date": "2020-07-30",
 			"item": [
 				"developer.nvidia.com/gpugems/gpugems3/part-v-physics-simulation/chapter-29-real-time-rigid-body-simulation-gpus",

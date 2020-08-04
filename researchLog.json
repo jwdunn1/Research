@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-08-02",
+			"item": [
+				"github.com/ysimonson/canvas.js",
+				"highlightjs.org/static/demo",
+				"stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array"
+			]
+		},
+		{
 			"date": "2020-08-01",
 			"item": [
 				"carbondesignsystem.com",

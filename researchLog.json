@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-08-03",
+			"item": [
+				"hsluv.org",
+				"github.com/hsluv/hsluv/tree/master/javascript",
+				"vimeo.com/170519762"
+			]
+		},
+		{
 			"date": "2020-08-02",
 			"item": [
 				"github.com/ysimonson/canvas.js",

@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-08-08",
+			"item": [
+				"reviseomatic.org/rOmV4",
+				"github.com/nbauers/Learn-x86-assembler",
+				"reviseomatic.org/help/2-assembler/Assembler%20AQA%20Microcontroller.php"
+			]
+		},
+		{
 			"date": "2020-08-07",
 			"item": [
 				"kubrusly.com/vicente/cores/cores.html",

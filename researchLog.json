@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-08-10",
+			"item": [
+				"chrisalbon.com",
+				"matplotlib.org/3.1.0/gallery/color/named_colors.html"
+			]
+		},
+		{
 			"date": "2020-08-09",
 			"item": [
 				"reddit.com/r/processing/comments/i6l1fz/coding_from_scratch_procedural_city_builder",

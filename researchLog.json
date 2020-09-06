@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-09-04",
+			"item": [
+				"cs.cornell.edu/courses/cs482/2003su/handouts/induction.pdf",
+				"fastcompany.com/90546984/the-one-characteristic-that-will-make-you-an-all-star-according-to-science"
+			]
+		},
+		{
 			"date": "2020-09-03",
 			"item": [
 				"github.com/SableRaf/Shadertoy2Processing",

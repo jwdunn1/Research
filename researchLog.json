@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-09-05",
+			"item": [
+				"philosopherai.com",
+				"github.com/rddill-IBM/ZeroToBlockchain"
+			]
+		},
+		{
 			"date": "2020-09-04",
 			"item": [
 				"cs.cornell.edu/courses/cs482/2003su/handouts/induction.pdf",

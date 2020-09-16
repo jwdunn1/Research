@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-09-14",
+			"item": [
+				"en.wikipedia.org/wiki/Bees_algorithm",
+				"github.com/mck-/Open-VRP"
+			]
+		},
+		{
 			"date": "2020-09-13",
 			"item": [
 				"github.com/PetoiCamp/OpenCat",

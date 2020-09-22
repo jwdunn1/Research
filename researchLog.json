@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-09-20",
+			"item": [
+				"flutter.dev",
+				"standardsmanual.com"
+			]
+		},
+		{
 			"date": "2020-09-19",
 			"item": [
 				"classiccmp.org/dunfield/altair/d/88opman.pdf",

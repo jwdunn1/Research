@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-09-27",
+			"item": [
+				"opendsa.org",
+				"opendsa-server.cs.vt.edu/ODSA/Books/CS3/html",
+				"markets.businessinsider.com/stocks"
+			]
+		},
+		{
 			"date": "2020-09-26",
 			"item": [
 				"educative.io/edpresso/finding-the-maximum-depth-of-a-binary-tree",

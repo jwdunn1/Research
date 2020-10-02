@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-09-30",
+			"item": [
+				"github.com/donnemartin/system-design-primer",
+				"balladora.hu"
+			]
+		},
+		{
 			"date": "2020-09-29",
 			"item": [
 				"oa.letterformarchive.org",

@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-01",
+			"item": [
+				"math.oregonstate.edu/control-and-coordination-distributed-autonomous-systems-collectives-approach",
+				"medium.com/javascript-in-plain-english/algorithm-in-javascript-hash-table-7b0464d2b81b",
+				"cyber.harvard.edu/events/2017/luncheon/12/Bogost",
+				"typografika.tumblr.com"
+			]
+		},
+		{
 			"date": "2020-09-30",
 			"item": [
 				"github.com/donnemartin/system-design-primer",

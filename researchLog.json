@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-02",
+			"item": [
+				"chromestatus.com",
+				"mdn-web-dna.s3-us-west-2.amazonaws.com/MDN-Browser-Compatibility-Report-2020.pdf",
+				"basysinc.com/category/company/barnes-and-noble"
+			]
+		},
+		{
 			"date": "2020-10-01",
 			"item": [
 				"math.oregonstate.edu/control-and-coordination-distributed-autonomous-systems-collectives-approach",

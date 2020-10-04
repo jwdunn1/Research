@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-03",
+			"item": [
+				"openai.com/blog/emergent-tool-use",
+				"distill.pub/2020/selforg/mnist",
+				"atom.io"
+			]
+		},
+		{
 			"date": "2020-10-02",
 			"item": [
 				"chromestatus.com",

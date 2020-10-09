@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-07",
+			"item": [
+				"google.com/about/datacenters/efficiency",
+				"validator.w3.org/unicorn"
+			]
+		},
+		{
 			"date": "2020-10-06",
 			"item": [
 				"github.com/nodejs/node/issues/33000",

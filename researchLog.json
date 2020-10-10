@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-08",
+			"item": [
+				"engineering.cmu.edu/research",
+				"statisticshowto.com/probability-and-statistics/normal-distributions/normalized-data-normalization",
+				"web.cs.wpi.edu/~claypool/courses/4513-B03/papers/games/wolf.pdf"
+			]
+		},
+		{
 			"date": "2020-10-07",
 			"item": [
 				"google.com/about/datacenters/efficiency",

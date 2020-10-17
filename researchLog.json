@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-14",
+			"item": [
+				"turing.ac.uk",
+				"github.com/trekhleb/javascript-algorithms",
+				"danstools.com"
+			]
+		},
+		{
 			"date": "2020-10-13",
 			"item": [
 				"courses.csail.mit.edu/6.006/fall11/psets.shtml",

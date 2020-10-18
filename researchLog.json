@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-16",
+			"item": [
+				"docs.oracle.com/javase/tutorial/java/concepts/object.html",
+				"jspatterns.com",
+				"github.com/alan-turing-institute"
+			]
+		},
+		{
 			"date": "2020-10-14",
 			"item": [
 				"turing.ac.uk",

@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-17",
+			"item": [
+				"cs.bham.ac.uk/~jxb/DSA",
+				"github.com/kiat/MET-CS665",
+				"seegrid.com"
+			]
+		},
+		{
 			"date": "2020-10-16",
 			"item": [
 				"docs.oracle.com/javase/tutorial/java/concepts/object.html",

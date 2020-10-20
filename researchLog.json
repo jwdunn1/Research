@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-19",
+			"item": [
+				"research.google",
+				"github.com/google-research",
+				"arxiv.org/pdf/1811.10959.pdf"
+			]
+		},
+		{
 			"date": "2020-10-18",
 			"item": [
 				"arxiv.org/pdf/2009.08449.pdf",

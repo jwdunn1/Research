@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-25",
+			"item": [
+				"codingthearchitecture.com",
+				"ai.googleblog.com/2006/06/extra-extra-read-all-about-it-nearly.html"
+			]
+		},
+		{
 			"date": "2020-10-24",
 			"item": [
 				"thebojan.ninja/2015/04/08/cohesion-coupling",

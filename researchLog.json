@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-24",
+			"item": [
+				"thebojan.ninja/2015/04/08/cohesion-coupling",
+				"uml-diagrams.org/use-case-include.html"
+			]
+		},
+		{
 			"date": "2020-10-23",
 			"item": [
 				"github.com/ChangeVision",

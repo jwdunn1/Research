@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-27",
+			"item": [
+				"cs.gmu.edu/~offutt/rsrch/papers/mj-coupling.pdf",
+				"sourcemaking.com/design_patterns/factory_method"
+			]
+		},
+		{
 			"date": "2020-10-26",
 			"item": [
 				"oodesign.com",

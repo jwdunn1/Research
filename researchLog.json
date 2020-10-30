@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-28",
+			"item": [
+				"courses.cs.washington.edu/courses/cse403/96sp/coupling-cohesion.html",
+				"mrpicky.dev/tag/control-coupling"
+			]
+		},
+		{
 			"date": "2020-10-27",
 			"item": [
 				"cs.gmu.edu/~offutt/rsrch/papers/mj-coupling.pdf",

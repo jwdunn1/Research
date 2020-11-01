@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-10-31",
+			"item": [
+				"regex101.com",
+				"lambdacalc.io",
+				"en.wikipedia.org/wiki/Lambda_calculus"
+			]
+		},
+		{
 			"date": "2020-10-30",
 			"item": [
 				"linkedin.com/pulse/types-cohesion-ahmed-adel",

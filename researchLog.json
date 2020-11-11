@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-10",
+			"item": [
+				"stackoverflow.com/questions/6117967/how-to-remove-focus-without-setting-focus-to-another-control",
+				"stackoverflow.com/questions/4597690/how-to-set-timer-in-android",
+				"stackoverflow.com/questions/24598577/connect-bluestacks-to-android-studio",
+				"stackoverflow.com/questions/58779679/android-studio-bluestacks-installation-failed-due-to-closed"
+			]
+		},
+		{
 			"date": "2020-11-09",
 			"item": [
 				"github.com/IBM/plex",

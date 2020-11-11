@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-09",
+			"item": [
+				"github.com/IBM/plex",
+				"coding-fonts.css-tricks.com",
+				"developer.android.com/training/volley/simple"
+			]
+		},
+		{
 			"date": "2020-11-08",
 			"item": [
 				"medium.com/swlh/ios-design-patterns-a9bd07818129",

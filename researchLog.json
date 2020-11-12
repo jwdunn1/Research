@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-11",
+			"item": [
+				"studio-regular.com",
+				"developer.android.com/studio/run/oem-usb",
+				"stackoverflow.com/questions/9224560/how-to-change-the-border-colorun-focused-of-an-edittext"
+			]
+		},
+		{
 			"date": "2020-11-10",
 			"item": [
 				"stackoverflow.com/questions/6117967/how-to-remove-focus-without-setting-focus-to-another-control",

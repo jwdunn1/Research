@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-13",
+			"item": [
+				"stackoverflow.com/questions/12131025/android-preventing-webview-reload-on-rotate",
+				"javapapers.com/android/how-to-build-android-in-app-browser-with-webview",
+				"stackoverflow.com/questions/30637654/android-webview-gives-neterr-cache-miss-message"
+			]
+		},
+		{
 			"date": "2020-11-12",
 			"item": [
 				"stackoverflow.com/questions/17281486/add-target-blank-in-css",

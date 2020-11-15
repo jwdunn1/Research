@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-14",
+			"item": [
+				"cocoacasts.com/what-does-an-exclamation-mark-mean-in-swift",
+				"folio3.com/swiftly-javascript-from-javascript-to-apples-swift",
+				"stackoverflow.com/questions/14371092/how-to-make-a-specific-text-on-textview-bold"
+			]
+		},
+		{
 			"date": "2020-11-13",
 			"item": [
 				"stackoverflow.com/questions/12131025/android-preventing-webview-reload-on-rotate",

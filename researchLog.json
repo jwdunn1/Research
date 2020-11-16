@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-15",
+			"item": [
+				"stackoverflow.com/questions/30973044/how-to-restrict-uitextfield-to-take-only-numbers-in-swift",
+				"stackoverflow.com/questions/14545139/android-back-button-in-the-title-bar",
+				"stackoverflow.com/questions/19545370/android-how-to-hide-actionbar-on-certain-activities"
+			]
+		},
+		{
 			"date": "2020-11-14",
 			"item": [
 				"cocoacasts.com/what-does-an-exclamation-mark-mean-in-swift",

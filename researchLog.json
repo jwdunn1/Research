@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-16",
+			"item": [
+				"stackoverflow.com/questions/186631/rest-soap-endpoints-for-a-wcf-service",
+				"medium.com/@anup.harbade/ios-design-patterns-part-2-viper-fa3522b22b6b",
+				"docs.microsoft.com/en-us/aspnet/core/mvc/overview"
+			]
+		},
+		{
 			"date": "2020-11-15",
 			"item": [
 				"stackoverflow.com/questions/30973044/how-to-restrict-uitextfield-to-take-only-numbers-in-swift",

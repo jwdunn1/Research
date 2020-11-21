@@ -7,7 +7,8 @@
 const bp=700;
 function setup() {
   createCanvas(windowWidth, windowHeight);
-	fill(255);
+  pixelDensity(window.devicePixelRatio);
+  fill(255);
 }
 
 function draw() {
@@ -16,8 +17,8 @@ function draw() {
   textSize(width<bp?32:64);
   text(width+"x"+height, 32, width<bp?32:64);
   text(ratio, 32, width<bp?64:132);
-	textSize(width<bp?16:32);
-	text("x:"+mouseX+", y:"+mouseY, width<bp?40:50, width<bp?90:180);
+  textSize(width<bp?16:32);
+  text("x:"+mouseX+", y:"+mouseY, width<bp?40:50, width<bp?90:180);
 }
 
 function windowResized() {

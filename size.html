@@ -1,22 +1,28 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <style>body{margin:0;}</style>
 <script src="p5.min.js"></script>
-<script>//begin
+<script>
+//begin
 
+const bp=700;
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  textSize(64);
+	fill(255);
 }
 
 function draw() {
   background(100);
   var ratio = width/height;
-  text(width+"x"+height, 32, 64);
-  text(ratio, 32, 132);
+  textSize(width<bp?32:64);
+  text(width+"x"+height, 32, width<bp?32:64);
+  text(ratio, 32, width<bp?64:132);
+	textSize(width<bp?16:32);
+	text("x:"+mouseX+", y:"+mouseY, width<bp?40:50, width<bp?90:180);
 }
 
 function windowResized() {
   resizeCanvas(windowWidth, windowHeight);
 }
 
-//end</script>
+//end
+</script>

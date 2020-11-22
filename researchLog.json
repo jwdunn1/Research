@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-21",
+			"item": [
+				"github.com/h5bp/html5-boilerplate",
+				"developer.mozilla.org/en-US/docs/Web/API/Window/devicePixelRatio"
+			]
+		},
+		{
 			"date": "2020-11-19",
 			"item": [
 				"uxmovement.com/forms/why-your-form-only-needs-one-name-field",

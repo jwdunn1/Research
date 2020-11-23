@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-22",
+			"item": [
+				"stackoverflow.com/questions/3488664/how-to-set-different-label-for-launcher-rather-than-activity-title",
+				"stackoverflow.com/questions/22192291/how-to-change-the-status-bar-color-in-android",
+				"stackoverflow.com/questions/30637654/android-webview-gives-neterr-cache-miss-message"
+			]
+		},
+		{
 			"date": "2020-11-21",
 			"item": [
 				"github.com/h5bp/html5-boilerplate",

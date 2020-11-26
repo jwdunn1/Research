@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-25",
+			"item": [
+				"stackoverflow.com/questions/61024584/webgl2-render-to-texture-with-msaa-anti-aliasing-and-transparent-background",
+				"otter-browser.org",
+				"astian.org/en/midori-browser"
+			]
+		},
+		{
 			"date": "2020-11-22",
 			"item": [
 				"stackoverflow.com/questions/3488664/how-to-set-different-label-for-launcher-rather-than-activity-title",

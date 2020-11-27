@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-26",
+			"item": [
+				"code.visualstudio.com/api/references/theme-color",
+				"buthowdoitknow.com/but_how_do_it_know_cpu_model.html"
+			]
+		},
+		{
 			"date": "2020-11-25",
 			"item": [
 				"stackoverflow.com/questions/61024584/webgl2-render-to-texture-with-msaa-anti-aliasing-and-transparent-background",

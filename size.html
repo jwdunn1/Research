@@ -5,20 +5,25 @@
 //begin
 
 const bp=700;
+var uA="", ratio=1;
 function setup() {
   createCanvas(windowWidth, windowHeight);
   //pixelDensity(window.devicePixelRatio);
-  fill(255);
+  uA = navigator.userAgent;
 }
 
 function draw() {
   background(100);
-  var ratio = width/height;
+  ratio = width/height;
+  fill(255);
   textSize(width<bp?32:64);
   text(width+"x"+height, 32, width<bp?32:64);
   text(ratio, 32, width<bp?64:132);
   textSize(width<bp?16:32);
   text("x:"+mouseX+", y:"+mouseY, width<bp?40:50, width<bp?90:180);
+  fill(249,176,2);
+  textSize(16);
+  text(uA, width<bp?40:50, width<bp?110:220);
 }
 
 function windowResized() {

@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-11-30",
+			"item": [
+				"numcalc.com",
+				"bellard.org/quickjs",
+				"github.com/svaarala/duktape"
+			]
+		},
+		{
 			"date": "2020-11-29",
 			"item": [
 				"css-tricks.com/preventing-a-grid-blowout",

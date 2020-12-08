@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-07",
+			"item": [
+				"programmingalgorithms.com",
+				"stackoverflow.com/questions/11600687/hover-and-active-only-when-not-disabled",
+				"en.wikipedia.org/wiki/Takuzu"
+			]
+		},
+		{
 			"date": "2020-12-06",
 			"item": [
 				"wiki.mozilla.org/WebAPI",

@@ -44,8 +44,12 @@ function reportWindowSize() {
 function reportMouse(e) {
   mouse.innerHTML="x:"+e.clientX+", y:"+e.clientY;
 }
+function reportTouch(e) {
+  mouse.innerHTML="x:"+e.touches[0].pageX+", y:"+e.touches[0].pageY;
+}
 window.onresize = reportWindowSize;
 window.onmousemove = reportMouse;
+window.ontouchstart = reportTouch;
 reportWindowSize();
 agent.innerHTML=navigator.userAgent;
 </script>

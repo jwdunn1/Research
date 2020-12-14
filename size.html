@@ -1,34 +1,53 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<style>body{margin:0;}</style>
-<script src="p5.min.js"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Window Size</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+    html {
+      margin: 0;
+      padding: 0;
+    }
+    body {
+      margin: 20px;
+      padding: 20px;
+      color: #fff;
+      font-family: "IBM Plex Mono", monospace, sans-serif;
+      background-color: rgb(100,100,100);
+    }
+    #result {
+      font-size:3em;
+      margin: 0;
+    }
+    #ratio {
+      font-size:2em;
+      margin: 0;
+    }
+    #agent {
+      color: rgb(249,176,2);
+    }
+  </style>
+</head>
+<body>
+<p id="result"></p>
+<p id="ratio"></p>
+<p id="agent"></p>
+<p id="mouse"></p>
 <script>
-//begin
-
-const bp=700;
-var uA="", ratio=1;
-function setup() {
-  createCanvas(windowWidth, windowHeight);
-  //pixelDensity(window.devicePixelRatio);
-  uA = navigator.userAgent;
+function reportWindowSize() {
+  var w=window.innerWidth, h=window.innerHeight;
+  result.innerHTML=w+"x"+h;
+  ratio.innerHTML=w/h;
 }
-
-function draw() {
-  background(100);
-  ratio = width/height;
-  fill(255);
-  textSize(width<bp?32:64);
-  text(width+"x"+height, 32, width<bp?32:64);
-  text(ratio, 32, width<bp?64:132);
-  textSize(width<bp?16:32);
-  text("x:"+mouseX+", y:"+mouseY, width<bp?40:50, width<bp?90:180);
-  fill(249,176,2);
-  textSize(16);
-  text(uA, width<bp?40:50, width<bp?110:220);
+function reportMouse(e) {
+  mouse.innerHTML="x:"+e.clientX+", y:"+e.clientY;
 }
-
-function windowResized() {
-  resizeCanvas(windowWidth, windowHeight);
-}
-
-//end
+window.onresize = reportWindowSize;
+window.onmousemove = reportMouse;
+reportWindowSize();
+agent.innerHTML=navigator.userAgent;
 </script>
+</body>
+</html>

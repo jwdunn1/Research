@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-16",
+			"item": [
+				"stackoverflow.com/questions/24213299/how-to-delete-large-data-of-table-in-sql-without-log",
+				"github.com/ErikEJ/SqlQueryStress",
+				"brentozar.com"
+			]
+		},
+		{
 			"date": "2020-12-15",
 			"item": [
 				"github.com/diptangsu/Sorting-Algorithms",

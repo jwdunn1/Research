@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-20",
+			"item": [
+				"github.com/pop-os",
+				"docs.microsoft.com/en-us/windows/uwp/design/style/app-icons-and-logos",
+				"docs.microsoft.com/en-us/windows/win32/uxguide/vis-icons"
+			]
+		},
+		{
 			"date": "2020-12-19",
 			"item": [
 				"sqlserverbuilds.blogspot.com",

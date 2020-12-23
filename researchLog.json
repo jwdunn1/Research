@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-21",
+			"item": [
+				"mono-project.com",
+				"mssqltips.com/sqlservertip/2340/resolving-could-not-open-a-connection-to-sql-server-errors"
+			]
+		},
+		{
 			"date": "2020-12-20",
 			"item": [
 				"github.com/pop-os",

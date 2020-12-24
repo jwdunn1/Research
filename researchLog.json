@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-23",
+			"item": [
+				"docs.microsoft.com/en-us/sql/database-engine/configure-windows/configure-the-max-worker-threads-server-configuration-option",
+				"techrepublic.com/article/vb6-tip-selecting-all-text-when-a-text-box-gets-the-focus"
+			]
+		},
+		{
 			"date": "2020-12-22",
 			"item": [
 				"csharpindepth.com/Articles/Random",

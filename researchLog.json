@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-22",
+			"item": [
+				"csharpindepth.com/Articles/Random",
+				"github.com/tsujp/custom-macos-gui",
+				"vrints-kolsteren.com/projects/kado"
+			]
+		},
+		{
 			"date": "2020-12-21",
 			"item": [
 				"mono-project.com",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-24",
+			"item": [
+				"gridbyexample.com",
+				"creately.com/blog/diagrams/class-diagram-relationships"
+			]
+		},
+		{
 			"date": "2020-12-23",
 			"item": [
 				"docs.microsoft.com/en-us/sql/database-engine/configure-windows/configure-the-max-worker-threads-server-configuration-option",

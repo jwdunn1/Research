@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-25",
+			"item": [
+				"archive.ics.uci.edu/ml/datasets/iris",
+				"syllabus.cs.manchester.ac.uk/pgt/2020/COMP61021/reference/Fisher-DA.pdf"
+			]
+		},
+		{
 			"date": "2020-12-24",
 			"item": [
 				"gridbyexample.com",

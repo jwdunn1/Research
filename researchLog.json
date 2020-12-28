@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-26",
+			"item": [
+				"stackoverflow.com/questions/596837/avoiding-duplicate-icon-resources-in-a-net-c-project",
+				"design.google"
+			]
+		},
+		{
 			"date": "2020-12-25",
 			"item": [
 				"archive.ics.uci.edu/ml/datasets/iris",

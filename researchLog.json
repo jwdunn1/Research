@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2020-12-28",
+			"item": [
+				"w3.org/standards",
+				"w3.org/TR"
+			]
+		},
+		{
 			"date": "2020-12-27",
 			"item": [
 				"stackoverflow.com/questions/5680375/asp-net-get-milliseconds-since-1-1-1970/5680431",

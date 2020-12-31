@@ -36,7 +36,7 @@
 <p id="ratio"></p>
 <p id="agent"></p>
 <p id="mouse">x:0, y:0</p>
-<canvas id="c" width="160" height="90"></canvas>
+<canvas id="c" width="270" height="270"></canvas>
 <script>
 function reportWindowSize() {
   var w=window.innerWidth, h=window.innerHeight;
@@ -237,13 +237,13 @@ window.requestAnimationFrame = function () {
 
 
 
-c.width = 480;
+c.width = 270;
 c.height = 270;
 var S = Math.sin, C = Math.cos, x = c.getContext("2d");
 // https://www.dwitter.net/d/10327
 var a=function(x){return ((j=i&7)/2^j)&x?9:-9};
 function u(t) {
-c.width=480;x.strokeStyle = "rgb(249,176,2)";
+x.clearRect(0,0,270,270);x.beginPath();x.strokeStyle="rgb(249,176,2)";
 for(i=9;i--||x.stroke();x.lineTo(100+280*S(b=t+Math.atan2(a(2),a(4)))/(Z=3+C(b)),99+22*a(1)/Z));
 }
 

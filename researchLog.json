@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-01-01",
+			"item": [
+				"curatedsql.com",
+				"unicorn-utterances.com/posts/understanding-the-dom"
+			]
+		},
+		{
 			"date": "2021-12-31",
 			"item": [
 				"arxiv.org/pdf/1812.03592.pdf  Complexity Theory of Motion Planning",

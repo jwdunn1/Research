@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-12-31",
+			"item": [
+				"arxiv.org/pdf/1812.03592.pdf  Complexity Theory of Motion Planning",
+				"arxiv.org/pdf/1106.5736.pdf  Algorithms for Solving Rubik's Cubes"
+			]
+		},
+		{
 			"date": "2020-12-30",
 			"item": [
 				"xspdf.com/resolution/52727222.html",

@@ -26,7 +26,7 @@
       margin: 0;
     }
     #agent {
-      color: rgb(249,176,2);
+      color: #f9b002;
     }
   </style>
 </head>
@@ -98,7 +98,7 @@ if (!window.performance) window.performance=0;
 //var performance=0;
 	var beginTime = ( performance || Date ).now(), prevTime = beginTime, frames = 0;
 
-	var fpsPanel = addPanel( new Stats.Panel( 'FPS', '#0ff', '#002' ) );
+	var fpsPanel = addPanel( new Stats.Panel( 'FPS', '#f9b002', '#002' ) );
 	var msPanel = addPanel( new Stats.Panel( 'MS', '#0f0', '#020' ) );
 
 	if ( self.performance && self.performance.memory ) {

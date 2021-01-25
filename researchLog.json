@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2021-01-23",
+			"item": [
+				"web.stanford.edu/class/archive/cs/cs161/cs161.1138",
+				"web.stanford.edu/class/archive/cs/cs103/cs103.1184",
+				"web.stanford.edu/class/archive/cs/cs103/cs103.1184/tools/truth-table-tool"
+			]
+		},
+		{
 			"date": "2021-01-22",
 			"item": [
 				"en.wikipedia.org/wiki/Counter-machine_model",

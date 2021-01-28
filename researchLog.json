@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-01-27",
+			"item": [
+				"github.com/meldckn/asp-in-the-browser",
+				"github.com/potassco/asprilo"
+			]
+		},
+		{
 			"date": "2021-01-26",
 			"item": [
 				"2020.stateofjs.com",

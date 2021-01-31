@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-01-30",
+			"item": [
+				"arxiv.org/pdf/1711.08076.pdf",
+				"sites.google.com/view/aspcomp2019"
+			]
+		},
+		{
 			"date": "2021-01-29",
 			"item": [
 				"github.com/Aluriak/webclingo-example",

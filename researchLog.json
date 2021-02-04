@@ -1,6 +1,20 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-03",
+			"item": [
+				"github.com/potassco/asprilo",
+				"sudokuonline.io/impossible"
+			]
+		},
+		{
+			"date": "2021-02-02",
+			"item": [
+				"oeis.org/A072842",
+				"github.com/NicholasACTran/chess-packing"
+			]
+		},
+		{
 			"date": "2021-02-01",
 			"item": [
 				"creators.com/features/binairo-daily",

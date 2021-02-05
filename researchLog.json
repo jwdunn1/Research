@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-04",
+			"item": [
+				"aaai.org/Library/AAAI/aaai20contents.php",
+				"merriam-webster.com/word-games/name-that-thing"
+			]
+		},
+		{
 			"date": "2021-02-03",
 			"item": [
 				"github.com/potassco/asprilo",

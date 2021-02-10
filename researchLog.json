@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-09",
+			"item": [
+				"github.com/hexhex/hexlite",
+				"github.com/AmziLS",
+				"github.com/fxgst"
+			]
+		},
+		{
 			"date": "2021-02-08",
 			"item": [
 				"ojs.aaai.org/index.php/aimagazine/about/submissions",

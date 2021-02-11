@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-10",
+			"item": [
+				"sudoku.com/expert",
+				"lolcode.org",
+				"solitr.com"
+			]
+		},
+		{
 			"date": "2021-02-09",
 			"item": [
 				"github.com/hexhex/hexlite",

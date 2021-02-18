@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-16",
+			"item": [
+				"github.com/30-seconds/30-seconds-of-interviews",
+				"github.com/othneildrew/Best-README-Template"
+			]
+		},
+		{
 			"date": "2021-02-15",
 			"item": [
 				"chrispiech.github.io/probabilityForComputerScientists/en/part1/probability",

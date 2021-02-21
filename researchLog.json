@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-20",
+			"item": [
+				"docs.microsoft.com/en-us/previous-versions/technet-magazine/dd547091(v=msdn.10)",
+				"dsgvo-muster-datenschutzerklaerung.dg-datenschutz.de/?lang=en"
+			]
+		},
+		{
 			"date": "2021-02-19",
 			"item": [
 				"en.wikipedia.org/wiki/Negation_as_failure",

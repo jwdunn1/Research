@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-24",
+			"item": [
+				"cs.uni-potsdam.de/wv/publications",
+				"fawkesrobotics.org/projects/rcll-planning"
+			]
+		},
+		{
 			"date": "2021-02-23",
 			"item": [
 				"soduko-online.com",

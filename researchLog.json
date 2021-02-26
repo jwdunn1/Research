@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-25",
+			"item": [
+				"robocup.org/domains/4",
+				"hakank.org/constraint_programming_blog/answer_set_programming"
+			]
+		},
+		{
 			"date": "2021-02-24",
 			"item": [
 				"cs.uni-potsdam.de/wv/publications",

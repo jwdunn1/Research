@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-02-27",
+			"item": [
+				"en.wikipedia.org/wiki/Curry–Howard_correspondence",
+				"cs.cornell.edu/Info/Projects/NuPrl/documents/colmath/it.html"
+			]
+		},
+		{
 			"date": "2021-02-26",
 			"item": [
 				"aspcomp2017.dibris.unige.it",

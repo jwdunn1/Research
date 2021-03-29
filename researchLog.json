@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-03-28",
+			"item": [
+				"wolframscience.com/nks",
+				"en.wikipedia.org/wiki/Parity_of_zero"
+			]
+		},
+		{
 			"date": "2021-03-27",
 			"item": [
 				"writings.stephenwolfram.com/2020/12/combinators-a-centennial-view",

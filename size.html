@@ -39,7 +39,11 @@
 <canvas id="c" width="270" height="270"></canvas>
 <script>
 function reportWindowSize() {
-  var w=window.innerWidth, h=window.innerHeight;
+  var w=0, h=1;
+  if(typeof(window.innerWidth) == 'number')
+    w=window.innerWidth, h=window.innerHeight;
+  else if(document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight))
+    w=document.documentElement.clientWidth, h=document.documentElement.clientHeight;
   result.innerHTML=w+"x"+h;
   ratio.innerHTML=w/h;
 }

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-04-07",
+			"item": [
+				"towardsdatascience.com/softmax-activation-function-explained-a7e1bc3ad60",
+				"math.stackexchange.com/questions/945871/derivative-of-softmax-loss-function"
+			]
+		},
+		{
 			"date": "2021-04-05",
 			"item": [
 				"typografie.de",

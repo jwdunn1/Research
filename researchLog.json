@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-04-08",
+			"item": [
+				"setosa.io/ev/image-kernels",
+				"algorithmiccomplexity.com"
+			]
+		},
+		{
 			"date": "2021-04-07",
 			"item": [
 				"towardsdatascience.com/softmax-activation-function-explained-a7e1bc3ad60",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-04-11",
+			"item": [
+				"ai.mil",
+				"nscai.gov"
+			]
+		},
+		{
 			"date": "2021-04-10",
 			"item": [
 				"github.com/hustcc/canvas-nest.js",

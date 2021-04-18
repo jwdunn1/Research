@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-04-17",
+			"item": [
+				"arxiv.org/pdf/2009.10256.pdf",
+				"github.com/jerone/atom-html2js"
+			]
+		},
+		{
 			"date": "2021-04-16",
 			"item": [
 				"training.majorleaguecyber.org",

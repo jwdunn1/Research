@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-04-26",
+			"item": [
+				"quantamagazine.org/computer-science",
+				"github.com/Conchylicultor/DeepQA"
+			]
+		},
+		{
 			"date": "2021-04-25",
 			"item": [
 				"web.njit.edu/~ronkowit/eliza.html",

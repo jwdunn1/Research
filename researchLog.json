@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2021-05-15",
+			"item": [
+				"emeeks.github.io/gestaltdataviz/section1.html",
+				"emeeks.github.io/gestaltdataviz/section2.html",
+				"emeeks.github.io/gestaltdataviz/section3.html",
+				"emeeks.github.io/gestaltdataviz/section4.html"
+			]
+		},
+		{
 			"date": "2021-05-14",
 			"item": [
 				"observablehq.com/@observablehq/why-visualization-helps-developers",

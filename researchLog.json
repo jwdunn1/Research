@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-05-20",
+			"item": [
+				"datavizcatalogue.com",
+				"github.com/pandas-dev/pandas"
+			]
+		},
+		{
 			"date": "2021-05-19",
 			"item": [
 				"mathigon.org",

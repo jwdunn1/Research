@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2021-05-25",
+			"item": [
+				"github.com/observablehq/plot",
+				"idl.cs.washington.edu",
+				"dig.cmu.edu"
+			]
+		},
+		{
 			"date": "2021-05-23",
 			"item": [
 				"github.com/lokesh/lightbox2",

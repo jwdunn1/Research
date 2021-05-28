@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-05-27",
+			"item": [
+				"mason.gmu.edu/~dcarr/lib/v5n3.pdf",
+				"stackoverflow.com/questions/22273832/carrs-colourful-boxplot"
+			]
+		},
+		{
 			"date": "2021-05-25",
 			"item": [
 				"github.com/observablehq/plot",

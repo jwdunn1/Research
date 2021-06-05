@@ -45,7 +45,7 @@ If not logged in and the github repo is private, then the list will not be shown
 <div mv-app="researchLog" mv-storage="https://github.com/jwdunn1/Research">
 	<div id="i5z7z">Research Log</div>
 	<article property="entry" mv-multiple mv-order="desc">
-	<time property="date" datetime="2014-06-01">[/* js */year(date)+("00"+month(date)).slice(-2)+("00"+day(date)).slice(-2)]</time>
+	<time property="date" datetime="2014-06-01">[year(date)][month(date,'00')][day(date,'00')]</time>
 	<ul><li property="item" mv-multiple>First Item</li></ul>
 	</article>
 </div>

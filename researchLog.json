@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2021-06-04",
+			"item": [
+				"colorbrewer2.org",
+				"codex-atlanticus.it",
+				"trafficsign.us"
+			]
+		},
+		{
 			"date": "2021-06-03",
 			"item": [
 				"publik.tuwien.ac.at/files/PubDat_138057.pdf",

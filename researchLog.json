@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-06-21",
+			"item": [
+				"guides.library.duke.edu/datavis/topten",
+				"eagereyes.org/pie-charts"
+			]
+		},
+		{
 			"date": "2021-06-20",
 			"item": [
 				"kdnuggets.com/2018/03/time-series-dummies-3-step-process.html",

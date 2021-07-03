@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2021-07-02",
+			"item": [
+				"observablehq.com/@d3/world-tour",
+				"bl.ocks.org/mbostock/4183330",
+				"jasondavies.com/maps/zoom"
+			]
+		},
+		{
 			"date": "2021-07-01",
 			"item": [
 				"tableau.com/learn/articles/data-visualization",

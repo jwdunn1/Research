@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-07-05",
+			"item": [
+				"github.com/tommyod/paretoset",
+				"andreagiambelli.github.io/ferrari1000"
+			]
+		},
+		{
 			"date": "2021-07-04",
 			"item": [
 				"map-projections.net/singleview.php"

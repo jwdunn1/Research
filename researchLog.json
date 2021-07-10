@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-07-09",
+			"item": [
+				"jasondavies.com/maps/voronoi/airports",
+				"jasondavies.com/maps/bounds"
+			]
+		},
+		{
 			"date": "2021-07-08",
 			"item": [
 				"cube.dev",

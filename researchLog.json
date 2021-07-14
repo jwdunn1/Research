@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-07-12",
+			"item": [
+				"sci.utah.edu/~vdl/papers/2020_infovis_insights.pdf",
+				"knowablemagazine.org/article/mind/2019/science-data-visualization"
+			]
+		},
+		{
 			"date": "2021-07-11",
 			"item": [
 				"maps.esri.com/rc/sat2",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-07-24",
+			"item": [
+				"css-irl.info",
+				"github.com/mbarker84/eleventy-parcel"
+			]
+		},
+		{
 			"date": "2021-07-23",
 			"item": [
 				"ccrg.cs.memphis.edu/tutorial/tutorial.html",

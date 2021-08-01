@@ -1,10 +1,17 @@
 {
 	"entry": [
-{
+		{
+			"date": "2021-07-31",
+			"item": [
+				"olympics.com/en/olympic-games/paris-2024",
+				"arxiv.org/pdf/2106.11531.pdf"
+			]
+		},
+		{
 			"date": "2021-07-30",
 			"item": [
-				"safiyaunoble.com",
-				"turboknight.com"
+				"github.com/MAndroshick/SubPubDesignPattern",
+				"github.com/nspektor"
 			]
 		},
 		{

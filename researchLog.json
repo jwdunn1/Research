@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-08-01",
+			"item": [
+				"atom.io/packages/atom-beautify"
+			]
+		},
+		{
 			"date": "2021-07-31",
 			"item": [
 				"olympics.com/en/olympic-games/paris-2024",

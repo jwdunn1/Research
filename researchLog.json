@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-08-02",
+			"item": [
+				"arxiv.org/pdf/2105.14697.pdf",
+				"youtu.be/094y1Z2wpJg"
+			]
+		},
+		{
 			"date": "2021-08-01",
 			"item": [
 				"atom.io/packages/atom-beautify"

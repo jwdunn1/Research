@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2021-08-21",
+			"item": [
+				"en.wikipedia.org/wiki/Memristor",
+				"arxiv.org/ftp/arxiv/papers/2004/2004.14942.pdf"
+			]
+		},
+		{
 			"date": "2021-08-20",
 			"item": [
 				"github.com/bat67/awesome-algorithm-books"

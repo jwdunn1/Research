@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-08-24",
+			"item": [
+				"towardsdatascience.com/5-methods-to-check-for-nan-values-in-in-python-3f21ddd17eed"
+			]
+		},
+		{
 			"date": "2021-08-23",
 			"item": [
 				"en.wikipedia.org/wiki/Decision_tree_learning"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-08-25",
+			"item": [
+				"weber.itn.liu.se/~aidvi/courses/06/dm/dataMining.html"
+			]
+		},
+		{
 			"date": "2021-08-24",
 			"item": [
 				"towardsdatascience.com/5-methods-to-check-for-nan-values-in-in-python-3f21ddd17eed"

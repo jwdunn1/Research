@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-03",
+			"item": [
+				"calculator.net/probability-calculator.html"
+			]
+		},
+		{
 			"date": "2021-09-02",
 			"item": [
 				"scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html"

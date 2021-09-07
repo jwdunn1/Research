@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-05",
+			"item": [
+				"hmkcode.com/ai/backpropagation-step-by-step"
+			]
+		},
+		{
 			"date": "2021-09-04",
 			"item": [
 				"machinelearningmastery.com/a-gentle-introduction-to-sigmoid-function"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-11",
+			"item": [
+				"kaggle.com/ahmethamzaemra/mlpclassifier-example"
+			]
+		},
+		{
 			"date": "2021-09-10",
 			"item": [
 				"stackoverflow.com/questions/2281850/timeout-function-if-it-takes-too-long-to-finish"

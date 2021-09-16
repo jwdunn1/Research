@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-14",
+			"item": [
+				"en.wikipedia.org/wiki/Histogram"
+			]
+		},
+		{
 			"date": "2021-09-13",
 			"item": [
 				"github.com/audiorouterdev/audio-router"

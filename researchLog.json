@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-15",
+			"item": [
+				"www2.cs.uh.edu/~ceick/7363/Papers/dbscan.pdf"
+			]
+		},
+		{
 			"date": "2021-09-14",
 			"item": [
 				"en.wikipedia.org/wiki/Histogram"

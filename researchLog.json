@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-20",
+			"item": [
+				"www.cs.toronto.edu/~hinton/absps/guideTR.pdf"
+			]
+		},
+		{
 			"date": "2021-09-19",
 			"item": [
 				"stackoverflow.com/questions/28663856/how-to-count-the-occurrence-of-certain-item-in-an-ndarray"

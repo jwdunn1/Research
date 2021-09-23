@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-21",
+			"item": [
+				"scikit-learn.org/stable/modules/generated/sklearn.metrics.cluster.contingency_matrix.html"
+			]
+		},
+		{
 			"date": "2021-09-20",
 			"item": [
 				"www.cs.toronto.edu/~hinton/absps/guideTR.pdf"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-23",
+			"item": [
+				"docs.scipy.org/doc/scipy/reference/generated/scipy.stats.entropy.html"
+			]
+		},
+		{
 			"date": "2021-09-22",
 			"item": [
 				"towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8"

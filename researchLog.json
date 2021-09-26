@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-24",
+			"item": [
+				"stackoverflow.com/questions/34047540/python-clustering-purity-metric"
+			]
+		},
+		{
 			"date": "2021-09-23",
 			"item": [
 				"docs.scipy.org/doc/scipy/reference/generated/scipy.stats.entropy.html"

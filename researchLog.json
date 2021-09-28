@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-27",
+			"item": [
+				"github.com/tristanguigue/dynamic-programming"
+			]
+		},
+		{
 			"date": "2021-09-26",
 			"item": [
 				"github.com/CShorten/HenryAILabs-VideoList"

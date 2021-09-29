@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-09-28",
+			"item": [
+				"gwern.net/docs/statistics/decision/1957-bellman-dynamicprogramming.pdf"
+			]
+		},
+		{
 			"date": "2021-09-27",
 			"item": [
 				"github.com/tristanguigue/dynamic-programming"

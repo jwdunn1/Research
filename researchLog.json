@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-10-02",
+			"item": [
+				"stackoverflow.com/questions/20357683/can-you-look-at-an-rbm-as-being-a-kind-of-multiplicative-nn/20359218"
+			]
+		},
+		{
 			"date": "2021-10-01",
 			"item": [
 				"gym.openai.com"

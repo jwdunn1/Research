@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-10-03",
+			"item": [
+				"stats.stackexchange.com/questions/153599/recurrent-vs-recursive-neural-networks-which-is-better-for-nlp"
+			]
+		},
+		{
 			"date": "2021-10-02",
 			"item": [
 				"stackoverflow.com/questions/20357683/can-you-look-at-an-rbm-as-being-a-kind-of-multiplicative-nn/20359218"

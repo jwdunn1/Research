@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-10-11",
+			"item": [
+				"github.com/abookapart/new-css-layout-code"
+			]
+		},
+		{
 			"date": "2021-10-10",
 			"item": [
 				"codepen.io/jwdunn/pen/gOxOZjj responsive grid"

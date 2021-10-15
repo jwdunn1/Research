@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-10-13",
+			"item": [
+				"developer.mozilla.org/en-US/docs/Web/CSS/grid-auto-columns"
+			]
+		},
+		{
 			"date": "2021-10-11",
 			"item": [
 				"github.com/abookapart/new-css-layout-code"

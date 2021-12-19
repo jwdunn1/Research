@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2021-12-18",
+			"item": [
+				"en.wikipedia.org/wiki/Coq"
+			]
+		},
+		{
 			"date": "2021-12-17",
 			"item": [
 				"arxiv.org/pdf/1611.08097.pdf Geometric deep learning"

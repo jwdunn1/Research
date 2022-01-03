@@ -3,7 +3,8 @@
 		{
 			"date": "2022-01-01",
 			"item": [
-				"github.com/blindman67/SimplexNoiseJS"
+				"github.com/blindman67/SimplexNoiseJS",
+				"github.com/jwagner/simplex-noise.js"
 			]
 		},
 		{

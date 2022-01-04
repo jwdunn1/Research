@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-01-02",
+			"item": [
+				"ams.org/notices/200811/tx081101382p.pdf"
+			]
+		},
+		{
 			"date": "2022-01-01",
 			"item": [
 				"github.com/blindman67/SimplexNoiseJS",

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-01-08",
+			"item": [
+				"github.com/joeedh/BlueNoiseStippling"
+			]
+		},
+		{
 			"date": "2022-01-07",
 			"item": [
 				"arxiv.org/abs/2112.03178 Player of Games"

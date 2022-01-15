@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-01-14",
+			"item": [
+				"stackoverflow.com/questions/1655769/fastest-md5-implementation-in-javascript",
+				"github.com/Daninet/hash-wasm"
+			]
+		},
+		{
 			"date": "2022-01-12",
 			"item": [
 				"mathsisfun.com/data/standard-normal-distribution-table.html"

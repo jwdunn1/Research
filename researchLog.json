@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-01-15",
+			"item": [
+				"stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm"
+			]
+		},
+		{
 			"date": "2022-01-14",
 			"item": [
 				"stackoverflow.com/questions/1655769/fastest-md5-implementation-in-javascript",

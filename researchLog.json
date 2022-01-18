@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2022-01-16",
+			"item": [
+				"navan.name/roc",
+				"en.wikipedia.org/wiki/Receiver_operating_characteristic",
+				"ics.uci.edu/~xhx/courses/CS273P/03-bayesclass-273p.pdf"
+			]
+		},
+		{
 			"date": "2022-01-15",
 			"item": [
 				"stat.berkeley.edu/~stark/SticiGui/Text/gloss.htm"

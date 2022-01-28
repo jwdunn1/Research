@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-01-27",
+			"item": [
+				"stats.blue"
+			]
+		},
+		{
 			"date": "2022-01-26",
 			"item": [
 				"atoti.io/when-to-perform-a-feature-scaling"

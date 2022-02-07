@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-06",
+			"item": [
+				"mubaris.com/posts/kmeans-clustering"
+			]
+		},
+		{
 			"date": "2022-02-05",
 			"item": [
 				"dawenl.github.io/files/mle_biased.pdf"

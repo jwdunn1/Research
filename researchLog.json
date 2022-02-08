@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-07",
+			"item": [
+				"web.stanford.edu/~jurafsky/slp3/A.pdf"
+			]
+		},
+		{
 			"date": "2022-02-06",
 			"item": [
 				"mubaris.com/posts/kmeans-clustering"

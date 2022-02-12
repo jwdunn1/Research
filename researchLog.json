@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-11",
+			"item": [
+				"songho.ca/dsp/convolution/convolution2d_example.html"
+			]
+		},
+		{
 			"date": "2022-02-10",
 			"item": [
 				"videolectures.net"

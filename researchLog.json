@@ -1,6 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-12",
+			"item": [
+				"kkevsterrr.github.io/K-Means visualization",
+				"alekseynp.com/viz/k-means.html",
+				"naftaliharris.com/blog/visualizing-k-means-clustering",
+				"github.com/SAMY-ER/Interactive-Kmeans"
+			]
+		},
+		{
 			"date": "2022-02-11",
 			"item": [
 				"songho.ca/dsp/convolution/convolution2d_example.html"

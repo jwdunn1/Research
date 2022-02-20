@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-19",
+			"item": [
+				"stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks"
+			]
+		},
+		{
 			"date": "2022-02-18",
 			"item": [
 				"github.com/zishansami102/CNN-from-Scratch",

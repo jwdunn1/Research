@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-20",
+			"item": [
+				"engineering.purdue.edu/elab/CortexNet",
+				"arxiv.org/pdf/1706.02735.pdf"
+			]
+		},
+		{
 			"date": "2022-02-19",
 			"item": [
 				"stanford.edu/~shervine/teaching/cs-230/cheatsheet-convolutional-neural-networks"

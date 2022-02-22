@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-21",
+			"item": [
+				"cs.nyu.edu/~yann/research/deep"
+			]
+		},
+		{
 			"date": "2022-02-20",
 			"item": [
 				"engineering.purdue.edu/elab/CortexNet",

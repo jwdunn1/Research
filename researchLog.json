@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-23",
+			"item": [
+				"agustinus.kristia.de",
+				"github.com/wiseodd"
+			]
+		},
+		{
 			"date": "2022-02-22",
 			"item": [
 				"towardsdatascience.com/going-beyond-99-mnist-handwritten-digits-recognition-cfff96337392"

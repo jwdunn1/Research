@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-25",
+			"item": [
+				"numpy.org/doc/stable/reference/routines.linalg.html"
+			]
+		},
+		{
 			"date": "2022-02-24",
 			"item": [
 				"incompleteideas.net/book/RLbook2020.pdf"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-02-27",
+			"item": [
+				"cs231n.github.io/convolutional-networks"
+			]
+		},
+		{
 			"date": "2022-02-26",
 			"item": [
 				"github.com/luisguiserrano/hmm"

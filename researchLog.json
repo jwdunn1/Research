@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-01",
+			"item": [
+				"pavisj.medium.com/convolutions-and-backpropagations-46026a8f5d2c"
+			]
+		},
+		{
 			"date": "2022-02-28",
 			"item": [
 				"github.com/GoogleCloudPlatform/tensorflow-without-a-phd"

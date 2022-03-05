@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-04",
+			"item": [
+				"github.com/vdumoulin/conv_arithmetic",
+				"arxiv.org/pdf/1603.07285.pdf"
+			]
+		},
+		{
 			"date": "2022-03-03",
 			"item": [
 				"stackoverflow.com/questions/5710842/fastest-2d-convolution-or-image-filter-  in-python"

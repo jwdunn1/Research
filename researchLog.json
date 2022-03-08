@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-07",
+			"item": [
+				"benchmarks.ai/mnist",
+				"pjreddie.com/projects/mnist-in-csv"
+			]
+		},
+		{
 			"date": "2022-03-06",
 			"item": [
 				"medium.com/@mayank.utexas/backpropagation-for-convolution-with-strides-8137e4fc2710",

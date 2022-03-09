@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-08",
+			"item": [
+				"w3.org/wiki/Common_HTML_entities_used_for_typography"
+			]
+		},
+		{
 			"date": "2022-03-07",
 			"item": [
 				"benchmarks.ai/mnist",

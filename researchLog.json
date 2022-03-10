@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-09",
+			"item": [
+				"github.com/minitorch",
+				"medium.com/@ngocson2vn/a-gentle-explanation-of-backpropagation-in-convolutional-neural-network-cnn-1a70abff508b"
+			]
+		},
+		{
 			"date": "2022-03-08",
 			"item": [
 				"w3.org/wiki/Common_HTML_entities_used_for_typography"

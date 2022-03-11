@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-10",
+			"item": [
+				"docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html"
+			]
+		},
+		{
 			"date": "2022-03-09",
 			"item": [
 				"github.com/minitorch",

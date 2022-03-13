@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-12",
+			"item": [
+				"explained.ai"
+			]
+		},
+		{
 			"date": "2022-03-11",
 			"item": [
 				"github.com/ngocson2vn/NeuralNetworks/blob/master/cnn/convolution.py"

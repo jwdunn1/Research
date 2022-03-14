@@ -1,6 +1,18 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-14",
+			"item": [
+				"github.com/KenanY/viete-formula"
+			]
+		},
+		{
+			"date": "2022-03-13",
+			"item": [
+				"jeremyjordan.me/convolutional-neural-networks"
+			]
+		},
+		{
 			"date": "2022-03-12",
 			"item": [
 				"explained.ai"

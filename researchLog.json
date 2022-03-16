@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-16",
+			"item": [
+				"andy.egge.rs/teaching/ols_projection.html"
+			]
+		},
+		{
 			"date": "2022-03-15",
 			"item": [
 				"github.com/nicolaspanel/numjs"

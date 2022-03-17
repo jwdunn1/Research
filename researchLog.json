@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-03-17",
+			"item": [
+				"notesonai.com/Notes+on+AI",
+				"stackoverflow.com/questions/34968722/how-to-implement-the-softmax-function-in-python"
+			]
+		},
+		{
 			"date": "2022-03-16",
 			"item": [
 				"andy.egge.rs/teaching/ols_projection.html"

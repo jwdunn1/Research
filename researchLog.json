@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-02",
+			"item": [
+				"digitalocean.com/community/tutorials/how-to-install-and-use-pytorch"
+			]
+		},
+		{
 			"date": "2022-04-01",
 			"item": [
 				"louistiao.me/notes/visualizing-and-animating-optimization-algorithms-with-matplotlib"

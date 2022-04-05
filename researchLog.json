@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-03",
+			"item": [
+				"sebastianraschka.com/faq/docs/tanh-sigmoid-relationship.html"
+			]
+		},
+		{
 			"date": "2022-04-02",
 			"item": [
 				"digitalocean.com/community/tutorials/how-to-install-and-use-pytorch"

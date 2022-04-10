@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-07",
+			"item": [
+				"github.com/pytorch/vision/issues/4894"
+			]
+		},
+		{
 			"date": "2022-04-06",
 			"item": [
 				"github.com/photopea/UNN.js"

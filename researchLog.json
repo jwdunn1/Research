@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-11",
+			"item": [
+				"stackoverflow.com/questions/44856691/how-do-you-alter-the-size-of-a-pytorch-dataset"
+			]
+		},
+		{
 			"date": "2022-04-10",
 			"item": [
 				"youtu.be/7-4yOx1CnXE robots at Tesla"

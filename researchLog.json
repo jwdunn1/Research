@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-17",
+			"item": [
+				"ruder.io/optimizing-gradient-descent"
+			]
+		},
+		{
 			"date": "2022-04-16",
 			"item": [
 				"en.wikipedia.org/wiki/Up-and-Down_Designs"

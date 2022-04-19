@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-18",
+			"item": [
+				"onlinerandomtools.com/shuffle-words word scramble"
+			]
+		},
+		{
 			"date": "2022-04-17",
 			"item": [
 				"ruder.io/optimizing-gradient-descent"

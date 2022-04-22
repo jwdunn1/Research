@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-21",
+			"item": [
+				"stackoverflow.com/questions/31526085/how-to-encode-an-image-into-an-html-file",
+				"base64image.org"
+			]
+		},
+		{
 			"date": "2022-04-20",
 			"item": [
 				"poloclub.github.io/ganlab"

@@ -1,6 +1,11 @@
 {
 	"entry": [
 		{
+			"item": [
+				"jeremyjordan.me/autoencoders"
+			]
+		},
+		{
 			"date": "2022-04-22",
 			"item": [
 				"editor.p5js.org/koma.tebe/sketches/dQ-GNiwfb",

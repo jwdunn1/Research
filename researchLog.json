@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-24",
+			"item": [
+				"kikaben.com/dcgan-deep-convolutional-gan-generates-mnist-like-images-with-dramatically-better-quality",
+				"github.com/junyanz/CycleGAN"
+			]
+		},
+		{
 			"date": "2022-04-23",
 			"item": [
 				"jeremyjordan.me/autoencoders"

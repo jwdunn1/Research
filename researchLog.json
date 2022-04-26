@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-25",
+			"item": [
+				"www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html",
+				"askpython.com/python/oops/python-class-constructor-init-function"
+			]
+		},
+		{
 			"date": "2022-04-24",
 			"item": [
 				"kikaben.com/dcgan-deep-convolutional-gan-generates-mnist-like-images-with-dramatically-better-quality",

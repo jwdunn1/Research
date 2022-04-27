@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-26",
+			"item": [
+				"medium.com/@syoya/what-happens-in-sparse-autencoder-b9a5a69da5c6",
+				"github.com/anth2o/domain-adaptation"
+			]
+		},
+		{
 			"date": "2022-04-25",
 			"item": [
 				"www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/resources.html",

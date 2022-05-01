@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-04-30",
+			"item": [
+				"github.com/Yangyangii/DANN-pytorch"
+			]
+		},
+		{
 			"date": "2022-04-29",
 			"item": [
 				"medium.com/swlh/deep-learning-for-house-number-detection-25a45e62c8e5"

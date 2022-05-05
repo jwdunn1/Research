@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-05-04",
+			"item": [
+				"mccormickml.com/2014/05/30/deep-learning-tutorial-sparse-autoencoder"
+			]
+		},
+		{
 			"date": "2022-05-03",
 			"item": [
 				"jaan.io/what-is-variational-autoencoder-vae-tutorial/"

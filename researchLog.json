@@ -1,9 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2022-05-06",
+			"item": [
+				"stats.stackexchange.com/questions/101237/sparse-autoencoder-hyperparameters"
+			]
+		},
+		{
 			"date": "2022-05-05",
 			"item": [
-				"type-scale.com/"
+				"type-scale.com"
 			]
 		},
 		{

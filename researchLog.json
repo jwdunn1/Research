@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-05-09",
+			"item": [
+				"grpc.io"
+			]
+		},
+		{
 			"date": "2022-05-08",
 			"item": [
 				"vincentherrmann.github.io/blog/wasserstein"

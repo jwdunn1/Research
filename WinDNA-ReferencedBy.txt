@@ -1,0 +1,132 @@
+Archived on archive.org
+https://web.archive.org/web/20010526175403/http://www.microsoft.com/windows2000/techinfo/howitworks/application/windna.asp
+and
+Direct download of Word document...
+https://web.archive.org/web/20010526175403/http://www.microsoft.com/windows2000/docs/WinDNA.doc
+
+#####################################
+
+Location: http://www.lopesdacosta.com/v3/informatica/manuais/windows_2000/WinDNA.doc
+
+---1---
+
+Can your web site handle becoming an overnight success?
+By Deb Shinder
+September 1, 2006
+http://www.techrepublic.com/article/can-your-web-site-handle-becoming-an-overnight-success/6111663
+::
+Resources
+
+For more information about using Microsoft technologies to make your e-commerce sites more scalable and highly available, check out the following resources:
+
+Architectural Design: A Scalable, Highly Available Business Object Architecture, which includes sections on designing for scalability and availability. [http://www.microsoft.com/technet/archive/itsolutions/ecommerce/plan/ecseries.mspx?mfr=true]
+
+---2---
+
+Patent 6542902
+http://www.patentgenius.com/patent/6542902.html
+Method and apparatus for displaying medication information
+Filed:	March 23, 2001
+Inventors: Dulong; Donna B. (Del Mar, CA)
+Assignee: Bridge Medical, Inc. (Solana Beach, CA)
+::
+Other References: Microsoft TechNet, "Architectural Design: A Scalable, Highly Available Business Object Architecture",http://www.microsoft.com/technet/ecommerce/ObjArchi.asp?a=printable, Jul. 2000, pp. 1-12..
+
+---3---
+
+Patent 7114158	
+http://www.patentgenius.com/patent/7114158.html
+Programming framework including queueing network
+Filed: October 1, 2001
+Inventors: Thompson; Donald (Mercer Island, WA)
+Geller; Alan S. (Redmond, WA)
+Assignee: Microsoft Corporation (Redmond, WA)
+::
+Microsoft Corporation, "Architectural Design: A Scalable, Highly Available Business Object Architecture," Windows 2000 White Paper, 2000, pp. 1-14, USA. cited by other.
+
+---4---
+
+Deploying Windows 2000 with IIS 5.0 for Dot Coms: Best Practices
+by Ram Papatla
+http://technet.microsoft.com/en-us/library/bb742415.aspx
+::
+Recommendation Move business logic into a component-based architecture.
+
+Architectural Design: A Scalable, Highly Available Business Object Architecture: http://www.microsoft.com/technet/archive/itsolutions/ecommerce/plan/objarchi.mspx
+
+---5---
+
+Message Routing Service Application
+by Carl Nolan
+::
+Architectural Design: A Scalable, Highly Available Business Object Architecture http://www.microsoft.com/windows2000/techinfo/howitworks/application/windna.asp
+
+
+---6---
+
+C#: A Message Queuing Service Application
+by Carl Nolan
+Updated March 2002
+http://msdn.microsoft.com/en-us/library/ms973816.aspx
+::
+References
+
+Architectural Design: A Scalable, Highly Available Business Object Architecture [http://www.microsoft.com/windows2000/techinfo/howitworks/application/windna.asp]
+
+---7---
+
+Message Queuing: A Scalable, Highly Available Load-Balancing Solution
+by Christopher Baldwin and Carl Nolan
+Microsoft Corporation
+July 2000
+http://technet.microsoft.com/en-us/library/bb742415.aspx
+::
+References
+
+Further information about MSMQ and technologies referred to in this article can be found at:
+
+Architectural Design: A Scalable, Highly Available Business Object Architecture (Introduces the Microsoft Windows DNA architecture from which the solution presented was derived.)
+
+---8---
+
+Securing Microsoft Internet Information Server 5.0 Using the 
+Windows 2000 Internet Server Security Configuration Tool
+by George M. Garner Jr.
+August 15, 2000
+http://www.giac.org/paper/gcwn/34/securing-microsoft-internet-information-server-50-windows-2000-internet-server-security/101311
+::
+6. References.
+Architectural Design:  A Scalable, Highly Available Business Object Architecture.  URL:[?]
+
+---9---
+
+Monitoring and Dynamically Configuring Windows Services
+by Carl Nolan
+Microsoft Corporation
+December 2003
+http://msdn.microsoft.com/en-us/library/ms973811.aspx
+::
+References
+
+Architectural Design: A Scalable, Highly Available Business Object Architecture [http://www.microsoft.com/windows2000/techinfo/howitworks/application/windna.asp]
+
+---10---
+
+Windows DNA to the world service-oriented: each case is different?
+by Waldemir Cambiucci
+Microsoft Brazil
+http://blogs.msdn.com/b/wcamb/archive/2008/04/12/do-windows-dna-para-o-mundo-orientado-a-servi-os-cada-caso-um-caso.aspx
+::
+A good article on WinDNA is the link below:
+
+Windows DNA Architecture Design: A Scalable, Highly Available Business Object Architecture 
+Ref: http://www.microsoft.com/technet/archive/ittasks/deploy/depovg/windna.mspx?mfr=true
+
+---11---
+
+Information security with special reference to database interconnectivity.
+Coetzee, Marijke
+Date: 2008-05-29
+https://ujdigispace.uj.ac.za/bitstream/handle/10210/490/CReferences.pdf
+::
+[WIND01] Microsoft white paper, Windows DNA Architecture Design: A Scalable, Highly Available Business Object Architecture, www.microsoft.com/technet

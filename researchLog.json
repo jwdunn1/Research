@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-05-15",
+			"item": [
+				"dev.w3.org/html5/html-author/charref"
+			]
+		},
+		{
 			"date": "2022-05-14",
 			"item": [
 				"cacr.uwaterloo.ca/hac"

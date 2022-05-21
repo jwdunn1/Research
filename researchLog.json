@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-05-20",
+			"item": [
+				"developer.nvidia.com/blog/accelerating-machine-learning-on-a-linux-laptop-with-an-external-gpu"
+			]
+		},
+		{
 			"date": "2022-05-19",
 			"item": [
 				"htmlcsscolor.com"

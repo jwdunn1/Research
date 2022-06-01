@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-05-31",
+			"item": [
+				"en.wikichip.org/wiki/WikiChip"
+			]
+		},
+		{
 			"date": "2022-05-30",
 			"item": [
 				"scapy.net"

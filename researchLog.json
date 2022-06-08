@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-06-07",
+			"item": [
+				"github.com/brix/crypto-js"
+			]
+		},
+		{
 			"date": "2022-06-06",
 			"item": [
 				"isdecisions.com/user-security-awareness-game"

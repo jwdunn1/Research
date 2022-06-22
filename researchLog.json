@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-06-20",
+			"item": [
+				"visual6502.org/sim/varm/armgl.html",
+				"righto.com/2015/12/reverse-engineering-arm1-ancestor-of.html"
+			]
+		},
+		{
 			"date": "2022-06-19",
 			"item": [
 				"rudyrucker.com/oldhomepage/celdoc/cellab.html"

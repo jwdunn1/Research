@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-06-21",
+			"item": [
+				"browserling.com/tools/letter-frequency",
+				"schweigi.github.io/assembler-simulator"
+			]
+		},
+		{
 			"date": "2022-06-20",
 			"item": [
 				"visual6502.org/sim/varm/armgl.html",

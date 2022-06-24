@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-06-23",
+			"item": [
+				"arxiv.org/pdf/2203.15981.pdf  Side Channel Attacks on Multi-GPU"
+			]
+		},
+		{
 			"date": "2022-06-22",
 			"item": [
 				"symmetric-ciphers.online-domain-tools.com"

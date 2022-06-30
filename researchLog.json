@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-06-28",
+			"item": [
+				"canidev.tools",
+				"cpu-monkey.com/en/compare_cpu-apple_m1-vs-apple_m2"
+			]
+		},
+		{
 			"date": "2022-06-27",
 			"item": [
 				"matthewbutterick.com/chron/this-copilot-is-stupid-and-wants-to-kill-me.html",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-07-08",
+			"item": [
+				"neetcode.io",
+				"seanprashad.com/leetcode-patterns"
+			]
+		},
+		{
 			"date": "2022-07-07",
 			"item": [
 				"codingtrain.github.io/Directional-Boring"

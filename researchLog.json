@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-07-15",
+			"item": [
+				"github.com/eizaburo-doi/kyoto_natim"
+			]
+		},
+		{
 			"date": "2022-07-14",
 			"item": [
 				"github.com/ConorLazarou/medium/tree/master/12020/visualizing_gan_dimensions",

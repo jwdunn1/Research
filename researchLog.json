@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-07-17",
+			"item": [
+				"3d atlas of the universe: in-the-sky.org/ngc3d.php",
+				"derivative smoothing: brettbeauregard.com/blog/2011/04/improving-the-beginner%E2%80%99s-pid-derivative-kick"
+			]
+		},
+		{
 			"date": "2022-07-16",
 			"item": [
 				"robot-assisted search/rescue: crasar.org"

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-07-24",
+			"item": [
+				"3d rendering blog: acko.net",
+				"free algo/ds courses: codesdope.com"
+			]
+		},
+		{
 			"date": "2022-07-23",
 			"item": [
 				"manifold hypothesis: colah.github.io/posts/2014-03-NN-Manifolds-Topology"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-07-28",
+			"item": [
+				"approx leaky relu: stats.stackexchange.com/questions/329776/approximating-leaky-relu-with-a-differentiable-function"
+			]
+		},
+		{
 			"date": "2022-07-27",
 			"item": [
 				"winner of amazon robotics challenge: juxi.net/projects/AmazonRoboticsChallenge"

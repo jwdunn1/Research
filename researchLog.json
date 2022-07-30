@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-07-29",
+			"item": [
+				"collegiate dictionary: oxfordlearnersdictionaries.com"
+			]
+		},
+		{
 			"date": "2022-07-28",
 			"item": [
 				"approx leaky relu: stats.stackexchange.com/questions/329776/approximating-leaky-relu-with-a-differentiable-function"

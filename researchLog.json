@@ -1,11 +1,18 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-01",
+			"item": [
+				"image gradients: theailearner.com/2019/05/11/understanding-image-gradients"
+			]
+		},
+		{
 			"item": [
 				"original lucid: web.archive.org/web/20210528002430/cse.unsw.edu.au/~plaice/archive/WWW/1985/B-AP85-LucidDataflow.pdf",
 				"another lucid: github.com/tensorflow/lucid",
 				"and one more: conferences.sigcomm.org/sigcomm/2021/files/papers/3452296.3472903.pdf"
-			]
+			],
+			"date": "2022-07-31"
 		},
 		{
 			"date": "2022-07-30",

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-02",
+			"item": [
+				"ai pilot: cs.cmu.edu/news/2022/ai-pilot"
+			]
+		},
+		{
 			"date": "2022-08-01",
 			"item": [
 				"image gradients: theailearner.com/2019/05/11/understanding-image-gradients"

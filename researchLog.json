@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-04",
+			"item": [
+				"visualize algorithms: bost.ocks.org/mike/algorithms",
+				"visualize tabular data: observablehq.com/@observablehq/plot"
+			]
+		},
+		{
 			"date": "2022-08-03",
 			"item": [
 				"no ai without data: dl.acm.org/doi/pdf/10.1145/3448247"

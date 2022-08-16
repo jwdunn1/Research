@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-15",
+			"item": [
+				"deeper convolutions: static.googleusercontent.com/media/research.google.com/en/pubs/archive/43022.pdf"
+			]
+		},
+		{
 			"date": "2022-08-14",
 			"item": [
 				"cnn with numpy: djstein.com/cnn-numpy"

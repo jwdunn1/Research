@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-17",
+			"item": [
+				"console project template: github.com/dotnet/docs/issues/27420",
+				"cannot run dotnet new console: github.com/dotnet/core/issues/4605"
+			]
+		},
+		{
 			"date": "2022-08-16",
 			"item": [
 				"relativity: space.com/17661-theory-general-relativity.html"

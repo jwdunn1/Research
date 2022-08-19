@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-18",
+			"item": [
+				"online hex editor: hexed.it"
+			]
+		},
+		{
 			"date": "2022-08-17",
 			"item": [
 				"console project template: github.com/dotnet/docs/issues/27420",

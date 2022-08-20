@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-19",
+			"item": [
+				"open source vscode: vscodium.com",
+				"aes crypto: docs.microsoft.com/en-us/dotnet/api/system.security.cryptography.aes"
+			]
+		},
+		{
 			"date": "2022-08-18",
 			"item": [
 				"online hex editor: hexed.it"

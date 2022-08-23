@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-21",
+			"item": [
+				"non-standard elements: w3.org/Style/customdtd"
+			]
+		},
+		{
 			"date": "2022-08-20",
 			"item": [
 				"beware of cbc mode: docs.microsoft.com/en-us/dotnet/standard/security/vulnerabilities-cbc-mode"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-25",
+			"item": [
+				"composites in rsa: quora.com/What-would-happen-if-RSA-used-composites-instead-of-primes"
+			]
+		},
+		{
 			"date": "2022-08-24",
 			"item": [
 				"McEliece asymmetric: en.wikipedia.org/wiki/McEliece_cryptosystem"

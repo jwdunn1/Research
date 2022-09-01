@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-08-31",
+			"item": [
+				"rsa core: fringe.davesource.com/Fringe/Crypt/RSA/Algorithm.html"
+			]
+		},
+		{
 			"date": "2022-08-30",
 			"item": [
 				"rsa algorithm: di-mgt.com.au/rsa_alg.html",

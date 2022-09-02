@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-01",
+			"item": [
+				"liongard.com/blog/what-is-it-systems-documentation"
+			]
+		},
+		{
 			"date": "2022-08-31",
 			"item": [
 				"rsa core: fringe.davesource.com/Fringe/Crypt/RSA/Algorithm.html"

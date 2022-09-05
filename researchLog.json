@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-03",
+			"item": [
+				"cyclic group: en.wikipedia.org/wiki/Cyclic_group"
+			]
+		},
+		{
 			"date": "2022-09-02",
 			"item": [
 				"request for comments: rfc-editor.org"

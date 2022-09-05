@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-04",
+			"item": [
+				"reduction: stackoverflow.com/questions/5741247/how-does-a-reduction-function-used-with-rainbow-tables-work"
+			]
+		},
+		{
 			"date": "2022-09-03",
 			"item": [
 				"cyclic group: en.wikipedia.org/wiki/Cyclic_group"

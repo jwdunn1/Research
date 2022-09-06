@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-05",
+			"item": [
+				"random primes: bigprimes.org"
+			]
+		},
+		{
 			"date": "2022-09-04",
 			"item": [
 				"reduction: stackoverflow.com/questions/5741247/how-does-a-reduction-function-used-with-rainbow-tables-work"

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-06",
+			"item": [
+				"ecc point doubling: youtu.be/NTztut15D2E",
+				"ecc: girlstalkmath.com/2018/07/02/elliptic-curve-cryptography-2"
+			]
+		},
+		{
 			"date": "2022-09-05",
 			"item": [
 				"random primes: bigprimes.org"

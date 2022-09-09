@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-08",
+			"item": [
+				"ecc calc: andrea.corbellini.name/ecc/interactive/modk-mul.html",
+				"ecc calc: christelbach.com/eccalculator.aspx"
+			]
+		},
+		{
 			"date": "2022-09-07",
 			"item": [
 				"prime search: mersenne.org",

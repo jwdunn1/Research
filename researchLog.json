@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-09",
+			"item": [
+				"rc4: github.com/danjford/RC4.js",
+				"rc4: github.com/jbalthis/rc4"
+			]
+		},
+		{
 			"date": "2022-09-08",
 			"item": [
 				"ecc calc: andrea.corbellini.name/ecc/interactive/modk-mul.html",

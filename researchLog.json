@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-10",
+			"item": [
+				"hash tools: emn178.github.io/online-tools",
+				"miller-rabin explained: youtu.be/zmhUlVck3J0"
+			]
+		},
+		{
 			"date": "2022-09-09",
 			"item": [
 				"rc4: github.com/danjford/RC4.js",

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-14",
+			"item": [
+				"compress then encrypt: stackoverflow.com/questions/4399812/is-it-better-to-encrypt-a-message-and-then-compress-it-or-the-other-way-around"
+			]
+		},
+		{
 			"date": "2022-09-13",
 			"item": [
 				"rc6 java: github.com/amoghlale/RC6-Algorithm"

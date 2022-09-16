@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-15",
+			"item": [
+				"find mem leaks: engineering.fb.com/2022/09/12/open-source/memlab",
+				"memlab code: github.com/facebookincubator/memlab"
+			]
+		},
+		{
 			"date": "2022-09-14",
 			"item": [
 				"compress then encrypt: stackoverflow.com/questions/4399812/is-it-better-to-encrypt-a-message-and-then-compress-it-or-the-other-way-around"

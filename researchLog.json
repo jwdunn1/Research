@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-16",
+			"item": [
+				"aks primality: en.wikipedia.org/wiki/AKS_primality_test"
+			]
+		},
+		{
 			"date": "2022-09-15",
 			"item": [
 				"find mem leaks: engineering.fb.com/2022/09/12/open-source/memlab",

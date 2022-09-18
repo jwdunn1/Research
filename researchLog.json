@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-17",
+			"item": [
+				"new prime found: primes.utm.edu/primes/page.php?id=134298"
+			]
+		},
+		{
 			"date": "2022-09-16",
 			"item": [
 				"aks primality: en.wikipedia.org/wiki/AKS_primality_test"

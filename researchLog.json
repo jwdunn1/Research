@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-19",
+			"item": [
+				"confidentiality without encryption: people.csail.mit.edu/rivest/pubs/Riv98a.pdf"
+			]
+		},
+		{
 			"date": "2022-09-18",
 			"item": [
 				"https initialization: moserware.com/2009/06/first-few-milliseconds-of-https.html"

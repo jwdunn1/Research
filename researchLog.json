@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-20",
+			"item": [
+				"integer info: metanumbers.com"
+			]
+		},
+		{
 			"date": "2022-09-19",
 			"item": [
 				"confidentiality without encryption: people.csail.mit.edu/rivest/pubs/Riv98a.pdf"

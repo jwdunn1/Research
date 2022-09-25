@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-24",
+			"item": [
+				"chain of trust: keyfactor.com/blog/certificate-chain-of-trust",
+				"hamming excel: statology.org/hamming-distance-in-excel"
+			]
+		},
+		{
 			"date": "2022-09-23",
 			"item": [
 				"michev.info/Blog/Post/1435/windows-certificate-stores"

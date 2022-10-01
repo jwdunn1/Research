@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-09-30",
+			"item": [
+				"certificates: rfc-editor.org/rfc/rfc5280"
+			]
+		},
+		{
 			"date": "2022-09-29",
 			"item": [
 				"ev data: aemev.com/understanding-ev"

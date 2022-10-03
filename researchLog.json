@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-02",
+			"item": [
+				"oblivious transfer: crypto.stackexchange.com/questions/8839/simple-protocol-for-1-out-of-2-oblivious-transfer"
+			]
+		},
+		{
 			"date": "2022-10-01",
 			"item": [
 				"miller rabin: crypto.stanford.edu/pbc/notes/numbertheory/millerrabin.html"

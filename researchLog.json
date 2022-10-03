@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-01",
+			"item": [
+				"miller rabin: crypto.stanford.edu/pbc/notes/numbertheory/millerrabin.html"
+			]
+		},
+		{
 			"date": "2022-09-30",
 			"item": [
 				"certificates: rfc-editor.org/rfc/rfc5280"

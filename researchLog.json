@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-12",
+			"item": [
+				"reverse engineering framework: github.com/NationalSecurityAgency/ghidra"
+			]
+		},
+		{
 			"date": "2022-10-11",
 			"item": [
 				"vpn tests: restoreprivacy.com/vpn/test-check-vpn-working"

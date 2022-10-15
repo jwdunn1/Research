@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-13",
+			"item": [
+				"online c compiler: onlinegdb.com/online_c_compiler"
+			]
+		},
+		{
 			"date": "2022-10-12",
 			"item": [
 				"reverse engineering framework: github.com/NationalSecurityAgency/ghidra"

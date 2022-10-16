@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-15",
+			"item": [
+				"simple fuzzer: carstein.github.io/2020/04/18/writing-simple-fuzzer-1.html"
+			]
+		},
+		{
 			"date": "2022-10-14",
 			"item": [
 				"overflow: github.com/hackerschoice/THC-Archive/blob/master/Papers/overflow.txt"

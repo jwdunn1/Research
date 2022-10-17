@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-16",
+			"item": [
+				"us electric grid: eia.gov/electricity/gridmonitor/dashboard/electric_overview/US48/US48",
+				"gridwatch uk: gridwatch.templar.co.uk"
+			]
+		},
+		{
 			"date": "2022-10-15",
 			"item": [
 				"simple fuzzer: carstein.github.io/2020/04/18/writing-simple-fuzzer-1.html"

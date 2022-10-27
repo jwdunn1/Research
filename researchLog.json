@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-26",
+			"item": [
+				"hacking google: h4ck1ng.google",
+				"ctf google: capturetheflag.withgoogle.com/beginners-quest"
+			]
+		},
+		{
 			"date": "2022-10-25",
 			"item": [
 				"schneier.com/crypto-gram/archives/1999/0215.html"

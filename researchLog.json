@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-28",
+			"item": [
+				"linux syscalls: blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64"
+			]
+		},
+		{
 			"date": "2022-10-27",
 			"item": [
 				"internet explained: eater.net/inet"

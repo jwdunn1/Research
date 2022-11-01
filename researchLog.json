@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-10-31",
+			"item": [
+				"sha256 3xor mining: github.com/cbouilla/3XOR-mining"
+			]
+		},
+		{
 			"date": "2022-10-30",
 			"item": [
 				"fuzzing intro: microsoft.com/en-us/research/blog/a-brief-introduction-to-fuzzing-and-why-its-an-important-tool-for-developers"

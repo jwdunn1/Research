@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-06",
+			"item": [
+				"github: octoverse.github.com"
+			]
+		},
+		{
 			"date": "2022-11-05",
 			"item": [
 				"stack frames: people.cs.rutgers.edu/~pxk/419/notes/frames.html"

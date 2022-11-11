@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-10",
+			"item": [
+				"js wasm comparison: whealy.com/Rust/mandelbrot.html"
+			]
+		},
+		{
 			"date": "2022-11-09",
 			"item": [
 				"http/3 check: http3check.net"

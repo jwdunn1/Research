@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-11",
+			"item": [
+				"fuzz testing: fuzzingbook.org",
+				"example domain: example.com"
+			]
+		},
+		{
 			"date": "2022-11-10",
 			"item": [
 				"js wasm comparison: whealy.com/Rust/mandelbrot.html"

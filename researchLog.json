@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-12",
+			"item": [
+				"fuzzer origin: pages.cs.wisc.edu/~bart/fuzz",
+				"deep fuzzing: fuzzingbook.org"
+			]
+		},
+		{
 			"date": "2022-11-11",
 			"item": [
 				"fuzz testing: fuzzingbook.org",

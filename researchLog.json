@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-14",
+			"item": [
+				"wasm toolkit: github.com/WebAssembly/wabt"
+			]
+		},
+		{
 			"date": "2022-11-13",
 			"item": [
 				"js to wasm: github.com/ballercat/walt"

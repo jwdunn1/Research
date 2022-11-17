@@ -27,8 +27,7 @@
 		{
 			"date": "2022-11-12",
 			"item": [
-				"fuzzer origin: pages.cs.wisc.edu/~bart/fuzz",
-				"deep fuzzing: fuzzingbook.org"
+				"fuzzer origin: pages.cs.wisc.edu/~bart/fuzz"
 			]
 		},
 		{

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-17",
+			"item": [
+				"program memory: web.archive.org/web/20180206141815/https://manybutfinite.com/post/anatomy-of-a-program-in-memory"
+			]
+		},
+		{
 			"date": "2022-11-16",
 			"item": [
 				"gdb intro: courses.cs.vt.edu/cs2505/spring2017/Assignments/12/IntroToGDB.pdf"

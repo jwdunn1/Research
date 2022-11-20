@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-19",
+			"item": [
+				"package manager: vcpkg.io"
+			]
+		},
+		{
 			"date": "2022-11-18",
 			"item": [
 				"buffer overflow: coengoedegebure.com/buffer-overflow-attacks-explained"

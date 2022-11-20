@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-18",
+			"item": [
+				"buffer overflow: coengoedegebure.com/buffer-overflow-attacks-explained"
+			]
+		},
+		{
 			"date": "2022-11-17",
 			"item": [
 				"program memory: web.archive.org/web/20180206141815/https://manybutfinite.com/post/anatomy-of-a-program-in-memory"

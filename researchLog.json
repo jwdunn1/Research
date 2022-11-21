@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-20",
+			"item": [
+				"windows unistd: stackoverflow.com/a/341817"
+			]
+		},
+		{
 			"date": "2022-11-19",
 			"item": [
 				"package manager: vcpkg.io"

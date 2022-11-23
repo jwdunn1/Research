@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-22",
+			"item": [
+				"strange code: github.com/rkneusel9/StrangeCodeBook"
+			]
+		},
+		{
 			"date": "2022-11-21",
 			"item": [
 				"brainfork mandelbrot: github.com/gbizzotto/digital/blob/master/mandelbrot.b"

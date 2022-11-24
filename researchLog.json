@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-23",
+			"item": [
+				"stack layout: eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64"
+			]
+		},
+		{
 			"date": "2022-11-22",
 			"item": [
 				"strange code: github.com/rkneusel9/StrangeCodeBook"

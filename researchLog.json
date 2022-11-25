@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-24",
+			"item": [
+				"8086 primer: stevemorse.org/8086"
+			]
+		},
+		{
 			"date": "2022-11-23",
 			"item": [
 				"stack layout: eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64"

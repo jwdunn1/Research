@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-25",
+			"item": [
+				"morse interview: web.archive.org/web/20200522050433/https://www.pcworld.com/article/146917/article.html"
+			]
+		},
+		{
 			"date": "2022-11-24",
 			"item": [
 				"8086 primer: stevemorse.org/8086"

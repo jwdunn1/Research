@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-27",
+			"item": [
+				"python versions: cyberciti.biz/faq/bash-python-command-not-found"
+			]
+		},
+		{
 			"date": "2022-11-26",
 			"item": [
 				"pc emulator: pcjs.org"

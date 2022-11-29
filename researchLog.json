@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-28",
+			"item": [
+				"4004 opcodes: pastraiser.com/cpu/i4004/i4004_opcodes.html",
+				"8085 opcodes: pastraiser.com/cpu/i8085/i8085_opcodes.html"
+			]
+		},
+		{
 			"date": "2022-11-27",
 			"item": [
 				"python versions: cyberciti.biz/faq/bash-python-command-not-found"

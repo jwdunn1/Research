@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-11-29",
+			"item": [
+				"8087 constants: righto.com/2020/05/extracting-rom-constants-from-8087-math.html"
+			]
+		},
+		{
 			"date": "2022-11-28",
 			"item": [
 				"4004 opcodes: pastraiser.com/cpu/i4004/i4004_opcodes.html",

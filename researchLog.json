@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-01",
+			"item": [
+				"gdb cmdline: stackoverflow.com/a/6121094"
+			]
+		},
+		{
 			"date": "2022-11-30",
 			"item": [
 				"16-bit sim: ihmels.github.io/asmsimulator"

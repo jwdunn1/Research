@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-02",
+			"item": [
+				"x86 history: en.wikipedia.org/wiki/X86_instruction_listings"
+			]
+		},
+		{
 			"date": "2022-12-01",
 			"item": [
 				"gdb cmdline: stackoverflow.com/a/6121094"

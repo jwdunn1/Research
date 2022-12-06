@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-05",
+			"item": [
+				"catch mouseup: stackoverflow.com/a/11533211/4843719"
+			]
+		},
+		{
 			"date": "2022-12-04",
 			"item": [
 				"flat asm: flatassembler.net"

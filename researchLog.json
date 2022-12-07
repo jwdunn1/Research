@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-06",
+			"item": [
+				"flexbox guide: css-tricks.com/snippets/css/a-guide-to-flexbox",
+				"flexbox tips: digitalocean.com/community/cheatsheets/css-flexbox",
+				"flexbox uses: smashingmagazine.com/2018/10/flexbox-use-cases"
+			]
+		},
+		{
 			"date": "2022-12-05",
 			"item": [
 				"catch mouseup: stackoverflow.com/a/11533211/4843719"

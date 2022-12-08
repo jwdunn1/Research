@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-07",
+			"item": [
+				"vulnerability database: nvd.nist.gov"
+			]
+		},
+		{
 			"date": "2022-12-06",
 			"item": [
 				"flexbox guide: css-tricks.com/snippets/css/a-guide-to-flexbox",

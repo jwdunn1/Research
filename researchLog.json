@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-08",
+			"item": [
+				"grid tutorial: digitalocean.com/community/tutorials/css-css-grid-layout-intro",
+				"grid guide: css-tricks.com/snippets/css/complete-guide-grid"
+			]
+		},
+		{
 			"date": "2022-12-07",
 			"item": [
 				"design principles: principles.design",

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-09",
+			"item": [
+				"ts book: basarat.gitbook.io/typescript"
+			]
+		},
+		{
 			"date": "2022-12-08",
 			"item": [
 				"grid tutorial: digitalocean.com/community/tutorials/css-css-grid-layout-intro",

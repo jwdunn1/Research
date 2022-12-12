@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-10",
+			"item": [
+				"asm malloc: cs.uaf.edu/2015/fall/cs301/lecture/09_23_allocation.html"
+			]
+		},
+		{
 			"date": "2022-12-09",
 			"item": [
 				"ts book: basarat.gitbook.io/typescript"

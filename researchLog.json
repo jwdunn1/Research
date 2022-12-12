@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-11",
+			"item": [
+				"tutorials: web.dev/learn"
+			]
+		},
+		{
 			"date": "2022-12-10",
 			"item": [
 				"asm malloc: cs.uaf.edu/2015/fall/cs301/lecture/09_23_allocation.html"

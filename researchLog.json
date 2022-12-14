@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-12",
+			"item": [
+				"design principles: principles.design"
+			]
+		},
+		{
 			"date": "2022-12-11",
 			"item": [
 				"tutorials: web.dev/learn"

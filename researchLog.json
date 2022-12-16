@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-14",
+			"item": [
+				"palpable content: html.spec.whatwg.org/multipage/dom.html#palpable-content-2"
+			]
+		},
+		{
 			"date": "2022-12-12",
 			"item": [
 				"design principles: principles.design"

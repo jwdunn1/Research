@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-24",
+			"item": [
+				"color manipulation: github.com/gka/chroma.js",
+				"generative sculpting: fxhash.xyz/generative/slug/sculpt-i"
+			]
+		},
+		{
 			"date": "2022-12-23",
 			"item": [
 				"social bookmarks: pinboard.in"

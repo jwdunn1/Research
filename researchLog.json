@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-25",
+			"item": [
+				"hex grids: redblobgames.com/grids/hexagons"
+			]
+		},
+		{
 			"date": "2022-12-24",
 			"item": [
 				"color manipulation: github.com/gka/chroma.js",

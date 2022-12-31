@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2022-12-30",
+			"item": [
+				"canvas tutorial: developer.mozilla.org/en-US/docs/Web/API/Canvas_API"
+			]
+		},
+		{
 			"date": "2022-12-29",
 			"item": [
 				"pagerank explained: ams.org/publicoutreach/feature-column/fcarc-pagerank"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-31",
+			"item": [
+				"canvas reference: simon.html5.org/dump/html5-canvas-cheat-sheet.html"
+			]
+		},
+		{
 			"date": "2022-12-30",
 			"item": [
 				"canvas tutorial: developer.mozilla.org/en-US/docs/Web/API/Canvas_API"

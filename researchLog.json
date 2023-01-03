@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-03",
+			"item": [
+				"canvas spec: html.spec.whatwg.org/multipage/canvas.html"
+			]
+		},
+		{
 			"date": "2023-01-02",
 			"item": [
 				"3d in 2d: mamboleoo.be/articles/how-to-render-3d-in-2d-canvas"

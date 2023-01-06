@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-05",
+			"item": [
+				"ant behavior: cargocollective.com/sagejenson/physarum"
+			]
+		},
+		{
 			"date": "2023-01-04",
 			"item": [
 				"load spinner: dabblet.com/gist/6089395"

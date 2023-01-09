@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-08",
+			"item": [
+				"js reference: javascripture.com",
+				"stop leetcoding: fev.al/posts/leet-code"
+			]
+		},
+		{
 			"date": "2023-01-07",
 			"item": [
 				"test pattern: ryojiikeda.com/project/testpattern"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-11",
+			"item": [
+				"canvas spec: html.spec.whatwg.org/multipage/canvas.html"
+			]
+		},
+		{
 			"date": "2023-01-10",
 			"item": [
 				"desmos perspective: desmos.com/calculator/hkskhkmr8q"

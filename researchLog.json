@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-12",
+			"item": [
+				"responsive canvas: jgibson.id.au/blog/responsive-canvas"
+			]
+		},
+		{
 			"date": "2023-01-11",
 			"item": [
 				"canvas spec: html.spec.whatwg.org/multipage/canvas.html"

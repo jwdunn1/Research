@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="author" content="jWilliam Dunn">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive | p5</title>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.5.0/p5.js"></script>
+  <script>
+    // [The following fix also works for the 3D canvas.]
+    // Fix for responsive issue #5843:
+    p5.Renderer.prototype.resize = function(w, h) {
+      this.width = w;
+      this.height = h;
+      this.elt.width = w * this._pInst._pixelDensity;
+      this.elt.height = h * this._pInst._pixelDensity;
+      this.elt.style.width = `${w}px`;
+      //this.elt.style.height = `${h}px`;  // REMOVE! //
+      if (this._isMainCanvas) {
+        this._pInst._setProperty('width', this.width);
+        this._pInst._setProperty('height', this.height);
+      }
+    };
+  </script>
+  <style>
+    html,body,figure {
+      display: flex;      /*  \             */
+      margin-left: auto;  /*   auto-center  */
+      margin-right: auto; /*  /             */
+      font-size: 18px;
+      line-height: 24px;
+    }
+    main {
+      margin-left: 30px;  /* prevent running to the edges of the screen */
+      margin-right: 30px;
+      max-width: 1000px;  /* prevent long reading lines */
+    }
+    canvas {
+      max-width: 100%;  /* required */
+    }
+  </style>
+</head>
+
+<body>
+<main>
+  <h4>Responsive web page with multiple p5js sketches</h4>
+  <hr>
+  <p>The following interactive sketch should display a large, white, perfect circle, rendered at the default pixel density. If the window is resized or viewed on a smaller device, the canvas resizes responsively and the aspect ratio preserved. A smaller, red circle is rendered at the mouse or touch coordinates.</p>
+  <figure id="1">
+    <script>
+    // instance 1
+    let c1 = function(p) {
+      p.setup=()=>{
+        p.createCanvas(1400,420);
+        p.mouseX = -200; // optionally, initialize the mouse off-screen
+      }
+      p.draw=()=>{
+        p.background(100);
+        p.fill(255);
+        p.circle(p.width/2,p.height/2, 400);
+        p.fill(192,0,0);
+        p.circle(p.mouseX,p.mouseY, 100);
+      }
+    }
+    new p5(c1, "1");
+    </script>
+  </figure>
+  <p>The next sketch displays a similar circle, however, it is rendered on the WEBGL canvas at <i>double</i> pixel density. In this case, a smaller blue circle is rendered also.</p>
+  <figure id="2">
+    <script>
+    // instance 2
+    let c2 = function(p) {
+      p.setup=()=>{
+        p.createCanvas(1400,420, p.WEBGL);
+        p.pixelDensity(2);
+        p.mouseX = -200;
+      }
+      p.draw=()=>{
+        p.background(100);
+        p.fill(255);
+        p.ellipse(0,0, 400,400, 50); // render a smooth circle
+        p.fill(0,0,192);
+        p.translate(0,0,1); // move one pixel above the base
+        p.circle(p.mouseX-p.width/2,p.mouseY-p.height/2, 100);
+      }
+    }
+    new p5(c2, "2");
+    </script>
+  </figure>
+  <p>Inspect the source of this web page to learn more about how to manage multiple sketches on one page.</p>
+  <hr>
+  <p>For reference, <i>without</i> the fix, the p5js canvas can end up resizing its height such that the aspect ratio is corrupted and a circle appears as ellipse, even though the underlying canvas is <i>rendered</i> correctly. The following static image displays an instance of this behavior.</p>
+  <figure>
+  <img src="images/ref.png" width="100%">
+  </figure>
+</main>
+
+</body>
+</html>

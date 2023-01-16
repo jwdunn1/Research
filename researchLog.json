@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-15",
+			"item": [
+				"code highlighter: highlightjs.org"
+			]
+		},
+		{
 			"date": "2023-01-14",
 			"item": [
 				"responsive typography: rwt.io"

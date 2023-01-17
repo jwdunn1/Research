@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-16",
+			"item": [
+				"visual registers: thlorenz.com/visulator"
+			]
+		},
+		{
 			"date": "2023-01-15",
 			"item": [
 				"code highlighter: highlightjs.org"

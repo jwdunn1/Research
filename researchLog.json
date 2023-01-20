@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-18",
+			"item": [
+				"ripple canvas: okela.org/es/red"
+			]
+		},
+		{
 			"date": "2023-01-17",
 			"item": [
 				"find crc: github.com/madler/spoof"

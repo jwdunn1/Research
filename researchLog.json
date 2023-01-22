@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-21",
+			"item": [
+				"browser minify: jsminify.org"
+			]
+		},
+		{
 			"date": "2023-01-20",
 			"item": [
 				"online disas: onlinedisassembler.com"

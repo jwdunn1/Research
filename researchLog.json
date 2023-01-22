@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-20",
+			"item": [
+				"online disas: onlinedisassembler.com"
+			]
+		},
+		{
 			"date": "2023-01-19",
 			"item": [
 				"revealing module: gist.github.com/zcaceres/bb0eec99c02dda6aac0e041d0d4d7bf2"

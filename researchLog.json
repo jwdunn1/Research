@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-23",
+			"item": [
+				"float 64-bit: babbage.cs.qc.cuny.edu/ieee-754.old/decimal.html"
+			]
+		},
+		{
 			"date": "2023-01-22",
 			"item": [
 				"design book: shapeofdesignbook.com"

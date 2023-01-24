@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-22",
+			"item": [
+				"design book: shapeofdesignbook.com"
+			]
+		},
+		{
 			"date": "2023-01-21",
 			"item": [
 				"browser minify: jsminify.org"

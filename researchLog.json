@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-01-25",
+			"item": [
+				"float converter: h-schmidt.net/FloatConverter/IEEE754.html"
+			]
+		},
+		{
 			"date": "2023-01-24",
 			"item": [
 				"design strategy: udanium.substack.com"

@@ -1,0 +1,122 @@
+p5kit documentation
+
+a minimal implementation of the p5js framework
+rendering to either a canvas or svg element
+hand-coded by jWilliamDunn
+sketches should be developed in p5js first and then moved to p5kit
+the goal here is minimal error checking and lightweight deployment
+|: shortcuts imply tradeoffs - jettison the unnecessary :|
+
+USAGE NOTE:
+This library uses an existing canvas or svg element named "_" underscore.
+The default name can be updated in the last line of the library, or an
+instance-mode sketch can be created, with the id of the render element
+passed as the second argument. See p5kitExample.html
+
+The svg renderer requires a different mode of thought. Create items and
+gather the returned identifiers during the setup phase. Then, animate those
+existing items in the draw loop using the IDs, manipulating their style
+properties such as rotate, translate, etc.
+
+________________________________________________________________________________
+v1.2.0                                                                  20230127
+13,901 byte library [8,695 min]  
+(p5.min.js v1.5.0 is 898,364 bytes plus p5.svg.min.js is 33,038 bytes)
+support responsive svg element
+design, develop, and integrate svg renderer
+
+________________________________________________________________________________
+v1.1.8                                                                  20230126
+8,985 byte library
+support touchmove
+support globals in push/pop
+support initial fill/stroke of text
+simplify triangle and quad using vertex
+repair use of CLOSE and remove setting of weight=0 in noStroke
+add strokeCap() and types ROUND, SQUARE, PROJECT
+add random(min,max), lerp(), sin, cos, atan2, PI, TAU, floor, radians, degrees
+add 2arg and 4arg alpha for fill and stroke
+add 1arg string for fill, stroke, background
+repair event calculation for height
+shape optimization and fix background/fill
+replace polygon with minimal beginShape, vertex, closeShape
+rearrange code layout
+
+________________________________________________________________________________
+v1.1.7                                                                  20230109
+7,026 byte library
+support for pixelDensity() and resizeCanvas()  |: avoiding previous hacks :|
+
+________________________________________________________________________________
+v1.1.6                                                                  20230108
+7191 byte library
+repair mouse/touch scaling
+
+________________________________________________________________________________
+v1.1.5                                                                  20230108
+7,038 byte library
+repair context management on constructions: fill, stroke, strokeWeight
+add linecap basic
+
+________________________________________________________________________________
+v1.1.4                                                                  20230107
+6,679 byte library
+add 'drawingContext'
+invoke loop only if not looping
+remove extraneous save/restore
+
+________________________________________________________________________________
+v1.1.2                                                                  20230101
+6,545 byte library
+support for multiple sketch instances, each with a canvas target
+add shapes: ellipse, circle, quad, line, polygon
+add controls: loop, noLoop, clear, push, pop, translate, rotate
+add support: loadImage, image, random
+add alpha for two-arg background
+deployed on a portfolio website
+
+________________________________________________________________________________
+v1.0.0                                                                  20181008
+4,325 byte library renamed p5kit.js
+support touchstart, touchend events
+alter for single pre-existing canvas
+support double-pixel density
+deployed on a client website
+
+________________________________________________________________________________
+v0.9.0                                                                  20181006
+3,518 byte library named p5lite.js
+creates a canvas element
+support basic mouse events
+controls: scale, background, fill, noFill, stroke, noStroke, cursor
+shapes: rect, triangle, text
+support: textSize, textStyle, textFont
+
+//goal: implement enough to run the following basic sketch
+function setup() {
+  createCanvas(windowWidth,windowHeight);
+  textSize(100);
+  textFont('Georgia');
+}
+function draw() {
+  background(31);
+  
+  strokeWeight(2);
+  fill(255);
+  stroke(255,0,255);
+  text('Stroked', 10, 80);
+  fill(0);
+  stroke(255,0,0);
+  strokeWeight(4);
+  rect(mouseX+100,mouseY, 100,100);
+  fill(255);
+  noStroke();
+  text('Unstroked', width/2-200,height/2);
+  fill(0);
+  stroke(255,0,0);
+  strokeWeight(4);
+  rect(mouseX,mouseY, 100,100);
+  fill(0);
+  noStroke();
+  rect(mouseX+98, mouseY+2, 4, 100-4);
+}

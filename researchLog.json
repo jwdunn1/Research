@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-02-03",
+			"item": [
+				"logic sim: sebastian.itch.io/digital-logic-sim"
+			]
+		},
+		{
 			"date": "2023-02-02",
 			"item": [
 				"unix elements: theody.net/elements.html"

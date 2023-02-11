@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-02-10",
+			"item": [
+				"solid js: solidjs.com/tutorial/flow_portal"
+			]
+		},
+		{
 			"date": "2023-02-09",
 			"item": [
 				"radio button: stackoverflow.com/a/4253920"

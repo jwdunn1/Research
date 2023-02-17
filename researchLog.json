@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-02-16",
+			"item": [
+				"logic sim: logic.ly/demo"
+			]
+		},
+		{
 			"date": "2023-02-15",
 			"item": [
 				"css gradients: csshero.org/mesher"

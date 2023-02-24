@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-02-23",
+			"item": [
+				"js oddities: wtfjs.com"
+			]
+		},
+		{
 			"date": "2023-02-22",
 			"item": [
 				"prepend child: gist.github.com/lotsofcode/93ec612fb2b8bb4801c6"

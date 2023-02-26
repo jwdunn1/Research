@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-02-24",
+			"item": [
+				"noise contours: observablehq.com/@mbostock/perlin-noise-contours"
+			]
+		},
+		{
 			"date": "2023-02-23",
 			"item": [
 				"js oddities: wtfjs.com"

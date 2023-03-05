@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-03",
+			"item": [
+				"game loop: isaacsukin.com/news/2015/01/detailed-explanation-javascript-game-loops-and-timing"
+			]
+		},
+		{
 			"date": "2023-03-02",
 			"item": [
 				"glyph inspector: opentype.js.org/glyph-inspector.html"

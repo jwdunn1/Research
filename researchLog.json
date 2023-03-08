@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-07",
+			"item": [
+				"mvc: cs.sjsu.edu/~pearce/modules/lectures/ood3/mvc/index.htm"
+			]
+		},
+		{
 			"date": "2023-03-06",
 			"item": [
 				"js questions: github.com/lydiahallie/javascript-questions"

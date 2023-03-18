@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-17",
+			"item": [
+				"easy 6502: web.archive.org/web/20210429002710/http://skilldrick.github.io/easy6502"
+			]
+		},
+		{
 			"date": "2023-03-16",
 			"item": [
 				"busicom emu: dutchen18.gitlab.io/emu-rs"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-19",
+			"item": [
+				"sunlight: web.archive.org/web/20220522033917/https://planetpixelemporium.com/tutorialpages/light.html"
+			]
+		},
+		{
 			"date": "2023-03-18",
 			"item": [
 				"buffer overflow: security.stackexchange.com/a/244249"

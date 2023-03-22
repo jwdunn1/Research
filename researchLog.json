@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-21",
+			"item": [
+				"new noise: noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html"
+			]
+		},
+		{
 			"date": "2023-03-20",
 			"item": [
 				"perlin: genekogan.com/code/p5js-perlin-noise"

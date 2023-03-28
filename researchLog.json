@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-03-27",
+			"item": [
+				"agi sparks: arxiv.org/pdf/2303.12712.pdf"
+			]
+		},
+		{
 			"date": "2023-03-26",
 			"item": [
 				"transformer robotics: humanoid-transformer.github.io"

@@ -1,9 +1,16 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-06",
+			"item": [
+				"css triggers: web.archive.org/web/20220313150520/https://csstriggers.com"
+			]
+		},
+		{
 			"date": "2023-04-05",
 			"item": [
-				"flip concept: aerotwist.com/blog/flip-your-animations"
+				"flip concept: aerotwist.com/blog/flip-your-animations",
+				"anim perf: aerotwist.com/blog/moar-performance"
 			]
 		},
 		{

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-08",
+			"item": [
+				"hp11c emulator: stendec.io/ctb/rpn_sci.html"
+			]
+		},
+		{
 			"date": "2023-04-07",
 			"item": [
 				"tla overview: lamport.azurewebsites.net/tla/tla.html"

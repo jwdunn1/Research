@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-13",
+			"item": [
+				"fuzzer list: blackarch.org/fuzzer.html"
+			]
+		},
+		{
 			"date": "2023-04-12",
 			"item": [
 				"gpt response: gptforwork.com/tools/openai-api-response-time-tracker",

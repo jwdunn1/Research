@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-14",
+			"item": [
+				"simple fuzzer: github.com/orgcandman/Simple-Fuzzer"
+			]
+		},
+		{
 			"date": "2023-04-13",
 			"item": [
 				"fuzzer list: blackarch.org/fuzzer.html"

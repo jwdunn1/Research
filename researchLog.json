@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-15",
+			"item": [
+				"c++: www3.ntu.edu.sg/home/ehchua/programming/cpp/cp0_Introduction.html"
+			]
+		},
+		{
 			"date": "2023-04-14",
 			"item": [
 				"simple fuzzer: github.com/orgcandman/Simple-Fuzzer"

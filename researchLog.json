@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-20",
+			"item": [
+				"ink tests: pomax.nihongoresources.com/pages/inks"
+			]
+		},
+		{
 			"date": "2023-04-19",
 			"item": [
 				"p5 wasm: github.com/ars2062/p5-wasm"

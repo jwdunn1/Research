@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-21",
+			"item": [
+				"canvas webgl: webglfundamentals.org/webgl/lessons/webgl-3d-camera.html"
+			]
+		},
+		{
 			"date": "2023-04-20",
 			"item": [
 				"ink tests: pomax.nihongoresources.com/pages/inks"

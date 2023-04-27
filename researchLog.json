@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-26",
+			"item": [
+				"another chat: huggingface.co/chat"
+			]
+		},
+		{
 			"date": "2023-04-25",
 			"item": [
 				"x86-64 guide: web.stanford.edu/class/cs107/guide/x86-64.html"

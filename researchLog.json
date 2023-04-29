@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-28",
+			"item": [
+				"wasm: webassembly.org"
+			]
+		},
+		{
 			"date": "2023-04-27",
 			"item": [
 				"wasm fiddle: wasdk.github.io/WasmFiddle"

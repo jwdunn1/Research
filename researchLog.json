@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-04-27",
+			"item": [
+				"wasm fiddle: wasdk.github.io/WasmFiddle"
+			]
+		},
+		{
 			"date": "2023-04-26",
 			"item": [
 				"another chat: huggingface.co/chat"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-02",
+			"item": [
+				"nano gpt: github.com/karpathy/nanoGPT"
+			]
+		},
+		{
 			"date": "2023-05-01",
 			"item": [
 				"wordle helper: thewordfinder.com/wordle-solver"

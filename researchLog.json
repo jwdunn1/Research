@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-03",
+			"item": [
+				"t5x: github.com/google-research/t5x"
+			]
+		},
+		{
 			"date": "2023-05-02",
 			"item": [
 				"nano gpt: github.com/karpathy/nanoGPT"

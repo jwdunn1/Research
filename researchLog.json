@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-05",
+			"item": [
+				"next computer: simson.net/ref/NeXT"
+			]
+		},
+		{
 			"date": "2023-05-04",
 			"item": [
 				"neural networks: karpathy.ai/zero-to-hero.html"

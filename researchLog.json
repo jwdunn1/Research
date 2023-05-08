@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-06",
+			"item": [
+				"compiler infrastructure: llvm.org"
+			]
+		},
+		{
 			"date": "2023-05-05",
 			"item": [
 				"next computer: simson.net/ref/NeXT"

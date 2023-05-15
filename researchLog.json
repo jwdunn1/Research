@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-13",
+			"item": [
+				"browser linux: bellard.org/jslinux"
+			]
+		},
+		{
 			"date": "2023-05-11",
 			"item": [
 				"css hex grid: ninjarockstar.dev/css-hex-grids"

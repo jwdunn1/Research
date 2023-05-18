@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-17",
+			"item": [
+				"stack vs base pointer: stackoverflow.com/a/1395591"
+			]
+		},
+		{
 			"date": "2023-05-16",
 			"item": [
 				"ancient website: dpgraph.com"

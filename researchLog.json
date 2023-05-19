@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-18",
+			"item": [
+				"virtual x86 browser os: copy.sh/v86"
+			]
+		},
+		{
 			"date": "2023-05-17",
 			"item": [
 				"stack vs base pointer: stackoverflow.com/a/1395591"

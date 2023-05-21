@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-19",
+			"item": [
+				"future isa: forwardcom.info"
+			]
+		},
+		{
 			"date": "2023-05-18",
 			"item": [
 				"virtual x86 browser os: copy.sh/v86"

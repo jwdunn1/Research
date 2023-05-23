@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-22",
+			"item": [
+				"plotting fractals: raw-wasm.pages.dev"
+			]
+		},
+		{
 			"date": "2023-05-21",
 			"item": [
 				"online 32-bit assembler: tutorialspoint.com/compile_assembly_online.php"

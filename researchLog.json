@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-26",
+			"item": [
+				"yaw-constrained rotation: openprocessing.org/sketch/1926922"
+			]
+		},
+		{
 			"date": "2023-05-25",
 			"item": [
 				"orbit control hud: openprocessing.org/sketch/1939404"

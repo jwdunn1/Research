@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-27",
+			"item": [
+				"font stack reco: ics.media/entry/200317"
+			]
+		},
+		{
 			"date": "2023-05-26",
 			"item": [
 				"yaw-constrained rotation: openprocessing.org/sketch/1926922"

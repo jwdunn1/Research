@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-05-29",
+			"item": [
+				"rvrs crc: danielvik.com/2012/01/finding-reverse-crc-patch-with-readable.html?m=1"
+			]
+		},
+		{
 			"date": "2023-05-28",
 			"item": [
 				"self-rep robots: gitlab.cba.mit.edu/amiraa/self-replicating-hierarchical-robotic-swarms"

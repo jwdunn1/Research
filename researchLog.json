@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-05",
+			"item": [
+				"calling convention: unixwiz.net/techtips/win32-callconv-asm.html"
+			]
+		},
+		{
 			"date": "2023-06-04",
 			"item": [
 				"name advice: kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names"

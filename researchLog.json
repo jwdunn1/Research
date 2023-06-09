@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-08",
+			"item": [
+				"geomagnetic storm: en.wikipedia.org/wiki/Carrington_Event"
+			]
+		},
+		{
 			"date": "2023-06-07",
 			"item": [
 				"browser ecs: aframe.io"

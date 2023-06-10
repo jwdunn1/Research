@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-09",
+			"item": [
+				"ecs: en.wikipedia.org/wiki/Entity_component_system"
+			]
+		},
+		{
 			"date": "2023-06-08",
 			"item": [
 				"geomagnetic storm: en.wikipedia.org/wiki/Carrington_Event"

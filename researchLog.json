@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-11",
+			"item": [
+				"sudoku solver: dev.to/aspittel/how-i-finally-wrote-a-sudoku-solver-177g"
+			]
+		},
+		{
 			"date": "2023-06-10",
 			"item": [
 				"emerging tech: queue.acm.org"

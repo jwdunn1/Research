@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-12",
+			"item": [
+				"cargo cult ai: queue.acm.org/detail.cfm?id=3595860"
+			]
+		},
+		{
 			"date": "2023-06-11",
 			"item": [
 				"sudoku solver: dev.to/aspittel/how-i-finally-wrote-a-sudoku-solver-177g"

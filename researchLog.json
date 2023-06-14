@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-13",
+			"item": [
+				"color guide: natur.cuni.cz/~langhamr/lectures/vtfg1/mapinfo_2/barvy/colors.html"
+			]
+		},
+		{
 			"date": "2023-06-12",
 			"item": [
 				"cargo cult ai: queue.acm.org/detail.cfm?id=3595860"

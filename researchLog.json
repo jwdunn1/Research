@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-14",
+			"item": [
+				"web assembly intro: awesome.red-badger.com/chriswhealy/introduction-to-web-assembly-text",
+				"web assembly contd: awesome.red-badger.com/chriswhealy/plotting-fractals-in-webassembly"
+			]
+		},
+		{
 			"date": "2023-06-13",
 			"item": [
 				"color guide: natur.cuni.cz/~langhamr/lectures/vtfg1/mapinfo_2/barvy/colors.html"

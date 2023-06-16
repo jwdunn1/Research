@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-15",
+			"item": [
+				"windows posix: brianreiter.org/2010/08/24/the-sad-history-of-the-microsoft-posix-subsystem"
+			]
+		},
+		{
 			"date": "2023-06-14",
 			"item": [
 				"web assembly intro: awesome.red-badger.com/chriswhealy/introduction-to-web-assembly-text",

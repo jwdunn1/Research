@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-17",
+			"item": [
+				"div by mul: gmplib.org/~tege/divcnst-pldi94.pdf"
+			]
+		},
+		{
 			"date": "2023-06-16",
 			"item": [
 				"magic multipliers: stackoverflow.com/a/41183935"

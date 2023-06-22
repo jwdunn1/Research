@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-21",
+			"item": [
+				"solar calc: gml.noaa.gov/grad/solcalc"
+			]
+		},
+		{
 			"date": "2023-06-19",
 			"item": [
 				"map benchmark: jsbench.me/74lj4p55uz/1"

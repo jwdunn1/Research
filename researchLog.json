@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-06-23",
+			"item": [
+				"dark patterns: github.com/aruneshmathur/dark-patterns"
+			]
+		},
+		{
 			"date": "2023-06-22",
 			"item": [
 				"jump reference: unixwiz.net/techtips/x86-jumps.html",

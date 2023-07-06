@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-04",
+			"item": [
+				"aes explained: moserware.com/2009/09/stick-figure-guide-to-advanced.html"
+			]
+		},
+		{
 			"date": "2023-07-03",
 			"item": [
 				"number theory: crypto.stanford.edu/pbc/notes/numbertheory/book.pdf"

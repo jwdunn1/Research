@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-07",
+			"item": [
+				"euclid prime proof: primes.utm.edu/notes/proofs/infinite/euclids.html"
+			]
+		},
+		{
 			"date": "2023-07-06",
 			"item": [
 				"bytes from string: gist.github.com/GiveThanksAlways/df9e0fa9e7ea04d51744df6a325f7530"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-08",
+			"item": [
+				"css variables: developer.mozilla.org/en-US/docs/Web/CSS/--*"
+			]
+		},
+		{
 			"date": "2023-07-07",
 			"item": [
 				"euclid prime proof: primes.utm.edu/notes/proofs/infinite/euclids.html"

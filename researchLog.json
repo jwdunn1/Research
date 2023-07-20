@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-19",
+			"item": [
+				"csharp minifier: codebeautify.org/csharpviewer"
+			]
+		},
+		{
 			"date": "2023-07-18",
 			"item": [
 				"evangelinereynolds.netlify.app/post/geometric-covariance"

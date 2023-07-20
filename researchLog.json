@@ -1,8 +1,12 @@
 {
 	"entry": [
 		{
+			"item": []
+		},
+		{
 			"date": "2023-07-19",
 			"item": [
+				"mnml anim: codepen.io/jwdunn/pen/qBQKMya",
 				"csharp minifier: codebeautify.org/csharpviewer"
 			]
 		},

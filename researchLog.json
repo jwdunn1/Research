@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-21",
+			"item": [
+				"bezouts identity: math.stackexchange.com/a/2074181"
+			]
+		},
+		{
 			"item": [
 				"sine approximation: desmos.com/calculator/mtdihhagsx"
 			],

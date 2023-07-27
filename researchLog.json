@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-26",
+			"item": [
+				"8086 compiler: github.com/lkundrak/dev86"
+			]
+		},
+		{
 			"date": "2023-07-25",
 			"item": [
 				"bem: en.bem.info"

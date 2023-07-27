@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-25",
+			"item": [
+				"bem: en.bem.info"
+			]
+		},
+		{
 			"date": "2023-07-24",
 			"item": [
 				"programming: ia800807.us.archive.org/29/items/hacking-the-art-of-exploitation/hacking-the-art-of-exploitation.pdf"

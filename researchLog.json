@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-27",
+			"item": [
+				"x86 virtualization: copy.sh/v86"
+			]
+		},
+		{
 			"date": "2023-07-26",
 			"item": [
 				"8086 compiler: github.com/lkundrak/dev86"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-07-29",
+			"item": [
+				"sequence number analysis: lcamtuf.coredump.cx/oldtcp/tcpseq.html"
+			]
+		},
+		{
 			"date": "2023-07-28",
 			"item": [
 				"x64 cheat sheet: cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf"

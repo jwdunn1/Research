@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-08-01",
+			"item": [
+				"nyc subway music: mta.me"
+			]
+		},
+		{
 			"date": "2023-07-31",
 			"item": [
 				"instrumentation framework: valgrind.org"

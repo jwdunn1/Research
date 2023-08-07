@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-08-05",
+			"item": [
+				"weather map: viewer.geospatial.weather.gov"
+			]
+		},
+		{
 			"date": "2023-08-04",
 			"item": [
 				"computational geometry library: c2js.org"

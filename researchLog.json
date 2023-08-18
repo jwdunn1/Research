@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-08-17",
+			"item": [
+				"virtual museum: rijksmuseum.nl/en/masterpieces-up-close"
+			]
+		},
+		{
 			"date": "2023-08-16",
 			"item": [
 				"css vertical centering: codepen.io/kevinpowell/pen/NLEjaz"

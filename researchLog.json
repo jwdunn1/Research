@@ -1,9 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2023-08-31",
+			"item": [
+				"8080 opcodes: pastraiser.com/cpu/i8080/i8080_opcodes.html"
+			]
+		},
+		{
 			"date": "2023-08-30",
 			"item": [
-				"placeholder"
+				"8008 opcodes: pastraiser.com/cpu/i8008/i8008_opcodes.html"
 			]
 		},
 		{

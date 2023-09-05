@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-04",
+			"item": [
+				"8087 constants: righto.com/2020/05/extracting-rom-constants-from-8087-math.html"
+			]
+		},
+		{
 			"date": "2023-09-03",
 			"item": [
 				"photo forensics: 29a.ch/photo-forensics"

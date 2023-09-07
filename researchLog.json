@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-06",
+			"item": [
+				"8086 emulator in browser: yjdoc2.github.io/8086-emulator-web"
+			]
+		},
+		{
 			"date": "2023-09-05",
 			"item": [
 				"grid area: codepen.io/jwdunn/pen/WNLbJbN"

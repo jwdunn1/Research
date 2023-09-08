@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-07",
+			"item": [
+				"x86-64 guide: uva-cs.github.io/pdr/book/x86-64bit-asm-chapter.pdf"
+			]
+		},
+		{
 			"date": "2023-09-06",
 			"item": [
 				"8086 emulator in browser: yjdoc2.github.io/8086-emulator-web"

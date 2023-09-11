@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-10",
+			"item": [
+				"virtual 1301: tnmoc.org/virtual-flossie"
+			]
+		},
+		{
 			"date": "2023-09-09",
 			"item": [
 				"deopt explorer: devblogs.microsoft.com/typescript/introducing-deopt-explorer",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-09",
+			"item": [
+				"deopt explorer: devblogs.microsoft.com/typescript/introducing-deopt-explorer",
+				"see also: en.wikipedia.org/wiki/Adaptive_optimization"
+			]
+		},
+		{
 			"date": "2023-09-08",
 			"item": [
 				"easy rider: nytimes.com/2005/08/05/automobiles/the-really-easy-rider.html"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-11",
+			"item": [
+				"ghidra analysis: wapiflapi.github.io/2019/10/10/efficiency-reverse-engineering-with-ghidra.html"
+			]
+		},
+		{
 			"date": "2023-09-10",
 			"item": [
 				"virtual 1301: tnmoc.org/virtual-flossie"

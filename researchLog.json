@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-12",
+			"item": [
+				"asteroid mission: psyche.asu.edu/mission/launch"
+			]
+		},
+		{
 			"date": "2023-09-11",
 			"item": [
 				"ghidra analysis: wapiflapi.github.io/2019/10/10/efficiency-reverse-engineering-with-ghidra.html"

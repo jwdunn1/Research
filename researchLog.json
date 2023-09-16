@@ -1,9 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-14",
+			"item": [
+				"x86 guide att: flint.cs.yale.edu/cs421/papers/x86-asm/asm.html"
+			]
+		},
+		{
 			"date": "2023-09-13",
 			"item": [
-				"placeholder"
+				"x86 guide intel: cs.virginia.edu/~evans/cs216/guides/x86.html"
 			]
 		},
 		{

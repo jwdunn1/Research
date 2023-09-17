@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-15",
+			"item": [
+				"android animation: developer.android.com/develop/ui/views/animations/overview"
+			]
+		},
+		{
 			"date": "2023-09-14",
 			"item": [
 				"x86 guide att: flint.cs.yale.edu/cs421/papers/x86-asm/asm.html"

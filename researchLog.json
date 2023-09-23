@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-21",
+			"item": [
+				"react think: react.dev/learn/thinking-in-react"
+			]
+		},
+		{
 			"date": "2023-09-20",
 			"item": [
 				"fab.fba test: jsbench.me/8rlmtvmxc7/1"

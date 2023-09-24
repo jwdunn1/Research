@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-23",
+			"item": [
+				"create new document: docs.new"
+			]
+		},
+		{
 			"date": "2023-09-22",
 			"item": [
 				"8088 opcodes: pastraiser.com/cpu/i8088/i8088_opcodes.html"

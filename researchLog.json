@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-09-27",
+			"item": [
+				"x86 opcode cheatsheet: ref.x86asm.net/coder64.html"
+			]
+		},
+		{
 			"date": "2023-09-26",
 			"item": [
 				"life: anjana.dev/rc-projects/game-of-life"

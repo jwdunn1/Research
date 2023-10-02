@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-01",
+			"item": [
+				"fashion mnist classifier: codepen.io/jasonmayes/pen/poWKOyo"
+			]
+		},
+		{
 			"date": "2023-09-30",
 			"item": [
 				"deriv wrt matrix: math.stackexchange.com/a/2979830"

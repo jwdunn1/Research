@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-02",
+			"item": [
+				"x86 intro: pwnthebox.net/reverse/engineering/and/binary/exploitation/series/2018/08/12/introduction-to-x86-assembly-programming.html"
+			]
+		},
+		{
 			"date": "2023-10-01",
 			"item": [
 				"fashion mnist classifier: codepen.io/jasonmayes/pen/poWKOyo"

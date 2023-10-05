@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-03",
+			"item": [
+				"sql from python: sqlnethub.com/blog/how-to-connect-to-sql-server-databases-from-a-python-program"
+			]
+		},
+		{
 			"date": "2023-10-02",
 			"item": [
 				"x86 intro: pwnthebox.net/reverse/engineering/and/binary/exploitation/series/2018/08/12/introduction-to-x86-assembly-programming.html"

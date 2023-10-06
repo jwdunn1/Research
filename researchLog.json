@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-04",
+			"item": [
+				"localization of people: arxiv.org/pdf/2310.03743.pdf"
+			]
+		},
+		{
 			"date": "2023-10-03",
 			"item": [
 				"sql from python: sqlnethub.com/blog/how-to-connect-to-sql-server-databases-from-a-python-program"

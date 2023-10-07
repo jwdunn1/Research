@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-06",
+			"item": [
+				"css image effects: bennettfeely.com/image-effects"
+			]
+		},
+		{
 			"date": "2023-10-05",
 			"item": [
 				"robot sim: la.disneyresearch.com/publication/transformer-based-neural-augmentation-of-robot-simulation-representations"

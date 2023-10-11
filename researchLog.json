@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-10",
+			"item": [
+				"css cascade: developer.mozilla.org/en-US/docs/Web/CSS/Cascade"
+			]
+		},
+		{
 			"date": "2023-10-09",
 			"item": [
 				"passkey: gizmodo.com/google-adds-passkey-sign-in-as-default-1850914367"

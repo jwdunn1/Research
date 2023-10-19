@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-17",
+			"item": [
+				"8080 ref: emulator101.com/reference/8080-by-opcode.html"
+			]
+		},
+		{
 			"date": "2023-10-16",
 			"item": [
 				"conversion tool: pxtoem.com"

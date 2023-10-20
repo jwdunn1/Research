@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-19",
+			"item": [
+				"paradigms: en.wikipedia.org/wiki/Programming_paradigm"
+			]
+		},
+		{
 			"date": "2023-10-18",
 			"item": [
 				"neural hash: arxiv.org/ftp/arxiv/papers/0707/0707.4032.pdf"

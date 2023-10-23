@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-22",
+			"item": [
+				"optimization: en.wikipedia.org/wiki/Memoization"
+			]
+		},
+		{
 			"date": "2023-10-21",
 			"item": [
 				"stability: home.phys.ntnu.no/brukdef/undervisning/tfy4145/arkiv/2010/diverse/UnridableBicycle.pdf"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-25",
+			"item": [
+				"v'ger: arstechnica.com/space/2023/10/nasa-wants-the-voyagers-to-age-gracefully-so-its-time-for-a-software-patch"
+			]
+		},
+		{
 			"date": "2023-10-24",
 			"item": [
 				"engine sim: github.com/Engine-Simulator"

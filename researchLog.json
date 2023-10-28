@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2023-10-27",
+			"item": [
+				"opendog: github.com/XRobots/openDogV3",
+				"dingo: github.com/Yerbert/DingoQuadruped",
+				"pupper: github.com/stanfordroboticsclub/StanfordQuadruped"
+			]
+		},
+		{
 			"date": "2023-10-26",
 			"item": [
 				"template: github.com/ange-yaghi/visualcpp_template"

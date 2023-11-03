@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-11-02",
+			"item": [
+				"pixar research: graphics.pixar.com/library/"
+			]
+		},
+		{
 			"date": "2023-11-01",
 			"item": [
 				"ballgame: nickpettit.github.io/unity-for-web-developers-webgl"

@@ -1,9 +1,15 @@
 {
 	"entry": [
 		{
+			"date": "2023-11-03",
+			"item": [
+				"3d physics: github.com/lo-th/phy"
+			]
+		},
+		{
 			"date": "2023-11-02",
 			"item": [
-				"pixar research: graphics.pixar.com/library/"
+				"pixar research: graphics.pixar.com/library"
 			]
 		},
 		{

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-11-08",
+			"item": [
+				"conversational ai: grok.x.ai"
+			]
+		},
+		{
 			"date": "2023-11-07",
 			"item": [
 				"mda framework: users.cs.northwestern.edu/~hunicke/MDA.pdf"

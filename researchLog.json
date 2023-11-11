@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-11-09",
+			"item": [
+				"css calc : developer.mozilla.org/en-US/docs/Web/CSS/calc"
+			]
+		},
+		{
 			"date": "2023-11-08",
 			"item": [
 				"conversational ai: grok.x.ai"

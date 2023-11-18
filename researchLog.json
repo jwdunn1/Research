@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-11-16",
+			"item": [
+				"visualizations: setosa.io"
+			]
+		},
+		{
 			"date": "2023-11-14",
 			"item": [
 				"html tools :htmx.org"

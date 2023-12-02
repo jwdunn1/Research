@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-11-30",
+			"item": [
+				"place"
+			]
+		},
+		{
 			"date": "2023-11-29",
 			"item": [
 				"scalable framework: astro.build"

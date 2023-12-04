@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-02",
+			"item": [
+				"numpy convolutions: numbersmithy.com/2d-and-3d-convolutions-using-numpy"
+			]
+		},
+		{
 			"date": "2023-12-01",
 			"item": [
 				"python background: stackoverflow.com/q/1196074/4843719"

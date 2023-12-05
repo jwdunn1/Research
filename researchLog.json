@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-03",
+			"item": [
+				"sleepy driver solution: theverge.com/23981006/autonomous-truck-semi-driverless-aurora-kodiak-infrastructure"
+			]
+		},
+		{
 			"date": "2023-12-02",
 			"item": [
 				"numpy convolutions: numbersmithy.com/2d-and-3d-convolutions-using-numpy"

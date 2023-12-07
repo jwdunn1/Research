@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-05",
+			"item": [
+				"image convolution: github.com/ashushekar/image-convolution-from-scratch"
+			]
+		},
+		{
 			"date": "2023-12-04",
 			"item": [
 				"css autonumbering: codepen.io/jwdunn/pen/QWYJVLP"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-08",
+			"item": [
+				"microtasks: developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide"
+			]
+		},
+		{
 			"date": "2023-12-07",
 			"item": [
 				"seven sets: moebio.com/research/sevensets"

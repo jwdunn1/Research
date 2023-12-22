@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-21",
+			"item": [
+				"inert html: developer.mozilla.org/en-US/docs/Web/API/HTMLElement/inert"
+			]
+		},
+		{
 			"date": "2023-12-20",
 			"item": [
 				"mode: lccn.loc.gov/2011619114"

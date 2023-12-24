@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-22",
+			"item": [
+				"learn flexbox: flexboxfroggy.com"
+			]
+		},
+		{
 			"date": "2023-12-21",
 			"item": [
 				"inert html: developer.mozilla.org/en-US/docs/Web/API/HTMLElement/inert"

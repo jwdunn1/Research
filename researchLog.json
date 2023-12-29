@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-27",
+			"item": [
+				"css hsl: developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl"
+			]
+		},
+		{
 			"date": "2023-12-26",
 			"item": [
 				"time utilization simulation: flowingdata.com/2015/12/15/a-day-in-the-life-of-americans"

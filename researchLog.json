@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-28",
+			"item": [
+				"gpu benchmarks: videocardbenchmark.net"
+			]
+		},
+		{
 			"date": "2023-12-27",
 			"item": [
 				"css hsl: developer.mozilla.org/en-US/docs/Web/CSS/color_value/hsl"

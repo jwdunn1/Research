@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-29",
+			"item": [
+				"render comparison: pugetsystems.com/blog/2023/12/13/cpu-and-gpu-rendering-which-is-best"
+			]
+		},
+		{
 			"date": "2023-12-28",
 			"item": [
 				"gpu benchmarks: videocardbenchmark.net"

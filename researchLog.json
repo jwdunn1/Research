@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2023-12-30",
+			"item": [
+				"symbol: en.wikipedia.org/wiki/Section_sign"
+			]
+		},
+		{
 			"date": "2023-12-29",
 			"item": [
 				"render comparison: pugetsystems.com/blog/2023/12/13/cpu-and-gpu-rendering-which-is-best"

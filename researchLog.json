@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-09",
+			"item": [
+				"strided convolution: stackoverflow.com/q/48097941/4843719"
+			]
+		},
+		{
 			"date": "2024-01-08",
 			"item": [
 				"data viz: flowingdata.com/2015/12/15/a-day-in-the-life-of-americans"

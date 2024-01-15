@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-14",
+			"item": [
+				"window size: jwilliamdunn.com/Research/size.html"
+			]
+		},
+		{
 			"date": "2024-01-13",
 			"item": [
 				"face image restoration: replicate.com/xinntao/gfpgan"

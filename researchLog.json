@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-15",
+			"item": [
+				"numpy cnn: towardsdatascience.com/lets-code-convolutional-neural-network-in-plain-numpy-ce48e732f5d5"
+			]
+		},
+		{
 			"date": "2024-01-14",
 			"item": [
 				"window size: jwilliamdunn.com/Research/size.html"

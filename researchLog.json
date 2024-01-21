@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-19",
+			"item": [
+				"cnn: cs231n.github.io/convolutional-networks"
+			]
+		},
+		{
 			"date": "2024-01-18",
 			"item": [
 				"pst reader: github.com/Dijji/XstReader"

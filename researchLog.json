@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-25",
+			"item": [
+				"three-line dropout: iamtrask.github.io/2015/07/28/dropout"
+			]
+		},
+		{
 			"date": "2024-01-24",
 			"item": [
 				"ml snippets: gist.github.com/neodelphis"

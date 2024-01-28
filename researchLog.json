@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-26",
+			"item": [
+				"custom dropout: stackoverflow.com/questions/54109617/implementing-dropout-from-scratch"
+			]
+		},
+		{
 			"date": "2024-01-25",
 			"item": [
 				"three-line dropout: iamtrask.github.io/2015/07/28/dropout"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-27",
+			"item": [
+				"js math library: mathjs.org"
+			]
+		},
+		{
 			"date": "2024-01-26",
 			"item": [
 				"custom dropout: stackoverflow.com/questions/54109617/implementing-dropout-from-scratch"

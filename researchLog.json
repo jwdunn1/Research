@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-01-28",
+			"item": [
+				"left eigenvectors: math.stackexchange.com/questions/551042/compute-left-eigenvectors"
+			]
+		},
+		{
 			"date": "2024-01-27",
 			"item": [
 				"js math library: mathjs.org"

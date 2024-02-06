@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-04",
+			"item": [
+				"smallest eigenvalues: blog.shriphani.com/2015/04/06/the-smallest-eigenvalues-of-a-graph-laplacian"
+			]
+		},
+		{
 			"date": "2024-02-03",
 			"item": [
 				"image recog: arstechnica.com/science/2018/12/how-computers-got-shockingly-good-at-recognizing-images"

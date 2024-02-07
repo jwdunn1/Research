@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-06",
+			"item": [
+				"optimization strategies: cs231n.github.io/optimization-1"
+			]
+		},
+		{
 			"date": "2024-02-04",
 			"item": [
 				"smallest eigenvalues: blog.shriphani.com/2015/04/06/the-smallest-eigenvalues-of-a-graph-laplacian"

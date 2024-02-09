@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-07",
+			"item": [
+				"cnn from scratch: github.com/gary30404/convolutional-neural-network-from-scratch-python"
+			]
+		},
+		{
 			"date": "2024-02-06",
 			"item": [
 				"optimization strategies: cs231n.github.io/optimization-1"

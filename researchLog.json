@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-09",
+			"item": [
+				"gan collection: github.com/hindupuravinash/the-gan-zoo"
+			]
+		},
+		{
 			"date": "2024-02-08",
 			"item": [
 				"kmeans distortion function: stats.stackexchange.com/q/87950"

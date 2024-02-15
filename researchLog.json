@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2024-02-14",
+			"item": [
+				"css only particle: codepen.io/giana/pen/LYaOdye",
+				"logical css: geoffgraham.me/css-is-logical"
+			]
+		},
+		{
 			"date": "2024-02-13",
 			"item": [
 				"svm: web.mit.edu/6.034/wwwbob/svm-notes-long-08.pdf"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-03-05",
+			"item": [
+				"web-safe fonts: cssfontstack.com"
+			]
+		},
+		{
 			"date": "2024-03-04",
 			"item": [
 				"testing guide: github.com/mhevery/guide-to-testable-code"

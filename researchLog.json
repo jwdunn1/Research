@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-03-09",
+			"item": [
+				"dst: en.wikipedia.org/wiki/Daylight_saving_time"
+			]
+		},
+		{
 			"date": "2024-03-08",
 			"item": [
 				"practical stats: github.com/anuragbisht12/practical-statistics-for-data-scientists"

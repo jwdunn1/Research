@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-03-11",
+			"item": [
+				"ml for all: github.com/microsoft/ML-For-Beginners"
+			]
+		},
+		{
 			"date": "2024-03-10",
 			"item": [
 				"svm: saedsayad.com/support_vector_machine_reg.htm"

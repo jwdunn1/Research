@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-03-13",
+			"item": [
+				"svr: github.com/fp2556/onlinesvr"
+			]
+		},
+		{
 			"date": "2024-03-12",
 			"item": [
 				"kernel trick: eric-kim.net/eric-kim-net/posts/1/kernel_trick.html"

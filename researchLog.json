@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2024-04-16",
+			"item": [
+				"arxiv.org/ftp/arxiv/papers/2109/2109.10572.pdf",
+				"inria.hal.science/hal-03648157/file/512902_1_En_64_Chapter.pdf"
+			]
+		},
+		{
 			"date": "2024-04-15",
 			"item": [
 				"polygon: demonstrations.wolfram.com/FourierConstructionOfRegularPolygonsAndStarPolygons"

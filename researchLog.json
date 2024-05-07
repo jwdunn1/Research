@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2024-05-06",
+			"item": [
+				"RoboCar: arxiv.org/pdf/2405.03572",
+				"repo: github.com/sntubix/robocar"
+			]
+		},
+		{
 			"date": "2024-05-05",
 			"item": [
 				"geometric framework: arxiv.org/pdf/2405.02314"

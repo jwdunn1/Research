@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-05-14",
+			"item": [
+				"minimal conduct code: jamesoswald.dev/posts/anticode"
+			]
+		},
+		{
 			"date": "2024-05-13",
 			"item": [
 				"color picker: parrot.color.pizza"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-05-15",
+			"item": [
+				"llm puzzles: arxiv.org/pdf/2404.11730v1"
+			]
+		},
+		{
 			"date": "2024-05-14",
 			"item": [
 				"minimal conduct code: jamesoswald.dev/posts/anticode"

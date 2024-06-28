@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-06-27",
+			"item": [
+				"avoid-column: developer.mozilla.org/en-US/docs/Web/CSS/break-inside"
+			]
+		},
+		{
 			"date": "2024-06-26",
 			"item": [
 				"in a loop: en.wikipedia.org/wiki/Control_flow#Loops"

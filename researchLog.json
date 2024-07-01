@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-06-29",
+			"item": [
+				"energy resource sizing: arxiv.org/pdf/2406.19431"
+			]
+		},
+		{
 			"date": "2024-06-28",
 			"item": [
 				"drag drop: developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API"

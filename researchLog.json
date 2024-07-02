@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-07-01",
+			"item": [
+				"rule-based behavior: arxiv.org/pdf/2407.00460"
+			]
+		},
+		{
 			"date": "2024-06-30",
 			"item": [
 				"traffic simulator: arxiv.org/pdf/2406.19781"

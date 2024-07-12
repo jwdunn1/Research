@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-07-11",
+			"item": [
+				"js plugins: github.com/metafizzy"
+			]
+		},
+		{
 			"date": "2024-07-09",
 			"item": [
 				"RoBus dataset: github.com/tourlics/RoBus_Dataset"

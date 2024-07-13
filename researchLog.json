@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-07-12",
+			"item": [
+				"dark patterns: icpen.org/sites/default/files/2024-07/Public Report ICPEN Dark Patterns Sweep.pdf"
+			]
+		},
+		{
 			"date": "2024-07-11",
 			"item": [
 				"js plugins: github.com/metafizzy"

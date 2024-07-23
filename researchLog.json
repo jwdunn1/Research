@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-07-22",
+			"item": [
+				"meta ai: ai.meta.com/blog/meta-llama-3-1"
+			]
+		},
+		{
 			"date": "2024-07-21",
 			"item": [
 				"homeostatic sdc: arxiv.org/pdf/2407.12795"

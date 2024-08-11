@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-08-09",
+			"item": [
+				"intel instability: pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues"
+			]
+		},
+		{
 			"date": "2024-08-08",
 			"item": [
 				"ai partners: arxiv.org/pdf/2408.03943"

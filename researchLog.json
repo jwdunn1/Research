@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-08-10",
+			"item": [
+				"interchange: 33.7441915,-84.3909181"
+			]
+		},
+		{
 			"date": "2024-08-09",
 			"item": [
 				"intel instability: pugetsystems.com/blog/2024/08/02/puget-systems-perspective-on-intel-cpu-instability-issues"

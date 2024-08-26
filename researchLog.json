@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-08-25",
+			"item": [
+				"llm hallucination risk: arxiv.org/pdf/2407.03282"
+			]
+		},
+		{
 			"date": "2024-08-24",
 			"item": [
 				"geospatial indexing system: h3geo.org"

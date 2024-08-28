@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-08-26",
+			"item": [
+				"optimization simulation: arxiv.org/pdf/2408.12607"
+			]
+		},
+		{
 			"date": "2024-08-25",
 			"item": [
 				"llm hallucination risk: arxiv.org/pdf/2407.03282"

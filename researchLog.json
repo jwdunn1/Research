@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2024-09-07",
+			"item": [
+				"framework: digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1682&context=faculty-research-papers",
+				"hidden structure :digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1681&context=faculty-research-papers",
+				"ai ethics: digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1680&context=faculty-research-papers"
+			]
+		},
+		{
 			"date": "2024-09-06",
 			"item": [
 				"crowd simulation: openreview.net/pdf/9b07d8f35eae94b00dbc48139591dff0ebb30ed6.pdf"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-09-11",
+			"item": [
+				"mandlebrot deep zoom: hastingsgreer.github.io/mandeljs"
+			]
+		},
+		{
 			"date": "2024-09-10",
 			"item": [
 				"llm scenario generation: arxiv.org/pdf/2409.06450"

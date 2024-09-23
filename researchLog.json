@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-09-22",
+			"item": [
+				"economic simulator: sewrpc.org/SEWRPCFiles/Publications/TechRep/tr-005_economic_simulation_model.pdf"
+			]
+		},
+		{
 			"date": "2024-09-21",
 			"item": [
 				"superblocks: nature.com/articles/s41893-022-00855-2",

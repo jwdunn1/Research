@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-10-05",
+			"item": [
+				"cpu instability: community.intel.com/t5/Blogs/Tech-Innovation/Client/Intel-Core-13th-and-14th-Gen-Desktop-Instability-Root-Cause/post/1633239"
+			]
+		},
+		{
 			"date": "2024-10-04",
 			"item": [
 				"traffic complexity: escholarship.org/uc/item/8f77v69d"

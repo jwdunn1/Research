@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-10-06",
+			"item": [
+				"generative agents: dl.acm.org/doi/pdf/10.1145/3586183.3606763"
+			]
+		},
+		{
 			"date": "2024-10-05",
 			"item": [
 				"cpu instability: community.intel.com/t5/Blogs/Tech-Innovation/Client/Intel-Core-13th-and-14th-Gen-Desktop-Instability-Root-Cause/post/1633239"

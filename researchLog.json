@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-10-22",
+			"item": [
+				"gen agents demo: reverie.herokuapp.com/UIST_Demo"
+			]
+		},
+		{
 			"date": "2024-10-21",
 			"item": [
 				"micro-simulation: doi.org/10.3390/ijgi10030165"

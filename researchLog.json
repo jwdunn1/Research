@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-11-09",
+			"item": [
+				"Z3 SMT solver: algos.inesc-id.pt/projects/timewarp/ref13.pdf"
+			]
+		},
+		{
 			"date": "2024-11-08",
 			"item": [
 				"LogiCity: arxiv.org/pdf/2411.00773"

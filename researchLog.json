@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-12-25",
+			"item": [
+				"markerless pose estimation: github.com/DeepLabCut/DeepLabCut"
+			]
+		},
+		{
 			"date": "2024-12-24",
 			"item": [
 				"gpt robotics: arxiv.org/pdf/2411.16917"

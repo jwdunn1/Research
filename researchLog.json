@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2024-12-26",
+			"item": [
+				"agnosticism and ai: arxiv.org/pdf/2412.13145"
+			]
+		},
+		{
 			"date": "2024-12-25",
 			"item": [
 				"markerless pose estimation: github.com/DeepLabCut/DeepLabCut"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-01-01",
+			"item": [
+				"chatsim: yifanlu0227.github.io/ChatSim"
+			]
+		},
+		{
 			"date": "2024-12-30",
 			"item": [
 				"affinity calc: bitsum.com/tools/cpu-affinity-calculator"

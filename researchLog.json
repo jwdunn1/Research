@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2025-01-04",
+			"item": [
+				"chip design: spectrum.ieee.org/chip-design-ai",
+				"parsac floorplanner: arxiv.org/pdf/2405.05495"
+			]
+		},
+		{
 			"date": "2025-01-03",
 			"item": [
 				"robot localization: arxiv.org/pdf/2501.01153"

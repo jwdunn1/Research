@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2025-01-05",
+			"item": [
+				"silicon-interconnect fabric: spectrum.ieee.org/goodbye-motherboard-hello-siliconinterconnect-fabric",
+				"waferscale processors: nanocad.ee.ucla.edu/wp-content/papercite-data/pdf/c107.pdf"
+			]
+		},
+		{
 			"date": "2025-01-04",
 			"item": [
 				"chip design: spectrum.ieee.org/chip-design-ai",

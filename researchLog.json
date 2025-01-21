@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-01-20",
+			"item": [
+				"web components library: shoelace.style"
+			]
+		},
+		{
 			"date": "2025-01-19",
 			"item": [
 				"virtual cities: ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10844277"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-02-03",
+			"item": [
+				"fragment mono font: github.com/weiweihuanghuang/fragment-mono"
+			]
+		},
+		{
 			"date": "2025-02-02",
 			"item": [
 				"simulating fractal dimensions: doi.org/10.29020/nybg.ejpam.v18i1.5598"

@@ -1,7 +1,13 @@
 {
 	"entry": [
 		{
-			"date": "2025-01-05",
+			"date": "2025-02-06",
+			"item": [
+				"new browser features: web.dev/blog/web-platform-01-2025"
+			]
+		},
+		{
+			"date": "2025-02-05",
 			"item": [
 				"new york city bedrock: nyc99.org/1500/geology.html"
 			]

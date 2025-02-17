@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-02-16",
+			"item": [
+				"multi-agent simulation engine: arxiv.org/pdf/2411.03519"
+			]
+		},
+		{
 			"date": "2025-02-15",
 			"item": [
 				"grid tool: flexboxlabs.netlify.app/grid"

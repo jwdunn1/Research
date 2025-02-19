@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-02-17",
+			"item": [
+				"example immersive site: davidwhyte.com/experience"
+			]
+		},
+		{
 			"date": "2025-02-16",
 			"item": [
 				"multi-agent simulation engine: arxiv.org/pdf/2411.03519"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-02-22",
+			"item": [
+				"js tutorial: quackit.com/javascript"
+			]
+		},
+		{
 			"date": "2025-02-21",
 			"item": [
 				"smart parcels: dl.acm.org/doi/pdf/10.1145/3716637"

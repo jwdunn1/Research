@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-06",
+			"item": [
+				"agent fuzz testing: arxiv.org/pdf/2503.04479"
+			]
+		},
+		{
 			"date": "2025-03-04",
 			"item": [
 				"language model state tracking: arxiv.org/pdf/2503.02854"

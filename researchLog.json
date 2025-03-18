@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-16",
+			"item": [
+				"swap: developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display"
+			]
+		},
+		{
 			"date": "2025-03-15",
 			"item": [
 				"upright angle: en.wikipedia.org/wiki/Orthogonality"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-18",
+			"item": [
+				"danger maps: arxiv.org/pdf/2503.14103"
+			]
+		},
+		{
 			"date": "2025-03-16",
 			"item": [
 				"swap: developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display"

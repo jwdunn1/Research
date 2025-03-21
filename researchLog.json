@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-20",
+			"item": [
+				"urban os: direct.mit.edu/books/oa-monograph-pdf/2369174/book_9780262360982.pdf"
+			]
+		},
+		{
 			"date": "2025-03-19",
 			"item": [
 				"prompts: platform.openai.com/docs/guides/prompt-engineering"

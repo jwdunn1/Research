@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-19",
+			"item": [
+				"prompts: platform.openai.com/docs/guides/prompt-engineering"
+			]
+		},
+		{
 			"date": "2025-03-18",
 			"item": [
 				"danger maps: arxiv.org/pdf/2503.14103"

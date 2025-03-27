@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-26",
+			"item": [
+				"vanilla JS and Go: github.com/firtman/go-vanillajs"
+			]
+		},
+		{
 			"date": "2025-03-25",
 			"item": [
 				"Conditional Density Propagation: homepages.inf.ed.ac.uk/rbf/CVonline/LOCAL_COPIES/ISARD1/condensation.html"

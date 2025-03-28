@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-27",
+			"item": [
+				"semantic web: arxiv.org/pdf/2503.20793"
+			]
+		},
+		{
 			"date": "2025-03-26",
 			"item": [
 				"vanilla JS and Go: github.com/firtman/go-vanillajs"

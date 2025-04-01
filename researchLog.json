@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-03-31",
+			"item": [
+				"c fundamentals: github.com/rtfeldman/c-workshop-v1"
+			]
+		},
+		{
 			"date": "2025-03-30",
 			"item": [
 				"maps: observablehq.com/collection/@observablehq/maps"

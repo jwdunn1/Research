@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-04-01",
+			"item": [
+				"theory of consciousness unscientific: doi.org/10.1038/s41593-025-01881-x"
+			]
+		},
+		{
 			"date": "2025-03-31",
 			"item": [
 				"c fundamentals: github.com/rtfeldman/c-workshop-v1"

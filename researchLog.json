@@ -1,7 +1,13 @@
 {
 	"entry": [
 		{
-			"date": "2025-01-20",
+			"date": "2025-04-24",
+			"item": [
+				"small models: arxiv.org/pdf/2502.19545"
+			]
+		},
+		{
+			"date": "2025-04-20",
 			"item": [
 				"minimalist kanban: github.com/apankrat/nullboard"
 			]

@@ -1093,8 +1093,9 @@ class EasyCam {
       renderer.resetMatrix();
       
     // 4) set new projection (ortho)
-    //renderer._curCamera.ortho(0, w, -h, 0, -d, +d);
+    if(VERSION && ver>=2)
     renderer.ortho(0, w, -h, 0, -d, +d);
+    else renderer._curCamera.ortho(0, w, -h, 0, -d, +d);
   }
 
 
@@ -1116,7 +1117,7 @@ class EasyCam {
     // gl.finish();
 
     // 2) restore modelview/projection
-    renderer.uMVMatrix.set(this.pushed_uMVMatrix);
+    //renderer.uMVMatrix.set(this.pushed_uMVMatrix);
     renderer.uPMatrix .set(this.pushed_uPMatrix );
     // 1) enable DEPTH_TEST
     gl.enable(gl.DEPTH_TEST);

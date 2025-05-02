@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-05-01",
+			"item": [
+				"spatial simulation: ccl.northwestern.edu/2018/meuller.pdf"
+			]
+		},
+		{
 			"date": "2025-04-30",
 			"item": [
 				"chilled links: codepen.io/chriscoyier/pen/mydqdPN"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-05-07",
+			"item": [
+				"update fork: github.com/3Samourai/nullboard"
+			]
+		},
+		{
 			"date": "2025-05-06",
 			"item": [
 				"split keyboard: zsa.io/moonlander"

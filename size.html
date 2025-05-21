@@ -7,23 +7,28 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
     html {
-      margin: 0;
-      padding: 0;
+      margin: 0px;
+      padding: 0px;
     }
     body {
-      margin: 0;
-      padding: 40px;
+      margin: 0px;
+			padding: 0px;
       color: #fff;
       font-family: "IBM Plex Mono", monospace, sans-serif;
       background-color: #333;
+			height: 100%;
     }
+		#wrapper {
+			margin: 0px;
+			padding: 40px;
+		}
     #result {
       font-size:3em;
-      margin: 0;
+      margin: 0px;
     }
     #ratio {
       font-size:2em;
-      margin: 0;
+      margin: 0px;
     }
     #agent {
       color: #f9b002;
@@ -31,12 +36,14 @@
   </style>
 </head>
 <body>
-<div id="stat"></div>
-<p id="result"></p>
-<p id="ratio"></p>
-<p id="agent"></p>
-<p id="mouse">x:0, y:0</p>
-<canvas id="c" width="270" height="270"></canvas>
+<div id="wrapper">
+	<div id="stat"></div>
+	<p id="result"></p>
+	<p id="ratio"></p>
+	<p id="agent"></p>
+	<p id="mouse">x:0, y:0</p>
+	<canvas id="c" width="270" height="270"></canvas>
+</div>
 <script>
 function reportWindowSize() {
   var w=0, h=1;

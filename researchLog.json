@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-05-25",
+			"item": [
+				"day of year: nsidc.org/data/user-resources/help-center/day-year-doy-calendar"
+			]
+		},
+		{
 			"date": "2025-05-24",
 			"item": [
 				"recursive self-modeling: doi.org/10.31219/osf.io/pyfqx_v1"

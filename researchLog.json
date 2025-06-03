@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-06-02",
+			"item": [
+				"css grid usage: uxdesign.cc/css-grid-with-galaxy-layout-figma-886a935b9649"
+			]
+		},
+		{
 			"date": "2025-06-01",
 			"item": [
 				"playground: developer.mozilla.org/en-US/play"

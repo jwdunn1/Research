@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-06-03",
+			"item": [
+				"intentionality: preprints.org/frontend/manuscript/eb51ba5a18a404a0ad597bb1023a0d8f/download_pub"
+			]
+		},
+		{
 			"date": "2025-06-02",
 			"item": [
 				"css grid usage: uxdesign.cc/css-grid-with-galaxy-layout-figma-886a935b9649"

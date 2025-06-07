@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-06-05",
+			"item": [
+				"bio-inspired algorithms: arxiv.org/pdf/2506.04238"
+			]
+		},
+		{
 			"date": "2025-06-04",
 			"item": [
 				"easycam test version: jwilliamdunn.com/Research/images/p5.easycam.js"

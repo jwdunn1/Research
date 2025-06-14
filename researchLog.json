@@ -1,10 +1,16 @@
 {
 	"entry": [
-		{ 
+		{
+			"date": "2025-06-12",
+			"item": [
+				"3d city models: arxiv.org/pdf/2506.10003"
+			]
+		},
+		{
 			"date": "2025-06-10",
-			"item": [ 
+			"item": [
 				"extradosed bridge: core.ac.uk/download/pdf/268079951.pdf"
-			] 
+			]
 		},
 		{
 			"date": "2025-06-09",

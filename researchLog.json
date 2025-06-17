@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2025-06-16",
+			"item": [
+				"CityBench: openreview.net/pdf?id=oIWN7eMhTb",
+				"repo: github.com/tsinghua-fib-lab/CityBench"
+			]
+		},
+		{
 			"date": "2025-06-15",
 			"item": [
 				"digital-twin verification: arxiv.org/pdf/2506.10993"

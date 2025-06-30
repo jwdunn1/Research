@@ -1,0 +1,285 @@
+<style>
+:root {
+  --black: #111;
+  --gray: #333;
+}
+
+body{
+  background: #2b87ff;
+}
+
+.box-canvas{
+  position: relative;
+  margin: auto;
+  display: block;
+  margin-top: 20vmin;
+  margin-bottom: 20vmin;
+  width: 60vmin;
+  height:60vmin;
+}
+
+.ear {
+  position: absolute;
+  width: 8vmin;
+  height: 8vmin;
+  background: var(--gray);
+  border-radius: 50%;
+  border: 3vmin solid var(--black);
+  top: 2vmin;
+}
+
+.ear.left {
+  left: 12vmin;
+}
+
+.ear.right {
+  right: 12vmin;
+}
+
+.head {
+  position: absolute;
+  top: 5vmin;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 30vmin;
+  height: 25vmin;
+  border-radius: 50% 50% 40% 40%;
+}
+.headback {
+  position: absolute;
+  top: -1vmin;
+  left: 50%;
+  transform: translateX(-50%) rotate(45deg);
+  width: 26vmin;
+  height: 26vmin;
+  background: rgb(219, 219, 219);
+  border-radius: 40% 40% 40% 40%;
+}
+
+.nose {
+  position: absolute;
+  height: 3vmin;
+  width: 5vmin;
+  border-radius: 50%;
+  background: var(--black);
+  left: 50%;
+  transform: translateX(-50%);
+  top: 18vmin;
+}
+
+.nose::before {
+  content: '';
+  position: absolute;
+  width: 1.5vmin;
+  height: 0.75vmin;
+  border-radius: 50%;
+  top: 0.5vmin;
+  right: 1vmin;
+}
+.patch {
+  position: absolute;
+  top: 5vmin;
+  width: 10vmin;
+  height: 12vmin;
+  background: rgb(22, 22, 22);
+  border-radius: 50% 50% 70% 30% / 29% 27% 73% 71%;
+}
+.patch.left {
+  left: 3vmin;
+  transform: rotate(10deg);
+}
+.patch.right {
+  right: 3vmin;
+  transform: rotateY(180deg) rotate(10deg);
+}
+.body {
+  position: absolute;
+  bottom: 2vmin;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 35vmin;
+  height: 35vmin;
+  background: var(--black);
+  border-radius: 40%;
+  overflow: hidden;
+}
+.body::before {
+  content: '';
+  position: absolute;
+  height: 35vmin;
+  width: 35vmin;
+  background: rgb(219, 219, 219);
+  border-radius: 50%;
+  bottom: -10vmin;
+}
+.eyex {
+  position: absolute;
+  top: 13vmin;
+  width: 3vmin;
+  height: 3vmin;
+  background: black;
+  border: 1.5vmin solid #444;
+  border-radius: 50%;
+  opacity: 0;
+}
+.eyex.left {
+  left: 20vmin;
+}
+
+.eyex.right {
+  left: 34vmin;
+}
+
+/* RIGHT ARM */
+[ArmRhoverarea] {
+  position: absolute;
+  width: 20vmin;
+  height: 10vmin;
+  top: 28vmin;
+  right: 3vmin;
+  background-color: transparent;
+  transform: rotate(25deg);
+  border-radius: 20% / 50%;
+}
+[ArmRscalable] {
+  width: 20vmin;
+  height: 10vmin;
+  background-color: black;
+  transform: scaleX(1);
+  transition: transform 0.3s ease, border-radius 0.3s ease;
+  transform-origin: top left;
+  border-radius: 20% / 50%;
+}
+[ArmRhoverarea]:hover [ArmRscalable]{
+  transform: scaleX(0.3);
+  border-radius: 80% / 100%;
+}
+
+/* LEFT ARM */
+[ArmLhoverarea] {
+  position: absolute;
+  width: 20vmin;
+  height: 10vmin;
+  top: 28vmin;
+  left: 3vmin;
+  background-color: transparent;
+  transform: rotate(-25deg);
+  border-radius: 20% / 50%;
+}
+[ArmLscalable] {
+  width: 20vmin;
+  height: 10vmin;
+  background-color: black;
+  transform: scaleX(1);
+  transition: transform 0.3s ease, border-radius 0.3s ease;
+  transform-origin: top right;
+  border-radius: 20% / 50%;
+}
+[ArmLhoverarea]:hover [ArmLscalable]{
+  transform: scaleX(0.3);
+  border-radius: 80% / 100%;
+}
+
+/* RIGHT LEG */
+[LegRhoverarea] {
+  position: absolute;
+  right: 6vmin;
+  bottom: -4vmin;
+  width: 20vmin;
+  height: 12vmin;
+  background-color: transparent;
+  transform: rotate(60deg);
+  border-radius: 20% / 50%;
+}
+[LegRscalable] {
+  width: 20vmin;
+  height: 12vmin;
+  background-color: black;
+  transform: scaleX(1);
+  transition: transform 0.3s ease, border-radius 0.3s ease;
+  transform-origin: top left;
+  border-radius: 20% / 50%;
+}
+[LegRhoverarea]:hover [LegRscalable]{
+  transform: scaleX(0.3);
+  border-radius: 80% / 100%;
+}
+
+/* LEFT LEG */
+[LegLhoverarea] {
+  position: absolute;
+  left: 6vmin;
+  bottom: -4vmin;
+  width: 20vmin;
+  height: 12vmin;
+  background-color: transparent;
+  transform: rotate(-60deg);
+  border-radius: 20% / 50%;
+}
+[LegLscalable] {
+  width: 20vmin;
+  height: 12vmin;
+  background-color: black;
+  transform: scaleX(1);
+  transition: transform 0.3s ease, border-radius 0.3s ease;
+  transform-origin: top right;
+  border-radius: 20% / 50%;
+}
+[LegLhoverarea]:hover [LegLscalable]{
+  transform: scaleX(0.3);
+  border-radius: 80% / 100%;
+}
+
+/* BELLY */
+[belly] {
+  position: absolute;
+  bottom: 8vmin;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 20vmin;
+  height: 20vmin;
+  background: transparent;
+  border-radius: 40%;
+  overflow: hidden;
+}
+[belly]:hover ~ [LegLhoverarea] [LegLscalable], 
+[belly]:hover ~ [LegRhoverarea] [LegRscalable] {
+  transform: scaleX(0.3);
+  border-radius: 80% / 100%;
+}
+[belly]:hover ~ [ArmLhoverarea] [ArmLscalable],
+[belly]:hover ~ [ArmRhoverarea] [ArmRscalable] {
+  transform: scaleX(0.3);
+  border-radius: 80% / 100%;
+}
+[belly]:hover ~ .eyex {
+  opacity: 1;
+  transition: opacity .3s;
+}
+</style>
+
+
+
+<div class="box-canvas">
+  
+  <!-- B O D Y -->
+  <div class="body"></div>
+  <div Belly></div>
+  <div ArmRhoverarea><div ArmRscalable></div></div>
+  <div ArmLhoverarea><div ArmLscalable></div></div>
+  <div LegRhoverarea><div LegRscalable></div></div>
+  <div LegLhoverarea><div LegLscalable></div></div>
+
+
+    <!-- H E A D  -->
+  <div class="ear left"></div>
+  <div class="ear right"></div>
+  <div class="head">
+    <div class="headback"></div>
+    <div class="patch left"></div>
+    <div class="patch right"></div>
+    <div class="nose"></div>
+  </div>
+  <div class="eyex left"></div>
+  <div class="eyex right"></div>  
+  </div>

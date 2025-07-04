@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-07-03",
+			"item": [
+				"exploring js: exploringjs.com/js/book/index.html"
+			]
+		},
+		{
 			"date": "2025-07-01",
 			"item": [
 				"ECMAScript 2025: 2ality.com/2025/06/ecmascript-2025.html"

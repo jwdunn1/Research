@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-07-09",
+			"item": [
+				"YouTube multiscreen player: github.com/ymode/multiwin"
+			]
+		},
+		{
 			"date": "2025-07-08",
 			"item": [
 				"constraint hypergraphs: arxiv.org/pdf/2507.05494"

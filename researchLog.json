@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-07-12",
+			"item": [
+				"procedural geometry: p5js.org/tutorials/custom-geometry"
+			]
+		},
+		{
 			"date": "2025-07-11",
 			"item": [
 				"llm av sim: arxiv.org/pdf/2507.00319"

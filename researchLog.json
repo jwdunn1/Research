@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-07-30",
+			"item": [
+				"procedural city: probabletrain.itch.io/city-generator"
+			]
+		},
+		{
 			"date": "2025-07-29",
 			"item": [
 				"MazeEval: arxiv.org/pdf/2507.20395"

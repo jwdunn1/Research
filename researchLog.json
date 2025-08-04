@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-08-03",
+			"item": [
+				"MapAgent: arxiv.org/pdf/2507.21953"
+			]
+		},
+		{
 			"date": "2025-08-02",
 			"item": [
 				"llm planning: arxiv.org/pdf/2507.23589"

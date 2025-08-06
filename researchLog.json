@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-08-04",
+			"item": [
+				"self-questioning llm: arxiv.org/pdf/2508.03682"
+			]
+		},
+		{
 			"date": "2025-08-03",
 			"item": [
 				"MapAgent: arxiv.org/pdf/2507.21953"

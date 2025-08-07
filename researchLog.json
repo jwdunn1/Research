@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-08-06",
+			"item": [
+				"prompt engineering survey: arxiv.org/pdf/2406.06608"
+			]
+		},
+		{
 			"date": "2025-08-05",
 			"item": [
 				"gpt-oss playground: gpt-oss.com"

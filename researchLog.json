@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-08-07",
+			"item": [
+				"state of software dev: survey.stackoverflow.co/2025"
+			]
+		},
+		{
 			"date": "2025-08-06",
 			"item": [
 				"prompt engineering survey: arxiv.org/pdf/2406.06608"

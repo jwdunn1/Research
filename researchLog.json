@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-08-25",
+			"item": [
+				"reference: ntrs.nasa.gov/api/citations/19830018943/downloads/19830018943.pdf"
+			]
+		},
+		{
 			"date": "2025-08-23",
 			"item": [
 				"rolling-element bearing: openprocessing.org/sketch/2704470"

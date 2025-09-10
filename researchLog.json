@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2025-09-09",
+			"item": [
+				"VLM: arxiv.org/pdf/2509.05718",
+				"ChartReasoner: arxiv.org/pdf/2509.04457"
+			]
+		},
+		{
 			"date": "2025-09-08",
 			"item": [
 				"cs2 issue: forum.paradoxplaza.com/forum/threads/frequent-crashes-on-intel-265k-possible-core-affinity-thread-scheduling-issue.1858365"

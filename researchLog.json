@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-09-18",
+			"item": [
+				"shutdown resistance: arxiv.org/pdf/2509.14260"
+			]
+		},
+		{
 			"date": "2025-09-17",
 			"item": [
 				"why language models hallucinate: arxiv.org/pdf/2509.04664"

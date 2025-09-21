@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-09-20",
+			"item": [
+				"systems design: medium.com/microsoft-design/designing-loops-not-paths-591b7689227f"
+			]
+		},
+		{
 			"date": "2025-09-19",
 			"item": [
 				"visualization agents: arxiv.org/pdf/2509.15160"

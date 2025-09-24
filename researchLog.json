@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2025-09-23",
+			"item": [
+				"EASE paper: arxiv.org/pdf/2509.18108",
+				"EASE repo: github.com/TBU-AILab/EASE"
+			]
+		},
+		{
 			"date": "2025-09-22",
 			"item": [
 				"predictive optimization: arxiv.org/pdf/2509.16207"

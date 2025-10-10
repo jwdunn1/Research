@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-10-09",
+			"item": [
+				"zero-shot llm reasoners: 2205.11916v4.pdf"
+			]
+		},
+		{
 			"date": "2025-10-08",
 			"item": [
 				"city policy sim: kci.go.kr/kciportal/landing/article.kci?arti_id=ART003249156"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-10-10",
+			"item": [
+				"encode, think, decode: arxiv.org/pdf/2510.07358"
+			]
+		},
+		{
 			"date": "2025-10-09",
 			"item": [
 				"zero-shot llm reasoners: 2205.11916v4.pdf"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-10-11",
+			"item": [
+				"algorithmic game theory: cs.cmu.edu/~sandholm/cs15-892F13/algorithmic-game-theory.pdf"
+			]
+		},
+		{
 			"date": "2025-10-10",
 			"item": [
 				"encode, think, decode: arxiv.org/pdf/2510.07358"

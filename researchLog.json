@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-10-26",
+			"item": [
+				"evolution simulator: labs.minutelabs.io/evolution-simulator"
+			]
+		},
+		{
 			"date": "2025-10-25",
 			"item": [
 				"supply chain simulation: dl.acm.org/doi/pdf/10.1145/324898.325041"

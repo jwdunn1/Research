@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2025-10-29",
+			"item": [
+				"hanging chain: arxiv.org/pdf/1810.13008v1",
+				"video demo: youtu.be/3pY4BLpLtW4"
+			]
+		},
+		{
 			"date": "2025-10-28",
 			"item": [
 				"chain fountain simulator: mattpalermo.github.io/chain-fountain-simulator"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-11-09",
+			"item": [
+				"Simulation of Urban MObility: eclipse.dev/sumo"
+			]
+		},
+		{
 			"date": "2025-11-08",
 			"item": [
 				"MazeMate: arxiv.org/pdf/2511.03727"

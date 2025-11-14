@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2025-11-13",
+			"item": [
+				"WaveRoll: arxiv.org/pdf/2511.09562",
+				"source and demo: github.com/crescent-stdio/wave-roll"
+			]
+		},
+		{
 			"date": "2025-11-12",
 			"item": [
 				"collective Turing test: arxiv.org/pdf/2511.08592"

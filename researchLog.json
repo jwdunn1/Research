@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2025-12-02",
+			"item": [
+				"deep research: arxiv.org/pdf/2512.02038"
+			]
+		},
+		{
 			"date": "2025-12-01",
 			"item": [
 				"LLM determinism: arxiv.org/pdf/2408.04667v5",

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-01-04",
+			"item": [
+				"glass mesh: cs2.paradoxwikis.com/Asset_Pipeline:_Buildings#Glass_Sub_Mesh"
+			]
+		},
+		{
 			"date": "2026-01-03",
 			"item": [
 				"pathfinding mod: mods.paradoxplaza.com/mods/78627/Windows"

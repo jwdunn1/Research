@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-01-05",
+			"item": [
+				"common asset principles: cs2.paradoxwikis.com/Assets:_Common_Asset_Principles"
+			]
+		},
+		{
 			"date": "2026-01-04",
 			"item": [
 				"glass mesh: cs2.paradoxwikis.com/Asset_Pipeline:_Buildings#Glass_Sub_Mesh"

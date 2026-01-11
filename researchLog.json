@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2026-01-09",
+			"item": [
+				"AnimatedLLM: arxiv.org/pdf/2601.04213",
+				"demo: animatedllm.github.io"
+			]
+		},
+		{
 			"date": "2026-01-08",
 			"item": [
 				"asset operation: youtube.com/watch?v=ekJRlHxUrCY"

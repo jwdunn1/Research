@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-01-12",
+			"item": [
+				"CrossTrafficLLM: arxiv.org/pdf/2601.06042"
+			]
+		},
+		{
 			"date": "2026-01-11",
 			"item": [
 				"pedestrian network: doi.org/10.1016/j.urbmob.2023.100051"

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2026-01-15",
+			"item": [
+				"FBX export: docs.blender.org/manual/en/latest/addons/import_export/scene_fbx.html#bpy-ops-export-scene-fbx",
+				"Filmbox: en.wikipedia.org/wiki/FBX"
+			]
+		},
+		{
 			"date": "2026-01-14",
 			"item": [
 				"textures: polyhaven.com"

@@ -1,6 +1,14 @@
 {
 	"entry": [
 		{
+			"date": "2026-02-21",
+			"item": [
+				"sequential rule discovery: arxiv.org/pdf/2602.16717",
+				"overview: data-mining.philippe-fournier-viger.com/introduction-to-sequential-rule-mining",
+				"meta path-based similarity: web.cs.ucla.edu/~yzsun/papers/vldb11_topKSim.pdf"
+			]
+		},
+		{
 			"date": "2026-02-20",
 			"item": [
 				"infrastructure damage visualization: arxiv.org/pdf/2602.16713"

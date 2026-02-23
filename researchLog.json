@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-02-22",
+			"item": [
+				"mining sequential rules: philippe-fournier-viger.com/spmf/TopSeqRules_sequential_rules_2.pdf"
+			]
+		},
+		{
 			"date": "2026-02-21",
 			"item": [
 				"sequential rule discovery: arxiv.org/pdf/2602.16717",

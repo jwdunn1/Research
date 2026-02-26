@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2026-02-25",
+			"item": [
+				"disaster question answering: arxiv.org/pdf/2602.21212",
+				"associated repository: github.com/tk-yasuno/disaster-question-answer"
+			]
+		},
+		{
 			"date": "2026-02-24",
 			"item": [
 				"Playsemble: arxiv.org/pdf/2602.20167"

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2026-02-26",
+			"item": [
+				"traffic prediction: arxiv.org/pdf/2602.21232",
+				"associated repository: github.com/suminhan/wka-net"
+			]
+		},
+		{
 			"date": "2026-02-25",
 			"item": [
 				"disaster question answering: arxiv.org/pdf/2602.21212",

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-02-27",
+			"item": [
+				"road network extraction: arxiv.org/pdf/2602.23290"
+			]
+		},
+		{
 			"date": "2026-02-26",
 			"item": [
 				"traffic prediction: arxiv.org/pdf/2602.21232",

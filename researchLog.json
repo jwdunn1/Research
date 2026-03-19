@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-03-18",
+			"item": [
+				"nautical chart: map.openseamap.org"
+			]
+		},
+		{
 			"date": "2026-03-17",
 			"item": [
 				"city-scale world model: arxiv.org/pdf/2603.15583",

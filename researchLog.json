@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-04-09",
+			"item": [
+				"interactive map: fergusq.github.io/osm-cs2-maps/magnolia"
+			]
+		},
+		{
 			"date": "2026-04-06",
 			"item": [
 				"agentic diagram design tool: github.com/Hendrixer/ai-engineering-fundamentals"

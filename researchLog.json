@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-04-10",
+			"item": [
+				"mod manager: github.com/JadHajjar/Skyve"
+			]
+		},
+		{
 			"date": "2026-04-09",
 			"item": [
 				"interactive map: fergusq.github.io/osm-cs2-maps/magnolia"

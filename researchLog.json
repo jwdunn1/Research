@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-04-12",
+			"item": [
+				"animator: docs.unity3d.com/2022.3/Documentation/Manual/class-Animator.html"
+			]
+		},
+		{
 			"date": "2026-04-10",
 			"item": [
 				"mod manager: github.com/JadHajjar/Skyve"

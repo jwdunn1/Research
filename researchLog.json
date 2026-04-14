@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-04-13",
+			"item": [
+				"loop issue: stevekinney.com/courses/self-testing-ai-agents"
+			]
+		},
+		{
 			"date": "2026-04-12",
 			"item": [
 				"animator: docs.unity3d.com/2022.3/Documentation/Manual/class-Animator.html"

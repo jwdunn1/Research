@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-04-21",
+			"item": [
+				"Earth_Day: en.wikipedia.org/wiki/Earth_Day"
+			]
+		},
+		{
 			"date": "2026-04-20",
 			"item": [
 				"html in canvas: frontendmasters.com/blog/the-web-is-fun-again-first-experiments-with-html-in-canvas"

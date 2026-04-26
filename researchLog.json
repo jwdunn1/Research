@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-04-25",
+			"item": [
+				"0-6-2 locomotive: en.wikipedia.org/wiki/GNR_Class_N2"
+			]
+		},
+		{
 			"date": "2026-04-23",
 			"item": [
 				"AtomicRAG: arxiv.org/pdf/2604.20844"

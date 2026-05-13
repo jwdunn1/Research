@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-05-11",
+			"item": [
+				"composing music: grain by grain"
+			]
+		},
+		{
 			"date": "2026-05-10",
 			"item": [
 				"AI-generated music detection: arxiv.org/pdf/2602.06823"

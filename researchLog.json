@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-05-28",
+			"item": [
+				"concept probes in LLMs: arxiv.org/pdf/2605.28823"
+			]
+		},
+		{
 			"date": "2026-05-26",
 			"item": [
 				"boundary of inference: arxiv.org/pdf/2605.27381"

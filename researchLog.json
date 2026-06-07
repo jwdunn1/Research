@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-06-06",
+			"item": [
+				"self-revising AI discovery systems: arxiv.org/pdf/2606.01444"
+			]
+		},
+		{
 			"date": "2026-06-05",
 			"item": [
 				"open multimodal model: lmstudio.ai/models/google/gemma-4-31b-qat"

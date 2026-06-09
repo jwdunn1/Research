@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-06-08",
+			"item": [
+				"llm sleep: arxiv.org/pdf/2605.26099"
+			]
+		},
+		{
 			"date": "2026-06-07",
 			"item": [
 				"generative AI foundations: arxiv.org/pdf/2605.29713"

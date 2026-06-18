@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-06-17",
+			"item": [
+				"game theory intro: nordstrommath.com/IGT2ndEd.pdf"
+			]
+		},
+		{
 			"date": "2026-06-15",
 			"item": [
 				"machine understanding: doi.org/10.1016/j.tics.2026.04.003"

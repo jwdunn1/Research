@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-06-25",
+			"item": [
+				"LLM bias: nature.com/articles/s44387-025-00048-0"
+			]
+		},
+		{
 			"date": "2026-06-23",
 			"item": [
 				"misconceptions of programming: dl.acm.org/doi/epdf/10.1145/1734263.1734299"

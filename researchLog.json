@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2026-07-13",
+			"item": [
+				"css grid: css-tricks.com/wp-content/uploads/2022/02/css-grid-poster.png",
+				"css flexbox: css-tricks.com/wp-content/uploads/2022/02/css-flexbox-poster.png"
+			]
+		},
+		{
 			"date": "2026-07-12",
 			"item": [
 				"class A4 data: lner.info/locos/A/a4.php"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-07-30",
+			"item": [
+				"floating point issue: discussions.unity.com/t/floating-point-precision/632399"
+			]
+		},
+		{
 			"date": "2026-07-29",
 			"item": [
 				"accelerating scientific discovery: arxiv.org/pdf/2409.04109"

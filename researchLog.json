@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-08-13",
+			"item": [
+				"IntegrityBench: arxiv.org/pdf/2608.12345"
+			]
+		},
+		{
 			"date": "2026-08-12",
 			"item": [
 				"game theory notes: tamuz.caltech.edu/teaching/ps172/lectures.pdf"

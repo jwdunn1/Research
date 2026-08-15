@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2026-08-14",
+			"item": [
+				"research paper generation: arxiv.org/pdf/2608.11924",
+				"Spark-to-Paper: github.com/Spark-To-Paper-Skills/spark-to-paper-skills"
+			]
+		},
+		{
 			"date": "2026-08-13",
 			"item": [
 				"IntegrityBench: arxiv.org/pdf/2608.12345"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-09-06",
+			"item": [
+				"disproof: openai.com/index/model-disproves-discrete-geometry-conjecture"
+			]
+		},
+		{
 			"date": "2026-09-05",
 			"item": [
 				"Reflect-SQL: arxiv.org/pdf/2609.02944"

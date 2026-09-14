@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-09-12",
+			"item": [
+				"autonomous orchestration: arxiv.org/pdf/2609.10542"
+			]
+		},
+		{
 			"date": "2026-09-11",
 			"item": [
 				"agent to city bridge: github.com/FTPAiYT/cities2-agent-bridge-ndc"

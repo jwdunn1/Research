@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-09-13",
+			"item": [
+				"principles of robot autonomy: arxiv.org/pdf/2608.03496"
+			]
+		},
+		{
 			"date": "2026-09-12",
 			"item": [
 				"autonomous orchestration: arxiv.org/pdf/2609.10542"

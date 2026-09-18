@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-09-17",
+			"item": [
+				"verifiable simulation engine: arxiv.org/pdf/2510.04542"
+			]
+		},
+		{
 			"date": "2026-09-16",
 			"item": [
 				"SimWorlds: arxiv.org/pdf/2607.01766"

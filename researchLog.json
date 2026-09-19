@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-09-18",
+			"item": [
+				"inference engine fingerprinting: arxiv.org/pdf/2609.20614"
+			]
+		},
+		{
 			"date": "2026-09-17",
 			"item": [
 				"LLMs and scientific discovery: arxiv.org/pdf/2512.15567"

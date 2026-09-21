@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2026-09-20",
+			"item": [
+				"model context protocol: modelcontextprotocol.io",
+				"urban logistics via mcp: arxiv.org/pdf/2506.13068"
+			]
+		},
+		{
 			"date": "2026-09-18",
 			"item": [
 				"inference engine fingerprinting: arxiv.org/pdf/2609.20614"

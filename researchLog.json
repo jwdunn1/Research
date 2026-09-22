@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-09-21",
+			"item": [
+				"AI in science: ai.google/static/documents/AI-in-Science.pdf"
+			]
+		},
+		{
 			"date": "2026-09-20",
 			"item": [
 				"model context protocol: modelcontextprotocol.io",

@@ -1,6 +1,13 @@
 {
 	"entry": [
 		{
+			"date": "2026-10-06",
+			"item": [
+				"LayerIt: arxiv.org/pdf/2610.03428",
+				"repo: github.com/FernandoAze/LayerIt"
+			]
+		},
+		{
 			"date": "2026-10-04",
 			"item": [
 				"transferability: arxiv.org/pdf/2507.18449"

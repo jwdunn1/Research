@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-10-21",
+			"item": [
+				"limiter: audacityteam.org/manual/effects/volume-and-compression/limiter"
+			]
+		},
+		{
 			"date": "2026-10-20",
 			"item": [
 				"TheoPhysEval: arxiv.org/pdf/2610.16733"

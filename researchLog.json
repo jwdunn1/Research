@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-10-23",
+			"item": [
+				"proportional AI detection via regression: arxiv.org/pdf/2608.07285"
+			]
+		},
+		{
 			"date": "2026-10-22",
 			"item": [
 				"swap channels: sourceforge.net/projects/equalizerapo"

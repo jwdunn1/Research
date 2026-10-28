@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-10-27",
+			"item": [
+				"reinforcement learning from human feedback: arxiv.org/pdf/2505.09576"
+			]
+		},
+		{
 			"date": "2026-10-26",
 			"item": [
 				"agent simulation: arxiv.org/pdf/2610.32988"

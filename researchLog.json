@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-11-02",
+			"item": [
+				"artistic\tsurrender: arxiv.org/pdf/2611.00001"
+			]
+		},
+		{
 			"date": "2026-11-01",
 			"item": [
 				"next value calc: binarycon.com/tools/floating-point-ulp-next-value-calculator"

@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-11-09",
+			"item": [
+				"wav file format: ccrma.stanford.edu/courses/422-winter-2014/projects/WaveFormat"
+			]
+		},
+		{
 			"date": "2026-11-08",
 			"item": [
 				"scientific understanding: arxiv.org/pdf/2610.36116v2"

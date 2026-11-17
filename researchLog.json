@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-11-15",
+			"item": [
+				"BrickFlow: arxiv.org/pdf/2611.17321"
+			]
+		},
+		{
 			"date": "2026-11-14",
 			"item": [
 				"AlphaProof Code: deepmind.google/documents/36/Formal_Verification_of_Signal_4.pdf"

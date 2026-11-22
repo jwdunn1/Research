@@ -1,6 +1,12 @@
 {
 	"entry": [
 		{
+			"date": "2026-11-20",
+			"item": [
+				"segmented clock: openprocessing.org/@intrinsic/3068910"
+			]
+		},
+		{
 			"date": "2026-11-19",
 			"item": [
 				"learned invariance: proceedings.neurips.cc/paper_files/paper/2021/file/a2fe8c05877ec786290dd1450c3385cd-Paper.pdf",
